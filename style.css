@@ -142,3 +142,7 @@ footer a {
 .nav-dot.active {
   background: #ff7043;
 }
+
+#hidden-list {
+  display: none; /* Completely hides the list from view */
+}
