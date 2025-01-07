@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Namah App: Your destination for devotional prayers, chalisas, and aartis. Explore spiritual content and enrich your daily life."
+    />
+    <title>Namah App</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>Namah App</h1>
+        <nav>
+          <ul>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section id="hero">
+      <div class="slider">
+        <div class="slides">
+          <!-- Slide 1 -->
+          <div
+            class="slide"
+            style="
+              background: url('https://i.pinimg.com/originals/09/31/2a/09312a02674700be1aeef5a2b85862bb.jpg')
+                no-repeat center center/cover;
+            "
+          >
+            <div class="container">
+              <h2>Your Spiritual Companion</h2>
+              <p>
+                Discover a collection of prayers, chalisas, and aartis at your
+                fingertips.
+              </p>
+              <a href="#download" class="btn">Download the App</a>
+            </div>
+          </div>
+          <!-- Slide 2 -->
+          <div
+            class="slide"
+            style="
+              background: url('https://i.ytimg.com/vi/UWuat2CvC-Q/maxresdefault.jpg')
+                no-repeat center center/cover;
+            "
+          >
+            <div class="container">
+              <h2>Connect Spiritually</h2>
+              <p>Experience the joy of devotion anytime, anywhere.</p>
+              <a href="#download" class="btn">Download the App</a>
+            </div>
+          </div>
+          <!-- Slide 3 -->
+          <div
+            class="slide"
+            style="background: url('slide3.jpg') no-repeat center center/cover"
+          >
+            <div class="container">
+              <h2>Stay Blessed</h2>
+              <p>Listen, read, and follow devotional practices seamlessly.</p>
+              <a href="#download" class="btn">Download the App</a>
+            </div>
+          </div>
+        </div>
+        <div class="navigation">
+          <span class="nav-dot" onclick="currentSlide(1)"></span>
+          <span class="nav-dot" onclick="currentSlide(2)"></span>
+          <span class="nav-dot" onclick="currentSlide(3)"></span>
+        </div>
+      </div>
+    </section>
+
+    <section id="features">
+      <div class="container">
+        <h2>Features</h2>
+        <div class="features-list">
+          <div class="feature-item">
+            <h3>Extensive Prayer Collection</h3>
+            <p>Access a wide variety of chalisas, aartis, and more.</p>
+          </div>
+          <div class="feature-item">
+            <h3>Audio & Video Support</h3>
+            <p>Listen to and watch devotional content directly in the app.</p>
+          </div>
+          <div class="feature-item">
+            <h3>Personalized Experience</h3>
+            <p>Create your own prayer schedule and favorites list.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about">
+      <div class="container">
+        <h2>About Namah App</h2>
+        <p>
+          Namah App is designed to bring devotion and spirituality closer to
+          you. Whether you want to recite a chalisa, sing an aarti, or watch
+          devotional videos, Namah App is your all-in-one solution.
+        </p>
+      </div>
+    </section>
+
+    <section id="download">
+      <div class="container">
+        <h2>Download Namah App</h2>
+        <p>Available soon on your favorite app stores. Stay tuned!</p>
+        <div class="store-buttons">
+          <a
+            href="https://play.google.com/store/apps/details?id=com.vstech.vire.namah"
+          >
+            <img src="play_store.webp" alt="Google Play Store" />
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2025 Namah App. All rights reserved.</p>
+        <ul class="social-links">
+          <li><a href="#">Facebook</a></li>
+          <li><a href="#">Twitter</a></li>
+          <li><a href="#">Instagram</a></li>
+        </ul>
+      </div>
+    </footer>
+    <script>
+      let currentIndex = 0;
+      const slides = document.querySelector(".slides");
+      const dots = document.querySelectorAll(".nav-dot");
+
+      function currentSlide(index) {
+        currentIndex = index - 1;
+        updateSlider();
+      }
+
+      function updateSlider() {
+        slides.style.transform = `translateX(-${currentIndex * 100}%)`;
+        dots.forEach((dot, i) => {
+          dot.classList.toggle("active", i === currentIndex);
+        });
+      }
+
+      setInterval(() => {
+        currentIndex = (currentIndex + 1) % 3;
+        updateSlider();
+      }, 5000);
+    </script>
+  </body>
+</html>
