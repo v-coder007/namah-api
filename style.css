@@ -37,10 +37,11 @@ header nav a {
   text-decoration: none;
   font-weight: 500;
 }
+.carousel-inner > .carousel-item > img {
+  height: 675px;
+}
 
 #hero {
-  background: url("hero-bg.jpg") no-repeat center center/cover;
-  color: white;
   text-align: center;
   padding: 5rem 1rem;
 }
@@ -62,15 +63,6 @@ header nav a {
   text-decoration: none;
   border-radius: 5px;
   font-weight: 500;
-}
-
-section {
-  padding: 3rem 1rem;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 #features .features-list {

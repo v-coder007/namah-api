@@ -9,16 +9,33 @@
     />
     <title>Namah App</title>
     <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./style.css" />
     <script src="./script.js" defer></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
     <header>
       <div class="container">
-        <h1>Namah App</h1>
+        <h1>
+            <img
+                src="./icon-ready.png"
+                alt="Namah App"
+                height="80px"
+            />
+        </h1>
         <nav>
           <ul>
             <li><a href="#features">Features</a></li>
@@ -29,59 +46,83 @@
       </div>
     </header>
     <section id="hero">
-      <div class="slider">
-        <div class="slides">
-          <!-- Slide 1 -->
-          <div
-            class="slide"
-            style="
-              background: url('https://i.pinimg.com/originals/09/31/2a/09312a02674700be1aeef5a2b85862bb.jpg')
-                no-repeat center center/cover;
-            "
-          >
-            <div class="container">
-              <h2>Your Spiritual Companion</h2>
-              <p>
-                Discover a collection of prayers, chalisas, and aartis at your
-                fingertips.
-              </p>
-              <a href="#download" class="btn">Download the App</a>
-            </div>
+        <div class="container">
+            <h1>Devotion at Your Fingertips</h1>
+            <p>
+            Namah App is your destination for devotional prayers, chalisas, and
+            aartis. Explore spiritual content and enrich your daily life.
+            </p>
+            <a href="#download" class="cta">Download Now</a>
+      <div
+        id="carouselExampleIndicators"
+        class="carousel slide"
+        data-bs-ride="carousel"
+      >
+        <div class="carousel-indicators">
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="0"
+            class="active"
+            aria-current="true"
+            aria-label="Slide 1"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="1"
+            aria-label="Slide 2"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="2"
+            aria-label="Slide 3"
+          ></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img
+              src="https://volzero.com/img/news/88041_banner.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
           </div>
-          <!-- Slide 2 -->
-          <div
-            class="slide"
-            style="
-              background: url('https://i.ytimg.com/vi/UWuat2CvC-Q/maxresdefault.jpg')
-                no-repeat center center/cover;
-            "
-          >
-            <div class="container">
-              <h2>Connect Spiritually</h2>
-              <p>Experience the joy of devotion anytime, anywhere.</p>
-              <a href="#download" class="btn">Download the App</a>
-            </div>
+          <div class="carousel-item">
+            <img
+              src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202406/666a8e41e774b-jagannath-puri-temple-image-source--shree-jagannatha-temple-office-131424516-16x9.jpg?size=1200:675"
+              class="d-block w-100"
+              alt="..."
+            />
           </div>
-          <!-- Slide 3 -->
-          <div
-            class="slide"
-            style="background: url('slide3.jpg') no-repeat center center/cover"
-          >
-            <div class="container">
-              <h2>Stay Blessed</h2>
-              <p>Listen, read, and follow devotional practices seamlessly.</p>
-              <a href="#download" class="btn">Download the App</a>
-            </div>
+          <div class="carousel-item">
+            <img
+              src="https://static.theprint.in/wp-content/uploads/2020/07/ttemple.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
           </div>
         </div>
-        <div class="navigation">
-          <span class="nav-dot" onclick="currentSlide(1)"></span>
-          <span class="nav-dot" onclick="currentSlide(2)"></span>
-          <span class="nav-dot" onclick="currentSlide(3)"></span>
-        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
       </div>
     </section>
-
     <section id="features">
       <div class="container">
         <h2>Features</h2>
