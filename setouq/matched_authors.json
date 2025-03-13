@@ -1,0 +1,1390 @@
+[
+    {
+        "author": "Friedrich Nietzsche",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651474065i/1938._UX200_CR0,35,200,200_.jpg"
+    },
+    {
+        "author": "Jane Austen",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651510251i/1265._UX200_CR0,4,200,200_.jpg"
+    },
+    {
+        "author": "Jon Krakauer",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1430856379i/1235._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "Charlotte Brontë",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1335001351i/1036615._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Elizabeth Gilbert",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1440718929i/11679._UX200_CR0,53,200,200_.jpg"
+    },
+    {
+        "author": "Khaled Hosseini",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1359753468i/569._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Oscar Wilde",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1673611182i/3565._UX200_CR0,15,200,200_.jpg"
+    },
+    {
+        "author": "P.G. Wodehouse",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1198684105i/7963._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Katharine Hepburn",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1332828172i/84099._UX200_CR0,15,200,200_.jpg"
+    },
+    {
+        "author": "Steve Maraboli",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1574364064i/4491185._UY200_CR10,0,200,200_.jpg"
+    },
+    {
+        "author": "Audrey Hepburn",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1362614211i/692403._UY200_CR25,0,200,200_.jpg"
+    },
+    {
+        "author": "Diana Gabaldon",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1670465511i/3617._UX200_CR0,49,200,200_.jpg"
+    },
+    {
+        "author": "Margaret Atwood",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1282859073i/3472._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Mae West",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1738043431i/259666._UX200_CR0,23,200,200_.jpg"
+    },
+    {
+        "author": "Socrates",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1390145726i/275648._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Groucho Marx",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1198590177i/43244._UX200_CR0,28,200,200_.jpg"
+    },
+    {
+        "author": "William Shakespeare",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1654446514i/947._UY200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "William Goldman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1198704782i/12521.jpg"
+    },
+    {
+        "author": "Agatha Christie",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1589991473i/123715._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "Rainbow Rowell",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1728591706i/4208569._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Gabriel García Márquez",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1588856705i/13450._UX200_CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Robert Frost",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1605640483i/7715._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Laini Taylor",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1224474224i/324620._UX200_CR0,27,200,200_.jpg"
+    },
+    {
+        "author": "L.M. Montgomery",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1188896723i/5350._UX200_CR0,56,200,200_.jpg"
+    },
+    {
+        "author": "George Carlin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1664917557i/22782._UY200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Rodney Dangerfield",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1208829061i/78470._UX200_CR0,34,200,200_.jpg"
+    },
+    {
+        "author": "Nora Ephron",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1366180104i/5691._UY200_CR77,0,200,200_.jpg"
+    },
+    {
+        "author": "Anne Lamott",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1489601640i/7113._UX200_CR0,77,200,200_.jpg"
+    },
+    {
+        "author": "Suzanne Collins",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1630199330i/153394._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Nora Roberts",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1505847251i/625._UX200_CR0,2,200,200_.jpg"
+    },
+    {
+        "author": "John Steinbeck",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1182118389i/585._UX200_CR0,19,200,200_.jpg"
+    },
+    {
+        "author": "Daphne du Maurier",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1422444467i/2001717._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Jeffrey Eugenides",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1374107943i/1467._UY200_CR49,0,200,200_.jpg"
+    },
+    {
+        "author": "Michel de Montaigne",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1649904459i/17241._UX200_CR0,36,200,200_.jpg"
+    },
+    {
+        "author": "Kahlil Gibran",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1353732571i/6466154._UX200_CR0,87,200,200_.jpg"
+    },
+    {
+        "author": "Honore de Balzac",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1206567834i/228089._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "W. Somerset Maugham",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1414096390i/4176632._UX200_CR0,26,200,200_.jpg"
+    },
+    {
+        "author": "Dodie Smith",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1541460426i/6208._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Henry Wadsworth Longfellow",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1211861766i/2697._CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Carl Sagan",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1475953320i/10538._UX200_CR0,36,200,200_.jpg"
+    },
+    {
+        "author": "Stephenie Meyer",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1596739281i/941441._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Arthur Schopenhauer",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651440776i/11682._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "G.K. Chesterton",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1365860649i/7014283._UX200_CR0,19,200,200_.jpg"
+    },
+    {
+        "author": "Robert A. Heinlein",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1192826560i/205._UX200_CR0,37,200,200_.jpg"
+    },
+    {
+        "author": "Elizabeth Peters",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1232144920i/16549._UX200_CR0,27,200,200_.jpg"
+    },
+    {
+        "author": "Benjamin Franklin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1215314094i/289513._UX200_CR0,54,200,200_.jpg"
+    },
+    {
+        "author": "Colette",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1676070264i/51575._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Cassandra Clare",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1689347318i/150038._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Nicholas Sparks",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1709219853i/2345._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Nathaniel Hawthorne",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1291476587i/7799._UX200_CR0,29,200,200_.jpg"
+    },
+    {
+        "author": "Winston S. Churchill",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1306133803i/14033._UX200_CR0,21,200,200_.jpg"
+    },
+    {
+        "author": "George Bernard Shaw",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1271683549i/5217._UX200_CR0,53,200,200_.jpg"
+    },
+    {
+        "author": "Taylor Jenkins Reid",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1645653842i/6572605._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Richelle Mead",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1270374609i/137902._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Charles Dickens",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1387078070i/239579._UX200_CR0,46,200,200_.jpg"
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1356810912i/5810891._UX200_CR0,21,200,200_.jpg"
+    },
+    {
+        "author": "Charlotte Bronte",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1335001351i/1036615._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Madeleine L'Engle",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1305256804i/106._UX200_CR0,37,200,200_.jpg"
+    },
+    {
+        "author": "Jodi Picoult",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1657141143i/7128._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Jess C. Scott",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1603737393i/2980674._UY200_CR1,0,200,200_.jpg"
+    },
+    {
+        "author": "Erica Jong",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1286537368i/6085._UX200_CR0,45,200,200_.jpg"
+    },
+    {
+        "author": "Voltaire",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1393683411i/5754446._UX200_CR0,12,200,200_.jpg"
+    },
+    {
+        "author": "Terry Pratchett",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1235562205i/1654._UX200_CR0,38,200,200_.jpg"
+    },
+    {
+        "author": "William Makepeace Thackeray",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1204650429i/3953.jpg"
+    },
+    {
+        "author": "Johann Wolfgang von Goethe",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1532614109i/285217._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Billy Sunday",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1251485051i/2319780._UX200_CR0,29,200,200_.jpg"
+    },
+    {
+        "author": "Neil Gaiman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1234150163i/1221698._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Gustave Flaubert",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651461896i/1461._UX200_CR0,10,200,200_.jpg"
+    },
+    {
+        "author": "H.L. Mencken",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1399814051i/7805._UX200_CR0,37,200,200_.jpg"
+    },
+    {
+        "author": "Joseph Campbell",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1429114498i/20105._UX200_CR0,29,200,200_.jpg"
+    },
+    {
+        "author": "Leo Tolstoy",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651443031i/128382._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Rita Mae Brown",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1209493600i/23511._UX200_CR0,28,200,200_.jpg"
+    },
+    {
+        "author": "Sherrilyn Kenyon",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1547439330i/4430._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Heinrich Heine",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651188904i/16071._UX200_CR0,26,200,200_.jpg"
+    },
+    {
+        "author": "Margaret Mitchell",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1185481392i/11081._UY200_CR48,0,200,200_.jpg"
+    },
+    {
+        "author": "Sylvia Plath",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1613135175i/4379._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "William Faulkner",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615562983i/3535._UX200_CR0,23,200,200_.jpg"
+    },
+    {
+        "author": "Milan Kundera",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1729099820i/6343._UX200_CR0,6,200,200_.jpg"
+    },
+    {
+        "author": "Virginia Woolf",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1419596619i/6765._UX200_CR0,36,200,200_.jpg"
+    },
+    {
+        "author": "George Eliot",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1596202587i/173._UX200_CR0,2,200,200_.jpg"
+    },
+    {
+        "author": "Louis L'Amour",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1343675199i/858._UY200_CR20,0,200,200_.jpg"
+    },
+    {
+        "author": "Erin Morgenstern",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1552589582i/4370565._UX200_CR0,37,200,200_.jpg"
+    },
+    {
+        "author": "Henry James",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1693104678i/159._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "Isaac Asimov",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1341965730i/16667._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Ian Fleming",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1364532740i/2565._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Kurt Vonnegut",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1433582280i/2778055._UX200_CR0,51,200,200_.jpg"
+    },
+    {
+        "author": "Phyllis McGinley",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1363243791i/62056._UX200_CR0,9,200,200_.jpg"
+    },
+    {
+        "author": "Edith Wharton",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1484512230i/16._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Anne Sexton",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1525637942i/26814._UX200_CR0,23,200,200_.jpg"
+    },
+    {
+        "author": "Miguel de Cervantes Saavedra",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651440624i/4037220._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Joseph Heller",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1197308614i/3167._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Robert Louis Stevenson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1192746024i/854076._UX200_CR0,34,200,200_.jpg"
+    },
+    {
+        "author": "Victor Hugo",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1415946858i/13661._UX200_CR0,20,200,200_.jpg"
+    },
+    {
+        "author": "Stephen King",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1362814142i/3389._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Jennifer Egan",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1676045682i/49625._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Mitch Albom",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1694790016i/2331._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Euripides",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1195014632i/973._UX200_CR0,58,200,200_.jpg"
+    },
+    {
+        "author": "Julian Barnes",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1606567988i/1462._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Anna Quindlen",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1387414577i/3500._UX200_CR0,22,200,200_.jpg"
+    },
+    {
+        "author": "Colleen Hoover",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1464032240i/5430144._UY200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Kiera Cass",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1318605410i/2987125._UX200_CR0,8,200,200_.jpg"
+    },
+    {
+        "author": "F. Scott Fitzgerald",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1517864008i/3190._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Isabel Allende",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1341879973i/2238._UX200_CR0,51,200,200_.jpg"
+    },
+    {
+        "author": "Peter S. Beagle",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1360970921i/1067608._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Alexandre Dumas",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1279049943i/4785._UX200_CR0,29,200,200_.jpg"
+    },
+    {
+        "author": "Patricia Highsmith",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1418715271i/7622._UX200_CR0,28,200,200_.jpg"
+    },
+    {
+        "author": "Louisa May Alcott",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1200326665i/1315._CR0,46,200,200_.jpg"
+    },
+    {
+        "author": "Sarah Dessen",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1372181953i/2987._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Albert Camus",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1686463588i/957894._UY200_CR46,0,200,200_.jpg"
+    },
+    {
+        "author": "Brandon Sanderson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1721927489i/38550._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Zelda Fitzgerald",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1427041106i/28243._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Abraham Lincoln",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1198518158i/229._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Amy Tan",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1697877561i/5246._UX200_CR0,58,200,200_.jpg"
+    },
+    {
+        "author": "Roald Dahl",
+        "img": "https://images.gr-assets.com/quotes/1368665403p2/174690.jpg"
+    },
+    {
+        "author": "Annie Dillard",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1551806922i/5209._UX200_CR0,34,200,200_.jpg"
+    },
+    {
+        "author": "Saul Bellow",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1470607356i/4391._UX200_CR0,28,200,200_.jpg"
+    },
+    {
+        "author": "Honoré de Balzac",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1206567834i/228089._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Lauren Oliver",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1416335442i/2936493._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "Pat Conroy",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1342711176i/6942._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Katherine Anne Porter",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1245828857i/74572._UX200_CR0,5,200,200_.jpg"
+    },
+    {
+        "author": "Henry Miller",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1511445828i/147._UY200_CR77,0,200,200_.jpg"
+    },
+    {
+        "author": "Alice Walker",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1734465089i/7380._UX200_CR0,49,200,200_.jpg"
+    },
+    {
+        "author": "George R.R. Martin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1649011787i/346732._UX200_CR0,27,200,200_.jpg"
+    },
+    {
+        "author": "Emily Brontë",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1529578586i/4191._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Anthony Powell",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1331081008i/9947._UX200_CR0,27,200,200_.jpg"
+    },
+    {
+        "author": "Joseph Conrad",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1403814208i/3345._UX200_CR0,35,200,200_.jpg"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1648968349i/656983._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "St. Augustine",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1404280110i/6819578._UX200_CR0,55,200,200_.jpg"
+    },
+    {
+        "author": "Lao Tzu",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1435903703i/2622245._UX200_CR0,13,200,200_.jpg"
+    },
+    {
+        "author": "Anita Desai",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1296816073i/8841._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Ursula K. Le Guin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1244291425i/874602._UX200_CR0,21,200,200_.jpg"
+    },
+    {
+        "author": "Marcel Proust",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1649882562i/233619._UX200_CR0,32,200,200_.jpg"
+    },
+    {
+        "author": "Rumi Jalalud-Din",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1217355543i/875661._UX200_CR0,29,200,200_.jpg"
+    },
+    {
+        "author": "David Mitchell",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1409248688i/6538289._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Mark Twain",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1322103868i/1244._UX200_CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Ralph Waldo Emerson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1393555704i/12080._UX200_CR0,34,200,200_.jpg"
+    },
+    {
+        "author": "Hans Christian Andersen",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1434625240i/6378._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "E.E. Cummings",
+        "img": "https://images.gr-assets.com/quotes/1394570348p2/806.jpg"
+    },
+    {
+        "author": "Douglas Adams",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1616277702i/4._UX200_CR0,15,200,200_.jpg"
+    },
+    {
+        "author": "John Green",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1353452301i/1406384._UX200_CR0,49,200,200_.jpg"
+    },
+    {
+        "author": "Jack Kerouac",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1544568646i/1742._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Ray Bradbury",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1445955959i/1630._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Lucius Annaeus Seneca",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1323208629i/4918776._UX200_CR0,27,200,200_.jpg"
+    },
+    {
+        "author": "T.S. Eliot",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1612500008i/18540._UX200_CR0,90,200,200_.jpg"
+    },
+    {
+        "author": "Charles Bukowski",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1501509674i/13275._UY200_CR33,0,200,200_.jpg"
+    },
+    {
+        "author": "D.H. Lawrence",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1375811585i/17623._UX200_CR0,56,200,200_.jpg"
+    },
+    {
+        "author": "Haruki Murakami",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615497402i/3354._UX200_CR0,5,200,200_.jpg"
+    },
+    {
+        "author": "Santosh Kalwar",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1275309637i/2894169._UX200_CR0,54,200,200_.jpg"
+    },
+    {
+        "author": "Thomas Jefferson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1400443180i/1673._UX200_CR0,37,200,200_.jpg"
+    },
+    {
+        "author": "Jhumpa Lahiri",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1378932972i/3670._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Dave Eggers",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1658526705i/3371._UY200_CR7,0,200,200_.jpg"
+    },
+    {
+        "author": "Evelyn Waugh",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1357463949i/11315._UX200_CR0,45,200,200_.jpg"
+    },
+    {
+        "author": "Paulo Coelho",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1201840056i/566._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "David Sedaris",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1656395801i/2849._UX200_CR0,55,200,200_.jpg"
+    },
+    {
+        "author": "Clive Barker",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1430330407i/10366._UX200_CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Hermann Hesse",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1499981916i/1113469._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Cormac McCarthy",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1611995562i/4178._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Walt Whitman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1392303683i/1438._UX200_CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Rudyard Kipling",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1550677494i/6989._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Percy Bysshe Shelley",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1212686605i/45882._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Emma Donoghue",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1591714728i/23613._UX200_CR0,22,200,200_.jpg"
+    },
+    {
+        "author": "Scott Westerfeld",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1616769389i/13957._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Alfred Lord Tennyson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1454788521i/13638502.jpg"
+    },
+    {
+        "author": "James Joyce",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615569948i/5144._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Zora Neale Hurston",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1194472605i/15151._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Anonymous",
+        "img": "https://images.gr-assets.com/authors/1330277113p8/40121.jpg"
+    },
+    {
+        "author": "Maya Angelou",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1379017377i/3503._UX200_CR0,6,200,200_.jpg"
+    },
+    {
+        "author": "Henry Ford",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1397426898i/203714._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Mary Oliver",
+        "img": "https://images.gr-assets.com/quotes/1389642386p2/1921.jpg"
+    },
+    {
+        "author": "Ben Okri",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1294662937i/31425._UX200_CR0,47,200,200_.jpg"
+    },
+    {
+        "author": "Aristotle",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651532053i/2192._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Jean-Paul Sartre",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1475567078i/1466._UY200_CR3,0,200,200_.jpg"
+    },
+    {
+        "author": "Rick Riordan",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1679846356i/15872._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Frances Hodgson Burnett",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1197934848i/2041._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Marcus Tullius Cicero",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1197881416i/13755._UX200_CR0,47,200,200_.jpg"
+    },
+    {
+        "author": "Laurie Halse Anderson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1735395754i/10003._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Lewis Carroll",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1571554989i/8164._UX200_CR0,41,200,200_.jpg"
+    },
+    {
+        "author": "Benjamin Disraeli",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1212684660i/47030._UX200_CR0,58,200,200_.jpg"
+    },
+    {
+        "author": "Jane Smiley",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1245100250i/1339._UY200_CR32,0,200,200_.jpg"
+    },
+    {
+        "author": "Harper Lee",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1593873322i/1825._UX200_CR0,38,200,200_.jpg"
+    },
+    {
+        "author": "Charles Baudelaire",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1652257436i/13847._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "J.K. Rowling",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1596216614i/1077326._UX200_CR0,15,200,200_.jpg"
+    },
+    {
+        "author": "David Nicholls",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1283277096i/46118._UY200_CR36,0,200,200_.jpg"
+    },
+    {
+        "author": "Gayle Forman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1472502468i/295178._UX200_CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Jonathan Safran Foer",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1466172069i/2617._UY200_CR50,0,200,200_.jpg"
+    },
+    {
+        "author": "C. JoyBell C.",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1612358741i/4114218._UY200_CR33,0,200,200_.jpg"
+    },
+    {
+        "author": "Michael Crichton",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1359042651i/5194._UX200_CR0,16,200,200_.jpg"
+    },
+    {
+        "author": "Donald Miller",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1198545955i/4829._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Orhan Pamuk",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1423469681i/1728._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Johnny Depp",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1317565242i/88280._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Douglas Coupland",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1489283217i/1886._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Arthur C. Clarke",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1357191481i/7779._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Lois Lowry",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1348162077i/2493._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Tahereh Mafi",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1739199549i/4637539._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Mother Teresa",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1263888735i/838305._UX200_CR0,7,200,200_.jpg"
+    },
+    {
+        "author": "Aldous Huxley",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1547138835i/3487._UY200_CR11,0,200,200_.jpg"
+    },
+    {
+        "author": "Vincent Van Gogh",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651442680i/34583._UX200_CR0,26,200,200_.jpg"
+    },
+    {
+        "author": "Rainer Maria Rilke",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651322555i/7906._UX200_CR0,59,200,200_.jpg"
+    },
+    {
+        "author": "Daniel Keyes",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1328430586i/11072._UX200_CR0,49,200,200_.jpg"
+    },
+    {
+        "author": "David Levithan",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1426529210i/11664._UY200_CR49,0,200,200_.jpg"
+    },
+    {
+        "author": "David Foster Wallace",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615507112i/4339._UX200_CR0,2,200,200_.jpg"
+    },
+    {
+        "author": "May Sarton",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1413742677i/13166._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Fyodor Dostoyevsky",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1629693671i/3137322._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Khalil Gibran",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1353732571i/6466154._UX200_CR0,87,200,200_.jpg"
+    },
+    {
+        "author": "George Gordon Byron",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1568147647i/44407._UX200_CR0,21,200,200_.jpg"
+    },
+    {
+        "author": "Anne Frank",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1343271406i/3720._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1601032197i/815._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Toni Morrison",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1494211316i/3534._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Tennessee Williams",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1206504901i/7751._UY200_CR4,0,200,200_.jpg"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1330853515i/1020792._UX200_CR0,11,200,200_.jpg"
+    },
+    {
+        "author": "Sarah J. Maas",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1582137198i/3433047._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Anaïs Nin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1585811222i/7190._UX200_CR0,18,200,200_.jpg"
+    },
+    {
+        "author": "Franz Kafka",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615573688i/5223._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Anne Rice",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1383250078i/7577._UY200_CR66,0,200,200_.jpg"
+    },
+    {
+        "author": "Dr. Seuss",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1193930952i/61105._UX200_CR0,30,200,200_.jpg"
+    },
+    {
+        "author": "Benjamin Alire Sáenz",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1386527200i/4841310._UX200_CR0,58,200,200_.jpg"
+    },
+    {
+        "author": "Judy Garland",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1275327407i/179335.jpg"
+    },
+    {
+        "author": "Sophocles",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1195014481i/1002._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Gilles Deleuze",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615583539i/13009._UX200_CR0,22,200,200_.jpg"
+    },
+    {
+        "author": "Truman Capote",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1419249359i/431149._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Edgar Allan Poe",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1454522972i/4624490._UX200_CR0,36,200,200_.jpg"
+    },
+    {
+        "author": "Marguerite Duras",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1559929920i/163._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Sigmund Freud",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1406688955i/10017._CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Gail Carson Levine",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1432495575i/13677._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Kazuo Ishiguro",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1424906625i/4280._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Markus Zusak",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1537240528i/11466._UY200_CR43,0,200,200_.jpg"
+    },
+    {
+        "author": "Emily Dickinson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1699348309i/7440._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "H.G. Wells",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1588944685i/880695._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Leigh Bardugo",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1534446099i/4575289._UX200_CR0,77,200,200_.jpg"
+    },
+    {
+        "author": "John Muir",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1398092241i/5297._UY200_CR40,0,200,200_.jpg"
+    },
+    {
+        "author": "Jojo Moyes",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1400624880i/281810._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Marissa Meyer",
+        "img": "https://images.gr-assets.com/quotes/1455670017p2/488008.jpg"
+    },
+    {
+        "author": "Adrienne Rich",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1661701657i/29947._UY200_CR52,0,200,200_.jpg"
+    },
+    {
+        "author": "Sherman Alexie",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1333515890i/4174._UY200_CR4,0,200,200_.jpg"
+    },
+    {
+        "author": "Patrick Ness",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1589369436i/370361._UX200_CR0,32,200,200_.jpg"
+    },
+    {
+        "author": "Susan Sontag",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1615556608i/7907._UX200_CR0,17,200,200_.jpg"
+    },
+    {
+        "author": "Noël Coward",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1211318407i/120035._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "James Baldwin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1343346341i/10427._UX200_CR0,47,200,200_.jpg"
+    },
+    {
+        "author": "Jorge Luis Borges",
+        "img": "https://images.gr-assets.com/quotes/1392103489p2/7572.jpg"
+    },
+    {
+        "author": "Dalai Lama XIV",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1241989386i/570218._UX200_CR0,1,200,200_.jpg"
+    },
+    {
+        "author": "Henry David Thoreau",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1392432620i/10264._UX200_CR0,23,200,200_.jpg"
+    },
+    {
+        "author": "Donna Tartt",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1695551006i/8719._UX200_CR0,5,200,200_.jpg"
+    },
+    {
+        "author": "Philip K. Dick",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1633698608i/4764._UY200_CR23,0,200,200_.jpg"
+    },
+    {
+        "author": "Barbara W. Tuchman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1229046503i/137261.jpg"
+    },
+    {
+        "author": "Katie McGarry",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1305138891i/4575371._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "John Banville",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1407383277i/91._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Jandy Nelson",
+        "img": "https://images.gr-assets.com/quotes/1441828634p2/1324179.jpg"
+    },
+    {
+        "author": "Orson Scott Card",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1294099952i/589._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "J.D. Salinger",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1288777679i/819789._UX200_CR0,22,200,200_.jpg"
+    },
+    {
+        "author": "Veronica Roth",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1729525649i/4039811._UX200_CR0,45,200,200_.jpg"
+    },
+    {
+        "author": "Jack London",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1680473186i/1240._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Anton Chekhov",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1650587503i/5031025._UX200_CR0,41,200,200_.jpg"
+    },
+    {
+        "author": "Frank Herbert",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1591018335i/58._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Pablo Neruda",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651474656i/4026._UX200_CR0,35,200,200_.jpg"
+    },
+    {
+        "author": "Kurt Cobain",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1437780927i/33041._UX200_CR0,41,200,200_.jpg"
+    },
+    {
+        "author": "Tom Robbins",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1430660478i/197._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "Ernest Hemingway",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1654446435i/1455._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Jay Asher",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1243931536i/569269._UY200_CR2,0,200,200_.jpg"
+    },
+    {
+        "author": "Marilyn Monroe",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1436929110i/82952._UX200_CR0,57,200,200_.jpg"
+    },
+    {
+        "author": "Coco Chanel",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1340706964i/3004479._UY200_CR22,0,200,200_.jpg"
+    },
+    {
+        "author": "Rabindranath Tagore",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1453892068i/36913._UX200_CR0,34,200,200_.jpg"
+    },
+    {
+        "author": "Amy Bloom",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1629838848i/115220._UX200_CR0,35,200,200_.jpg"
+    },
+    {
+        "author": "Marcus Aurelius",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1430676293i/17212._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Dorothy Parker",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1188820565i/24956._UY200_CR39,0,200,200_.jpg"
+    },
+    {
+        "author": "Confucious",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1407613261i/15321._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Anne Bronte",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1219762839i/8249._CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Eleanor Roosevelt",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1536173756i/44566._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Albert Einstein",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1429114964i/9810._UX200_CR0,14,200,200_.jpg"
+    },
+    {
+        "author": "P.C. Cast",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1677324814i/17015._UX200_CR0,15,200,200_.jpg"
+    },
+    {
+        "author": "John Keats",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1198548090i/11978._UX200_CR0,22,200,200_.jpg"
+    },
+    {
+        "author": "Chuck Palahniuk",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1391203076i/2546._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Stendhal",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1653477573i/1481537._UY200_CR56,0,200,200_.jpg"
+    },
+    {
+        "author": "Rumi",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1217355543i/875661._UX200_CR0,29,200,200_.jpg"
+    },
+    {
+        "author": "Nietzsche",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651474065i/1938._UX200_CR0,35,200,200_.jpg"
+    },
+    {
+        "author": "Andy Warhol",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1206565218i/1203._CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Deepak Chopra",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1400537940i/138207._UX200_CR0,15,200,200_.jpg"
+    },
+    {
+        "author": "Dante Alighieri",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651440425i/5031312._UX200_CR0,51,200,200_.jpg"
+    },
+    {
+        "author": "Nicole Krauss",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1285130428i/2633._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Rachel Carson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1397487410i/15332._UX200_CR0,32,200,200_.jpg"
+    },
+    {
+        "author": "Allen Ginsberg",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1421583811i/4261._UX200_CR0,36,200,200_.jpg"
+    },
+    {
+        "author": "Michael Cunningham",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1398891471i/1432._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Pablo Picasso",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1684536524i/3253._UX200_CR0,40,200,200_.jpg"
+    },
+    {
+        "author": "Neil deGrasse Tyson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1662154804i/12855._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Christopher Paolini",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1591638024i/8349._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Edna St. Vincent Millay",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1183231710i/33998._UX200_CR0,26,200,200_.jpg"
+    },
+    {
+        "author": "Alexander Pope",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1206647570i/25157._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Charlaine Harris",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1399317093i/17061._UX200_CR0,35,200,200_.jpg"
+    },
+    {
+        "author": "Alice Hoffman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1590599928i/3502._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Laura Ingalls Wilder",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1347574987i/5300._UX200_CR0,26,200,200_.jpg"
+    },
+    {
+        "author": "William Wordsworth",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1288772244i/64845._UX200_CR0,3,200,200_.jpg"
+    },
+    {
+        "author": "Karen Marie Moning",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1497612477i/48206._UX200_CR0,8,200,200_.jpg"
+    },
+    {
+        "author": "Steve Martin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1585425013i/7103._UX200_CR0,41,200,200_.jpg"
+    },
+    {
+        "author": "Zadie Smith",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1478188567i/2522._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "George Orwell",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1588856560i/3706._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Ayn Rand",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1168729178i/432._UX200_CR0,22,200,200_.jpg"
+    },
+    {
+        "author": "George Harrison",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1340857233i/20108._UX200_CR0,8,200,200_.jpg"
+    },
+    {
+        "author": "E.A. Bucchianeri",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1517071693i/2798990._UX200_CR0,11,200,200_.jpg"
+    },
+    {
+        "author": "Elie Wiesel",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1255518412i/1049._UX200_CR0,23,200,200_.jpg"
+    },
+    {
+        "author": "Kurt Vonnegut Jr.",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1433582280i/2778055._UX200_CR0,51,200,200_.jpg"
+    },
+    {
+        "author": "José N. Harris",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1414207447i/4631437._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Nikolai V. Gogol",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1655634538i/232932._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "Ned Vizzini",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1341737392i/11672._UX200_CR0,33,200,200_.jpg"
+    },
+    {
+        "author": "Yann Martel",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1454012903i/811._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Arundhati Roy",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1496705394i/6134._UX200_CR0,30,200,200_.jpg"
+    },
+    {
+        "author": "Jim Morrison",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1429658456i/7855._UX200_CR0,26,200,200_.jpg"
+    },
+    {
+        "author": "Rowan Atkinson",
+        "img": "https://images.gr-assets.com/authors/1330277113p8/40121.jpg"
+    },
+    {
+        "author": "J.R. Ward",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1437768069i/20248._UX200_CR0,20,200,200_.jpg"
+    },
+    {
+        "author": "Richard Matheson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1200467797i/8726._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Fernando Pessoa",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1649905611i/7816._UX200_CR0,39,200,200_.jpg"
+    },
+    {
+        "author": "W.G. Sebald",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1684398227i/6580622._UY200_CR37,0,200,200_.jpg"
+    },
+    {
+        "author": "Pearl S. Buck",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1583266659i/704._UX200_CR0,36,200,200_.jpg"
+    },
+    {
+        "author": "V.E. Schwab",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1710867690i/3099544._UY200_CR49,0,200,200_.jpg"
+    },
+    {
+        "author": "Mary Wollstonecraft Shelley",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1699348762i/11139._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "Anne Tyler",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1529285150i/457._UY200_CR3,0,200,200_.jpg"
+    },
+    {
+        "author": "Emilie Autumn",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1510961475i/2528119._UX200_CR0,28,200,200_.jpg"
+    },
+    {
+        "author": "Ransom Riggs",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1626336096i/3046613._UX200_CR0,20,200,200_.jpg"
+    },
+    {
+        "author": "Hayley Williams",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1329247990i/4119881._UX200_CR0,41,200,200_.jpg"
+    },
+    {
+        "author": "Bram Stoker",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1202438456i/6988.jpg"
+    },
+    {
+        "author": "Federico García Lorca",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1651452804i/44150._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Fyodor Dostoevsky",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1629693671i/3137322._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "John Milton",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1438861655i/9876._UY200_CR4,0,200,200_.jpg"
+    },
+    {
+        "author": "Warsan Shire",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1358876300i/5431334._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Cornelia Funke",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1437000100i/15873._UX200_CR0,2,200,200_.jpg"
+    },
+    {
+        "author": "Lemony Snicket",
+        "img": "https://images.gr-assets.com/quotes/1376429298p2/13146.jpg"
+    },
+    {
+        "author": "Carl Sandburg",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1225504449i/16380._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Umberto Eco",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1588941738i/1730._UX200_CR0,0,200,200_.jpg"
+    },
+    {
+        "author": "Arthur Conan Doyle",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1495008883i/2448._UX200_CR0,31,200,200_.jpg"
+    },
+    {
+        "author": "Edward Abbey",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1516467601i/37218.jpg"
+    },
+    {
+        "author": "Christopher Morley",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1199111805i/30802._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Chinua Achebe",
+        "img": "https://images.gr-assets.com/quotes/1436918703p2/29190.jpg"
+    },
+    {
+        "author": "Patrick Rothfuss",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1351307341i/108424._UX200_CR0,42,200,200_.jpg"
+    },
+    {
+        "author": "Madeline Miller",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1322861610i/176372._UX200_CR0,8,200,200_.jpg"
+    },
+    {
+        "author": "James Patterson",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1468347205i/3780._UY200_CR25,0,200,200_.jpg"
+    },
+    {
+        "author": "Roy T. Bennett",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1718224641i/15042371.jpg"
+    },
+    {
+        "author": "Katherine Mansfield",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1216670886i/45712._UX200_CR0,38,200,200_.jpg"
+    },
+    {
+        "author": "Helen Keller",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1266096039i/7275._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Eoin Colfer",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1254336426i/10896._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Victoria Aveyard",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1395682478i/7074943._UX200_CR0,50,200,200_.jpg"
+    },
+    {
+        "author": "Blaise Pascal",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1397937717i/10994._UY200_CR57,0,200,200_.jpg"
+    },
+    {
+        "author": "Stephen R. Covey",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1321654785i/1538._UX200_CR0,37,200,200_.jpg"
+    },
+    {
+        "author": "Christopher Hitchens",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1434046956i/3956._UY200_CR23,0,200,200_.jpg"
+    },
+    {
+        "author": "Elbert Hubbard",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1216826209i/114059._CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Orson Welles",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1690496519i/67899._UX200_CR0,24,200,200_.jpg"
+    },
+    {
+        "author": "Thomas Pynchon",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1626381765i/235._UX200_CR0,44,200,200_.jpg"
+    },
+    {
+        "author": "Kate Chopin",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1224805370i/5132._UX200_CR0,43,200,200_.jpg"
+    },
+    {
+        "author": "Raymond Chandler",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1206535318i/1377._UX200_CR0,25,200,200_.jpg"
+    },
+    {
+        "author": "John Grisham",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1735827261i/721._UX200_CR0,33,200,200_.jpg"
+    }
+]
