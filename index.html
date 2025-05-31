@@ -5,57 +5,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Namah App: Your destination for devotional prayers, chalisas, and aartis. Explore spiritual content and enrich your daily life."
+      content="Namah App: Your destination for devotional prayers, chalisas, and aartis."
     />
     <title>Namah App</title>
     <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
       rel="stylesheet"
-      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
-      crossorigin="anonymous"
     />
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./style.css" />
-    <script src="./script.js" defer></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-      crossorigin="anonymous"
-    ></script>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header>
-      <div class="container">
-        <h1>
-            <img
-                src="./icon-ready.png"
-                alt="Namah App"
-                height="80px"
-            />
-        </h1>
+    <header class="bg-primary text-white py-3">
+      <div class="container d-flex justify-content-between align-items-center">
+        <img src="om.png" alt="Namah App" height="60" />
         <nav>
-          <ul>
-            <li><a href="#features">Features</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+          <ul class="nav">
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#features">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#screenshots">Screenshots</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#download">Download</a>
+            </li>
           </ul>
         </nav>
       </div>
     </header>
-    <section id="hero">
-        <div class="container">
-            <h1>Devotion at Your Fingertips</h1>
-            <p>
-            Namah App is your destination for devotional prayers, chalisas, and
-            aartis. Explore spiritual content and enrich your daily life.
-            </p>
-            <a href="#download" class="cta">Download Now</a>
+
+    <section id="hero" class="text-center py-5 bg-light">
+      <div class="container">
+        <h1 class="display-5 fw-bold">Devotion at Your Fingertips</h1>
+        <p class="lead">
+          Namah App brings you chalisas, aartis & spiritual content to enrich
+          your life.
+        </p>
+        <a href="#download" class="btn btn-primary btn-lg mt-3">Download Now</a>
+      </div>
+
       <div
         id="carouselExampleIndicators"
-        class="carousel slide"
+        class="carousel slide mt-5"
         data-bs-ride="carousel"
       >
         <div class="carousel-indicators">
@@ -65,19 +63,16 @@
             data-bs-slide-to="0"
             class="active"
             aria-current="true"
-            aria-label="Slide 1"
           ></button>
           <button
             type="button"
             data-bs-target="#carouselExampleIndicators"
             data-bs-slide-to="1"
-            aria-label="Slide 2"
           ></button>
           <button
             type="button"
             data-bs-target="#carouselExampleIndicators"
             data-bs-slide-to="2"
-            aria-label="Slide 3"
           ></button>
         </div>
         <div class="carousel-inner">
@@ -85,21 +80,21 @@
             <img
               src="https://volzero.com/img/news/88041_banner.jpg"
               class="d-block w-100"
-              alt="..."
+              alt="Slide 1"
             />
           </div>
           <div class="carousel-item">
             <img
               src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202406/666a8e41e774b-jagannath-puri-temple-image-source--shree-jagannatha-temple-office-131424516-16x9.jpg?size=1200:675"
               class="d-block w-100"
-              alt="..."
+              alt="Slide 2"
             />
           </div>
           <div class="carousel-item">
             <img
               src="https://static.theprint.in/wp-content/uploads/2020/07/ttemple.jpg"
               class="d-block w-100"
-              alt="..."
+              alt="Slide 3"
             />
           </div>
         </div>
@@ -109,7 +104,7 @@
           data-bs-target="#carouselExampleIndicators"
           data-bs-slide="prev"
         >
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="carousel-control-prev-icon"></span>
           <span class="visually-hidden">Previous</span>
         </button>
         <button
@@ -118,88 +113,136 @@
           data-bs-target="#carouselExampleIndicators"
           data-bs-slide="next"
         >
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="carousel-control-next-icon"></span>
           <span class="visually-hidden">Next</span>
         </button>
       </div>
     </section>
-    <section id="features">
-      <div class="container">
-        <h2>Features</h2>
-        <div class="features-list">
-          <div class="feature-item">
-            <h3>Extensive Prayer Collection</h3>
-            <p>Access a wide variety of chalisas, aartis, and more.</p>
+
+    <section id="features" class="py-5">
+      <div class="container text-center">
+        <h2 class="mb-4">Features</h2>
+        <div class="row g-4">
+          <div class="col-md-4">
+            <div class="feature-item p-4 shadow rounded bg-white">
+              <h4 class="text-primary">Extensive Prayer Collection</h4>
+              <p>Access a wide variety of chalisas, aartis, and more.</p>
+            </div>
           </div>
-          <div class="feature-item">
-            <h3>Audio & Video Support</h3>
-            <p>Listen to and watch devotional content directly in the app.</p>
+          <div class="col-md-4">
+            <div class="feature-item p-4 shadow rounded bg-white">
+              <h4 class="text-primary">Audio & Video Support</h4>
+              <p>Listen to and watch devotional content directly in the app.</p>
+            </div>
           </div>
-          <div class="feature-item">
-            <h3>Personalized Experience</h3>
-            <p>Create your own prayer schedule and favorites list.</p>
+          <div class="col-md-4">
+            <div class="feature-item p-4 shadow rounded bg-white">
+              <h4 class="text-primary">Personalized Experience</h4>
+              <p>Create your own prayer schedule and favorites list.</p>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section id="about">
-      <div class="container">
+    <section id="screenshots" class="py-5 bg-light">
+      <div class="container text-center">
+        <h2 class="mb-4">App Screenshots</h2>
+        <div class="overflow-auto pb-3">
+          <div class="d-flex flex-nowrap gap-3">
+            <img
+              src="app_ss/1.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 1"
+            />
+            <img
+              src="app_ss/2.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 2"
+            />
+            <img
+              src="app_ss/3.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 3"
+            />
+            <img
+              src="app_ss/4.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 4"
+            />
+            <img
+              src="app_ss/5.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 5"
+            />
+            <img
+              src="app_ss/6.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 6"
+            />
+            <img
+              src="app_ss/7.png"
+              class="img-fluid rounded shadow-sm"
+              style="max-height: 400px"
+              alt="App Screenshot 7"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="py-5">
+      <div class="container text-center">
         <h2>About Namah App</h2>
-        <p>
-          Namah App is designed to bring devotion and spirituality closer to
-          you. Whether you want to recite a chalisa, sing an aarti, or watch
-          devotional videos, Namah App is your all-in-one solution.
+        <p class="lead mt-3">
+          Namah App brings spirituality closer to you. Whether you want to
+          recite a chalisa, sing an aarti, or enjoy devotional videos, Namah is
+          your all-in-one solution.
         </p>
       </div>
     </section>
 
-    <section id="download">
-      <div class="container">
+    <section id="download" class="py-5 bg-light">
+      <div class="container text-center">
         <h2>Download Namah App</h2>
-        <p>Available soon on your favorite app stores. Stay tuned!</p>
-        <div class="store-buttons">
-          <a
-            href="https://play.google.com/store/apps/details?id=com.vstech.vire.namah"
-          >
-            <img src="play_store.webp" alt="Google Play Store" />
-          </a>
-        </div>
+        <p class="mb-4">
+          Available soon on your favorite app stores. Stay tuned!
+        </p>
+        <a
+          href="https://play.google.com/store/apps/details?id=com.vstech.vire.namah"
+        >
+          <img src="play_store.webp" alt="Google Play Store" height="60" />
+        </a>
       </div>
     </section>
 
-    <footer>
+    <footer class="bg-dark text-white text-center py-4">
       <div class="container">
-        <p>&copy; 2025 Namah App. All <a href="./enc_prayer.json">rights </a><a href="./prayer.json">reserved</a>.</p>
-        <ul class="social-links">
-          <li><a href="#">Facebook</a></li>
-          <li><a href="#">Twitter</a></li>
-          <li><a href="#">Instagram</a></li>
-        </ul>
+        <p>
+          &copy; 2025 Namah App. All
+          <a href="./enc_prayer.json" class="text-white">rights</a>
+          <a href="./prayer.json" class="text-white">reserved</a>.
+        </p>
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            <a href="#" class="text-white">Facebook</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#" class="text-white">Twitter</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#" class="text-white">Instagram</a>
+          </li>
         </ul>
       </div>
     </footer>
-    <script>
-      let currentIndex = 0;
-      const slides = document.querySelector(".slides");
-      const dots = document.querySelectorAll(".nav-dot");
 
-      function currentSlide(index) {
-        currentIndex = index - 1;
-        updateSlider();
-      }
-
-      function updateSlider() {
-        slides.style.transform = `translateX(-${currentIndex * 100}%)`;
-        dots.forEach((dot, i) => {
-          dot.classList.toggle("active", i === currentIndex);
-        });
-      }
-
-      setInterval(() => {
-        currentIndex = (currentIndex + 1) % 3;
-        updateSlider();
-      }, 5000);
-    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
