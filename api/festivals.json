@@ -1,0 +1,142 @@
+[
+  {
+    "festivalId": "raksha_bandhan_2025",
+    "name": "Raksha Bandhan",
+    "description": "A Hindu festival celebrating the bond of protection between brothers and sisters, where sisters tie Rakhi and brothers vow to protect them.",
+    "type": "Religious",
+    "startTime": "2025-08-09",
+    "endTime": "2025-08-09",
+    "isHighlighted": true,
+    "imageUrl": "https://example.com/images/raksha_bandhan.jpg",
+    "rituals": [
+      {
+        "name": "Preparation & Puja Thali",
+        "description": "Sisters prepare a puja thali with traditional items and set the stage for Rakhi tying ceremony.",
+        "itemsRecommended": [
+          "Rakhi thread",
+          "Roli (kumkum)",
+          "Akshata (rice)",
+          "Sweets",
+          "Diya (lamp)",
+          "Dry fruits or small gift"
+        ],
+        "ritualSteps": [
+          "Sister takes a bath early morning and dresses in clean clothes.",
+          "She arranges a decorated thali containing Rakhi thread, roli, rice, sweets, diya and small gift.",
+          "Brothers sit facing east; sister applies a tilak on his forehead using roli and rice.",
+          "She ties Rakhi thread on his right wrist while praying silently for his long life and well‑being.",
+          "Aarti is performed; bell is rung, and a small lamp is circled in front of brother.",
+          "Brother feeds sweets to sister and gives a gift as pledge of protection."
+        ],
+        "ritualTime": "Between 05:47 and 13:24 IST on 09‑Aug‑2025"
+      }
+    ],
+    "muhurats": [
+      {
+        "date": "2025-08-09",
+        "type": "Shubh Muhurat",
+        "startTime": "05:47",
+        "endTime": "13:24",
+        "notes": "Ideal window during Aparahna period. Avoid Bhadra Kaal which ends before sunrise."
+      }
+    ],
+    "stories": [
+      {
+        "title": "Mahabharata – Draupadi & Krishna",
+        "summary": "Draupadi’s gesture towards Krishna during her disrobing incident.",
+        "content": "In Mahabharata, when Draupadi was disrobed, she tore a piece of her sari and tied it around Krishna’s wrist in desperation. Krishna later protected her, symbolizing the emotional bond and promise of bhakti and protection that underlies Raksha Bandhan traditions.",
+        "source": "Mahabharata"
+      },
+      {
+        "title": "Rani Karnavati & Humayun",
+        "summary": "Historical episode of protection between Rani Karnavati and Emperor Humayun.",
+        "content": "In 16th century, Rani Karnavati of Mewar sent a Rakhi to Mughal Emperor Humayun seeking protection when under siege. Moved by the gesture, Humayun responded with troops to support her, demonstrating Raksha Bandhan’s extension beyond blood relationships into broader social and protective bonds.",
+        "source": "Historical records"
+      }
+    ]
+  },
+  {
+    "festivalId": "ganesh_chaturthi_2025",
+    "name": "Ganesh Chaturthi",
+    "description": "A Hindu festival celebrating the birth of Lord Ganesha, the remover of obstacles and god of wisdom.",
+    "type": "Religious",
+    "startTime": "2025-08-27",
+    "endTime": "2025-09-06",
+    "isHighlighted": true,
+    "imageUrl": "/1/ganesh.webp",
+    "rituals": [
+      {
+        "name": "Ganesh Sthapana",
+        "description": "Installation and invoking life (Pran Pratishtha) into the idol on the festival's first day.",
+        "itemsRecommended": [
+          "Clay Idol",
+          "Durva Grass",
+          "Modak",
+          "Red Cloth",
+          "Incense",
+          "Flowers"
+        ],
+        "ritualSteps": [
+          "Take a holy bath and wear clean clothes.",
+          "Clean and decorate the altar area; place the idol facing east or north.",
+          "Sprinkle sacred water around the chowki.",
+          "Recite the Sankalpa vow naming yourself and purpose.",
+          "Perform Pran Pratishtha mantras requesting Ganesha to reside in the idol.",
+          "Offer sixteen offerings (Shodashopachara) such as water, flowers, sandalwood paste, lamp, incense, sweets.",
+          "Dress the idol in new cloth or drape in a red cloth."
+        ],
+        "ritualTime": "11:05 to 13:40 IST on 27‑Aug‑2025"
+      },
+      {
+        "name": "Daily Aarti",
+        "description": "Morning and evening devotional Aarti ceremonies with songs and lamps.",
+        "itemsRecommended": [
+          "Aarti Thali",
+          "Camphor",
+          "Flowers",
+          "Bell"
+        ],
+        "ritualSteps": [
+          "Light incense and lamp in front of the idol.",
+          "Sing or play devotional Aarti songs like 'Sukhakarta Dukhaharta'.",
+          "Wave the aarti plate in clockwise circles.",
+          "Ring bells and fan the flame gently after completion.",
+          "Offer flower petals or rice as akshat after aarti."
+        ],
+        "ritualTime": "Morning and evening on each day from 27‑Aug to 06‑Sep"
+      }
+    ],
+    "muhurats": [
+      {
+        "date": "2025-08-27",
+        "type": "Sthapana Muhurat",
+        "startTime": "11:05",
+        "endTime": "13:40",
+        "notes": "The auspicious mid‑day window to install and energize the Ganesha idol."
+      },
+      {
+        "date": "2025-09-06",
+        "type": "Visarjan Muhurat",
+        "startTime": "14:00",
+        "endTime": "18:00",
+        "notes": "Preferred time for immersing the idol in water, ending the festival."
+      }
+    ],
+    "stories": [
+      {
+        "title": "Birth of Ganesha",
+        "summary": "How Parvati created Lord Ganesha from sandalwood paste and entrusted him as guardian.",
+        "imageUrl": "/1/ganeshb.webp",
+        "content": "According to mythology, Goddess Parvati formed Ganesha from sandalwood paste while bathing. She breathed life into him and assigned him duty at her door. When Shiva returned, he did not recognize him and in conflict severed his head. Later, at Parvati’s insistence, Shiva restored life by placing an elephant head, making Ganesha the remover of obstacles.",
+        "source": "Puranas"
+      },
+      {
+        "title": "Why Ganesha is Worshipped First",
+        "summary": "Ganesha circled his parents to win a divine race, symbolizing wisdom.",
+        "imageUrl": "/1/ganeshb.webp",
+        "content": "To decide who completes a divine race first between Ganesha and Kartikeya, they were instructed to circle the world. Ganesha instead circumambulated his parents Shiva and Parvati, saying his parents represented the universe. This act of wisdom earned him the right to be worshipped first at all rituals.",
+        "source": "Skanda Purana"
+      }
+    ]
+  }
+]
