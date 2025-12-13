@@ -1,0 +1,322 @@
+[
+  {
+    "god": "Sai",
+    "total_videos": 7,
+    "img_url": "img/1/sai.webp"
+  },
+  {
+    "god": "Murugan",
+    "total_videos": 7,
+    "img_url": ""
+  },
+  {
+    "god": "Shani",
+    "total_videos": 6,
+    "img_url": "img/1/shani.webp"
+  },
+  {
+    "god": "Surya",
+    "total_videos": 5,
+    "img_url": "img/1/surya.webp"
+  },
+  {
+    "god": "Saraswati",
+    "total_videos": 5,
+    "img_url": "img/1/saraswati.webp"
+  },
+  {
+    "god": "Kali",
+    "total_videos": 5,
+    "img_url": ""
+  },
+  {
+    "god": "Parvati",
+    "total_videos": 4,
+    "img_url": ""
+  },
+  {
+    "god": "Guru",
+    "total_videos": 4,
+    "img_url": ""
+  },
+  {
+    "god": "Ambe",
+    "total_videos": 4,
+    "img_url": "img/1/ambe.webp"
+  },
+  {
+    "god": "Prathna",
+    "total_videos": 4,
+    "img_url": ""
+  },
+  {
+    "god": "Gayatri",
+    "total_videos": 3,
+    "img_url": "img/1/gayatri.webp"
+  },
+  {
+    "god": "Sita",
+    "total_videos": 3,
+    "img_url": "img/1/sita.webp"
+  },
+  {
+    "god": "Ayyappan",
+    "total_videos": 3,
+    "img_url": ""
+  },
+  {
+    "god": "Navgrah",
+    "total_videos": 5,
+    "img_url": "img/1/navagrah.jpg"
+  },
+  {
+    "god": "Tulsi",
+    "total_videos": 3,
+    "img_url": "img/1/tulsi.webp"
+  },
+  {
+    "god": "Annapurna",
+    "total_videos": 4,
+    "img_url": "img/1/annapurna.webp"
+  },
+  {
+    "god": "Gurbani",
+    "total_videos": 2,
+    "img_url": ""
+  },
+  {
+    "god": "Khatu Shyam",
+    "total_videos": 2,
+    "img_url": "img/1/khatushyam.webp"
+  },
+  {
+    "god": "Bhairav",
+    "total_videos": 2,
+    "img_url": "img/1/bhairav.webp"
+  },
+  {
+    "god": "Vitthal",
+    "total_videos": 3,
+    "img_url": ""
+  },
+  {
+    "god": "Santoshi",
+    "total_videos": 2,
+    "img_url": "img/1/santoshi.webp"
+  },
+  {
+    "god": "Ganga",
+    "total_videos": 2,
+    "img_url": "img/1/ganga.webp"
+  },
+  {
+    "god": "Vishwakarma",
+    "total_videos": 2,
+    "img_url": "img/1/vishwakarma.webp"
+  },
+  {
+    "god": "Kuber",
+    "total_videos": 2,
+    "img_url": "img/1/kuber.webp"
+  },
+  {
+    "god": "Balkrishna",
+    "total_videos": 1,
+    "img_url": "img/1/balkrishna.webp"
+  },
+  {
+    "god": "Balaji",
+    "total_videos": 1,
+    "img_url": "img/1/balaji.webp"
+  },
+  {
+    "god": "Brahmacharini",
+    "total_videos": 1,
+    "img_url": "img/1/brahmacharini.webp"
+  },
+  {
+    "god": "Chandraghanta",
+    "total_videos": 1,
+    "img_url": "img/1/chandraghanta.webp"
+  },
+  {
+    "god": "Chinpurni",
+    "total_videos": 1,
+    "img_url": "img/1/chinpurni.webp"
+  },
+  {
+    "god": "Gyaneshwar",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Gau",
+    "total_videos": 1,
+    "img_url": "img/1/gau.webp"
+  },
+  {
+    "god": "Jagganath",
+    "total_videos": 1,
+    "img_url": "img/1/jagganath.webp"
+  },
+  {
+    "god": "Kalratri",
+    "total_videos": 1,
+    "img_url": "img/1/kalratri.webp"
+  },
+  {
+    "god": "Kamakhya",
+    "total_videos": 1,
+    "img_url": "img/1/kamakhya.webp"
+  },
+  {
+    "god": "Katyayani",
+    "total_videos": 1,
+    "img_url": "img/1/katyayani.webp"
+  },
+  {
+    "god": "Kushmanda",
+    "total_videos": 1,
+    "img_url": "img/1/kushmanda.webp"
+  },
+  {
+    "god": "Mahagauri",
+    "total_videos": 1,
+    "img_url": "img/1/mahagauri.webp"
+  },
+  {
+    "god": "Mahakal",
+    "total_videos": 1,
+    "img_url": "img/1/mahakal.webp"
+  },
+  {
+    "god": "Shailputri",
+    "total_videos": 1,
+    "img_url": "img/1/shailputri.webp"
+  },
+  {
+    "god": "Siddhadhatri",
+    "total_videos": 1,
+    "img_url": "img/1/siddhadhatri.webp"
+  },
+  {
+    "god": "Skandmata",
+    "total_videos": 1,
+    "img_url": "img/1/skandmata.webp"
+  },
+  {
+    "god": "Sant Tukaram",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Vindhyavasini",
+    "total_videos": 1,
+    "img_url": "img/1/vindhyavasini.webp"
+  },
+  {
+    "god": "Budhwar",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Ramlala",
+    "total_videos": 1,
+    "img_url": "img/1/ramlala.webp"
+  },
+  {
+    "god": "Venkatesh",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Brihaspati",
+    "total_videos": 1,
+    "img_url": "img/1/brihaspati.webp"
+  },
+  {
+    "god": "Santoshi Mata",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Sheetla",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Vaishno",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Mataji",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Amman",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Chandra",
+    "total_videos": 1,
+    "img_url": "img/1/chandra.webp"
+  },
+  {
+    "god": "Satyanarayana",
+    "total_videos": 1,
+    "img_url": "img/1/satyanarayana.webp"
+  },
+  {
+    "god": "Narasinha",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Khatushyam",
+    "total_videos": 1,
+    "img_url": "img/1/khatushyam.webp"
+  },
+  {
+    "god": "Sant Dnyaneshwar",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Kartikeya",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Gorakhnath",
+    "total_videos": 1,
+    "img_url": "img/1/gorakhnath.webp"
+  },
+  {
+    "god": "Parashuram",
+    "total_videos": 1,
+    "img_url": "img/1/parashuram.webp"
+  },
+  {
+    "god": "Pitru",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Sheetala",
+    "total_videos": 1,
+    "img_url": "img/1/sheetala.webp"
+  },
+  {
+    "god": "Vindheshwari",
+    "total_videos": 1,
+    "img_url": ""
+  },
+  {
+    "god": "Datta",
+    "total_videos": 1,
+    "img_url": "img/1/datta.webp"
+  }
+]

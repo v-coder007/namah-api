@@ -1,0 +1,57 @@
+[
+  {
+    "god": "Krishna",
+    "total_videos": 142,
+    "img_url": "img/1/krishna.webp"
+  },
+  {
+    "god": "Shiv",
+    "total_videos": 102,
+    "img_url": "img/1/shiv.webp"
+  },
+  {
+    "god": "Durga",
+    "total_videos": 108,
+    "img_url": "img/1/durga.webp"
+  },
+  {
+    "god": "Ram",
+    "total_videos": 77,
+    "img_url": "img/1/ram.webp"
+  },
+  {
+    "god": "Hanuman",
+    "total_videos": 72,
+    "img_url": "img/1/hanuman.webp"
+  },
+  {
+    "god": "Ganesh",
+    "total_videos": 45,
+    "img_url": "img/1/ganesh.webp"
+  },
+  {
+    "god": "Prathna",
+    "total_videos": 29,
+    "img_url": ""
+  },
+  {
+    "god": "Chhat",
+    "total_videos": 24,
+    "img_url": ""
+  },
+  {
+    "god": "Vishnu",
+    "total_videos": 24,
+    "img_url": "img/1/vishnu.webp"
+  },
+  {
+    "god": "Radha",
+    "total_videos": 21,
+    "img_url": "img/1/radha.webp"
+  },
+  {
+    "god": "Laxmi",
+    "total_videos": 20,
+    "img_url": "img/1/laxmi.webp"
+  }
+]
