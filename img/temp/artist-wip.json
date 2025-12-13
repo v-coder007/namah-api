@@ -1,0 +1,642 @@
+[ 
+{
+    "artist": "Saregama",
+    "img_url": "",
+    "total_videos": 7
+  },
+  {
+    "artist": "Devi Chitralekha",
+    "img_url": "",
+    "total_videos": 6
+  },
+  {
+    "artist": "Jaya Kishori",
+    "img_url": "img/art/jaya.webp",
+    "total_videos": 6
+  },
+  {
+    "artist": "Mohammed Rafi",
+    "img_url": "",
+    "total_videos": 6
+  },
+  {
+    "artist": "Saleem",
+    "img_url": "",
+    "total_videos": 6
+  },
+  {
+    "artist": "Jubin Nautiyal",
+    "img_url": "",
+    "total_videos": 5
+  },
+  {
+    "artist": "Sadhana Sargam",
+    "img_url": "",
+    "total_videos": 5
+  },
+  {
+    "artist": "Swati Mishra",
+    "img_url": "",
+    "total_videos": 5
+  },
+  {
+    "artist": "Vinod Agarwal",
+    "img_url": "",
+    "total_videos": 5
+  },
+  {
+    "artist": "Bageshwar Dham Sarkar",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "K. Veeramani",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "Maithili Thakur",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "Pujya Rajan Ji",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "Ravindra Sathe",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "T. M. Soundararajan",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "Upasana Mehta",
+    "img_url": "",
+    "total_videos": 4
+  },
+  {
+    "artist": "Gaurav Krishna Goswami",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Hemant Chauhan",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Indresh Ji",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Kanhaiya Mittal",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Maanya Arora",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Madhusmita",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Mahendra Kapoor",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Manna Dey",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Nitin Mukesh",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Palak Muchhal",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Rajalakshmee Sanjay",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Shankar Mahadevan",
+    "img_url": "",
+    "total_videos": 3
+  },
+  {
+    "artist": "Ashwani Amarnath",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Babla Mehta",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Debashish Das Gupta",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Devi",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Hariom Sharan",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Kavita Krishnamurthy",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Kishore Kumar",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Lalita",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Manish Tiwari",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Manoj Muntashir",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Narendra Kaushik",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Pawan Singh",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Pragya Medha",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Rakesh Kala",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Ram Avtar Sharma",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Ram Kumar Lakkha",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Ravi Raj",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Ravindra Jain",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Sanjay Mittal",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Seerkazhi S. Govindarajan",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Shravan Suresh",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Sulamangalam Sisters",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Tulsi Kumar",
+    "img_url": "",
+    "total_videos": 2
+  },
+  {
+    "artist": "Aarti Mukherji",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Abhilipsa Panda",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Aishwarya",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Ajay Bedi",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Ajay-Atul",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Alka Yagnik",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Amit Trivedi",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Aniruddhacharya Ji",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Ankit Sarang",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Asha Bhosle",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Babita Sharma",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Bal Gopal",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Braj Bhav",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Chitra Vichitra Ji",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Devkinandan Thakurji",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Dhruva Sharma",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Dilip Mehta",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Gayatri Upadhyay",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Geetaben Rabari",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Javed Ali",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Jyoti Tiwari",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Kailash Kher",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Kalpana",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Karnail Rana",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Kartiki Gaikwad",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Kavita Paudwal",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Keshav",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Lakhbir Singh Lakha",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Mishra Brothers",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Mohammad Rafi",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Morari Bapu",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Mridul Krishna Shastri",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Muralidhar",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Nandlal Chhangani",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Naresh Musical",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Nayan Rathod",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Prakash Panrekar",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Pt. Ram Avtar Sharma",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Pujya Bhaishre Rameshbhai Oza",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Pujya Bhaishree Rameshbhai Oza",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Radha Madhav",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Rajani Rajasthani",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Rajendra Jain",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Rasraj Ji",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Ravi Vats",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Rohit Tiwari",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "S.P. Balasubrahmaniam",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sachet Tandon",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sachin-Jigar",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Samarpit Golani",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sanatana",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sanjivani Bhelande",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Santosh Agrahari",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Satish Dehra",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Satpal Rohatiya",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Saurabh Madhukar",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Shah Sister",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sharma Bandhu",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Shreya Ghoshal",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Shruti Bhide",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Siddharth Mohan",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Simpal Kharel",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sudhanshu Ji Maharaj",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sukhwinder",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sukhwinder Singh",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Sunil Chaaila Bihari",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Suprabha KV",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Swati Mehul",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "T-Series Bhakti",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Uday",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Usha Mangeshkar",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Vandana",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Vani Jairam",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Vidhi Deshwal",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Vidhi Sharma",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Vikram Hazra",
+    "img_url": "",
+    "total_videos": 1
+  },
+  {
+    "artist": "Vipin Sachdeva",
+    "img_url": "",
+    "total_videos": 1
+  }
+]

@@ -1,0 +1,1 @@
+python3 scripts/resize_artist_images.py --input-dir img/temp --output-dir img/art --format webp
