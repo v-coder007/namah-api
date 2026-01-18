@@ -1,1 +1,107 @@
-python3 scripts/resize_artist_images.py --input-dir img/temp --output-dir img/art --format webp
+[
+  {
+    "subCat": "Nitya Karma (Daily Rituals)",
+    "idea": "A glowing golden Diya (oil lamp) with a soft rising sun in the background.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Minimalist 3D icon of a traditional Indian clay Diya with a steady golden flame, soft ethereal sunrise in the background, warm orange and gold hues, spiritual atmosphere, isolated on white background, 4k, octane render style."
+  },
+  {
+    "subCat": "Vidya & Buddhi (Student & Success)",
+    "idea": "A closed sacred manuscript (Pothi) with a glowing peacock feather resting on it.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Premium 3D icon of an ancient Sanskrit scroll tied with red thread, a vibrant glowing peacock feather on top, floating particles of light, wisdom theme, soft blue and gold lighting, isolated on white background, high detail, 8k."
+  },
+  {
+    "subCat": "Dhan & Samriddhi (Wealth & Growth)",
+    "idea": "A golden Kalash (pot) overflowing with gold coins and fresh lotus petals.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. A metallic gold Kalash overflowing with ancient gold coins and pink lotus flowers, vibrant lighting, symbols of abundance and prosperity, 3D isometric style, isolated on white background, cinematic lighting, rich textures."
+  },
+  {
+    "subCat": "Swasthya & Raksha (Healing & Protection)",
+    "idea": "A radiant Sudarshana Chakra or a shield made of divine light beams.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. A glowing shield made of celestial light beams and sacred geometry, soft teal and silver glow, aura of protection and healing, 3D glassmorphism style, isolated on white background, serene and powerful."
+  },
+  {
+    "subCat": "Bhakti & Shanti (Devotion & Peace)",
+    "idea": "A pair of folded hands (Namaste) holding a white jasmine flower.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. 3D realistic icon of hands in a prayer gesture holding a delicate white jasmine flower, soft white and pastel purple lighting, theme of peace and surrender, isolated on white background, ultra-realistic."
+  },
+  {
+    "subCat": "Jyotisha (Planetary Balance)",
+    "idea": "An abstract cosmic alignment of nine planets within a sacred mandala.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. A cosmic mandala representing the solar system, glowing planetary orbs aligned in a circular pattern, deep indigo and gold colors, mystical and astronomical, isolated on white background, 3D high-gloss finish."
+  },
+  {
+    "subCat": "Upasana (Puja Essentials)",
+    "idea": "A Puja Thali with a bell, incense stick, and sandalwood paste.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Isometric 3D icon of a brass Puja Thali containing a small bell, burning incense with a wisp of smoke, and red kumkum, traditional Indian aesthetic, isolated on white background, vibrant colors."
+  },
+  {
+    "subCat": "Sadhana (Deep Philosophy)",
+    "idea": "A silhouette of a person in deep meditation with an opening Sahasrara (Crown) chakra.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Minimalist silhouette of a meditating figure, a glowing lotus blooming at the crown of the head, deep violet and white light, ethereal and transcendental, isolated on white background, 3D vector style."
+  },
+  {
+    "subCat": "Shri Ganesha",
+    "idea": "An abstract, modern silhouette of Ganesha's trunk and 'Om' symbol merged.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Modern abstract 3D icon of Lord Ganesha's silhouette, glowing saffron color, clean lines, minimalist clay style, isolated on white background, spiritual and welcoming."
+  },
+  {
+    "subCat": "Shri Shiva",
+    "idea": "A glowing blue Trishul (trident) with a small Damru attached.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. 3D stylized icon of a silver Trishul with a wooden Damru, wrapped in a snake silhouette, glowing blue energy, isolated on white background, cinematic spiritual art."
+  },
+  {
+    "subCat": "Shri Vishnu, Rama & Krishna",
+    "idea": "A celestial blue flute with a single yellow Tulsi leaf.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Vibrant blue flute with golden ornaments, a single fresh Tulsi leaf floating nearby, divine sparkles, soft yellow and blue lighting, isolated on white background, 3D isometric render."
+  },
+  {
+    "subCat": "Shri Devi",
+    "idea": "A blooming red hibiscus or a glowing golden Trishul with bangles.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. A radiant red hibiscus flower blooming with golden light, representing Shakti, vibrant red and gold theme, isolated on white background, 3D high-gloss texture."
+  },
+  {
+    "subCat": "Shri Hanuman",
+    "idea": "A heavy golden Gada (mace) with a glowing 'Ram' inscription.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Solid 3D golden Gada resting on a stone surface, glowing ancient text, orange and ochre lighting, isolated on white background, strength and loyalty theme."
+  },
+  {
+    "subCat": "Navagraha",
+    "idea": "Nine different colored gemstones arranged in a square pattern.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Isometric icon of nine glowing gemstones of different colors set in a grid, astrological theme, 3D glass and crystal textures, isolated on white background, 4k."
+  },
+  {
+    "subCat": "Universal & Guru",
+    "idea": "A pair of glowing Padukas (sacred sandals) on a bed of flowers.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. 3D render of traditional wooden Padukas with golden studs, surrounded by marigold petals, soft rays of light, isolated on white background, spiritual and respectful."
+  },
+  {
+    "subCat": "Feeling Lost or Confused?",
+    "idea": "A glowing lighthouse beam cutting through dark clouds to reveal a path.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Conceptual 3D icon of a golden beam of light breaking through dark indigo clouds, path of light, hope and guidance theme, isolated on white background, cinematic lighting."
+  },
+  {
+    "subCat": "Financial & Business Growth",
+    "idea": "A golden tree with leaves made of light and a strong trunk.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. 3D golden Kalpavriksha (wish-fulfilling tree), leaves glowing with warm light, successful energy, isolated on white background, minimalist style."
+  },
+  {
+    "subCat": "Family Harmony & Love",
+    "idea": "Two birds sitting on a single branch with a glowing heart between them.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Minimalist 3D icon of two birds on a branch, a soft warm heart-shaped glow, pastel pink and warm wood colors, isolated on white background, nurturing atmosphere."
+  },
+  {
+    "subCat": "Exam & Study Success",
+    "idea": "An open book with a bright lightbulb emerging from the center.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. Isometric 3D book with a glowing filament bulb rising from the pages, electric blue and yellow colors, isolated on white background, representing bright ideas."
+  },
+  {
+    "subCat": "Self-Reflection & Enlightenment",
+    "idea": "A drop of water falling into a still pond creating perfect circles.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. A single crystal-clear water drop hitting a calm pond, perfect ripple effect, deep blue and teal colors, isolated on white background, 3D high-detail render."
+  },
+  {
+    "subCat": "Starting Your Day",
+    "idea": "A steaming cup of tea next to an open window with fresh sunlight.",
+    "prompt": "High-resolution 1024x1024 px app icon, square aspect ratio. 3D cozy icon of a window with dawn light, soft sun rays entering, a small clay incense holder, fresh and positive energy, isolated on white background."
+  }
+]

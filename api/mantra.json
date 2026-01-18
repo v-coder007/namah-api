@@ -3,487 +3,1755 @@
     "id": 1,
     "title": "त्वमेव माता ",
     "content": "त्वमेव माता च पिता त्वमेव।\nत्वमेव बन्धुश्च सखा त्वमेव।\nत्वमेव विद्या द्रविणं त्वमेव।\nत्वमेव सर्व मम देवदेव।।",
-    "favourite": "FALSE",
     "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "tags": "Devotion, Protection, Totality",
+    "arth_en": "You are my mother and my father; you are my relative and my friend. You are my knowledge and my wealth; you are my everything, O God of gods.",
+    "arth_hi": "आप ही मेरी माता और आप ही मेरे पिता हैं; आप ही मेरे बंधु और आप ही मेरे सखा हैं। आप ही मेरी विद्या और आप ही मेरा धन हैं; हे देवों के देव, आप ही मेरे सब कुछ हैं।",
+    "arth_mr": "तूच माझी माता आणि तूच माझा पिता आहेस; तूच माझा नातेवाईक आणि तूच माझा मित्र आहेस. तूच माझी विद्या आणि तूच माझे धन आहेस; हे देवांच्या देवा, तूच माझे सर्वस्व आहेस.",
+    "ex": "Recited when one feels alone or unsupported, reminding the seeker that the Divine fulfills every role of a guardian and companion.",
+    "categories": [
+      "cat-1",
+      "cat-5",
+      "dg-7"
+    ]
   },
   {
     "id": 2,
     "title": "शांति मन्त्र ",
     "content": "ॐ द्यौ: शान्तिरन्तरिक्षँ शान्ति:,\r\nपृथ्वी शान्तिराप: शान्तिरोषधय: शान्ति:।\r\nवनस्पतय: शान्तिर्विश्वे देवा: शान्तिर्ब्रह्म शान्ति:,\r\nसर्वँ शान्ति:, शान्तिरेव शान्ति:, सा मा शान्तिरेधि॥\r\nॐ शान्ति: शान्ति: शान्ति:॥",
-    "favourite": "FALSE",
     "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "tags": "Peace, Harmony, Universe",
+    "arth_en": "May there be peace in the sky, in space, and on earth. May the waters, herbs, and trees be peaceful. May all divine beings and the supreme soul bring peace to all.",
+    "arth_hi": "आकाश, अंतरिक्ष और पृथ्वी पर शांति हो। जल, औषधियां और वनस्पतियां शांतिपूर्ण हों। सभी दिव्य शक्तियां और परमात्मा सभी के लिए शांति लाएं।",
+    "arth_mr": "आकाशात, अंतराळात आणि पृथ्वीवर शांती लाभो. जल, औषधी आणि वनस्पती शांतीपूर्ण असोत. सर्व दिव्य शक्ती आणि परमात्मा सर्वांसाठी शांती घेऊन येवोत.",
+    "ex": "Recited after a period of conflict or chaos to restore mental tranquility and environmental harmony.",
+    "categories": [
+      "cat-4",
+      "cat-5",
+      "dg-7",
+      "mood-5"
+    ]
   },
   {
     "id": 3,
     "title": "सुबह उठने का मन्त्र",
     "content": "कराग्रे वसति लक्ष्मीः, कर मध्ये सरस्वती। \n करमूले तू ब्रह्मा, प्रभाते कर दर्शनम्।।",
-    "favourite": "FALSE",
     "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "tags": "Prosperity, Wisdom, Gratitude",
+    "arth_en": "Lakshmi resides at the tips of the fingers, Saraswati in the middle of the palm, and Brahma at the base. One should look at their palms upon waking.",
+    "arth_hi": "हाथों के अग्रभाग में लक्ष्मी, मध्य में सरस्वती और मूल में ब्रह्मा का वास होता है। सुबह उठते ही अपनी हथेलियों के दर्शन करने चाहिए।",
+    "arth_mr": "हातांच्या अग्रभागात लक्ष्मी, मध्यभागी सरस्वती आणि मुळाशी ब्रह्मा वास करतात. सकाळी उठल्यावर आपल्या हातांचे दर्शन घ्यावे.",
+    "ex": "Recited immediately upon waking to align one's actions with prosperity, knowledge, and creativity for the day ahead.",
+    "categories": [
+      "cat-1",
+      "cat-3",
+      "dg-4",
+      "mood-6"
+    ]
   },
   {
     "id": 4,
     "title": "पृथ्वी पर पैर रखने का मन्त्र",
     "content": "समुद्रवसने देवि पर्वतस्तनमंडले,\r\nविष्णुपत्नि नमस्तुभ्यं पादस्पर्श क्षमस्व मे।।",
-    "favourite": "FALSE",
     "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "tags": "Respect, Earth, Forgiveness",
+    "arth_en": "O Mother Earth, who is clothed by the oceans and adorned with mountains, the consort of Vishnu, I bow to you. Please forgive me for stepping on you.",
+    "arth_hi": "हे धरती माता, जो समुद्र रूपी वस्त्र धारण करती हैं और पर्वतों से सुशोभित हैं, भगवान विष्णु की पत्नी, मैं आपको प्रणाम करता हूँ। कृपया मुझ पर पैर रखने के लिए मुझे क्षमा करें।",
+    "arth_mr": "हे धरती माता, जी समुद्राची वस्त्रे धारण करते आणि पर्वतांनी सुशोभित आहे, भगवान विष्णूची पत्नी, मी तुला नमस्कार करतो. तुझ्यावर पाय ठेवल्याबद्दल कृपया मला क्षमा कर.",
+    "ex": "Used to cultivate environmental mindfulness and humility as the first conscious act of the morning.",
+    "categories": [
+      "cat-1",
+      "dg-4",
+      "mood-6"
+    ]
   },
   {
     "id": 5,
     "title": "स्नान करते समय",
     "content": "गंगे च यमुने चैव गोदावरि सरस्वति।\nनर्मदे सिन्धु कावेरि जल स्मिन्सन्निधिं कुरु।।",
-    "favourite": "FALSE",
     "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "tags": "Purity, Rivers, Cleansing",
+    "arth_en": "O holy rivers Ganga, Yamuna, Godavari, Saraswati, Narmada, Sindhu, and Kaveri, please be present in this water to purify me.",
+    "arth_hi": "हे पवित्र नदियों गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधु और कावेरी, कृपया मुझे पवित्र करने के लिए इस जल में पधारें।",
+    "arth_mr": "हे पवित्र नद्या गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिंधू आणि कावेरी, कृपया मला पवित्र करण्यासाठी या जलात उपस्थित राहा.",
+    "ex": "Chanted during a daily bath to transform a mundane physical cleaning into a ritual of spiritual purification.",
+    "categories": [
+      "cat-1"
+    ]
   },
   {
     "id": 6,
     "title": "पवित्रीकरण मन्त्र",
     "content": "ॐ अपवित्र: पवित्रो वा सर्वावस्थां गतोपि वा।\nय: स्मरेत् पुण्डरीकाक्षं स: बाह्याभंतर: शुचि:।। ",
-    "favourite": "FALSE",
     "img_url": "/2/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "Purity, Mindfulness, Holiness",
+    "arth_en": "Whether pure or impure, in whatever state one may be, he who remembers the lotus-eyed Lord (Vishnu) becomes pure both internally and externally.",
+    "arth_hi": "चाहे कोई पवित्र हो या अपवित्र, वह जिस भी स्थिति में हो, जो कमल के समान नेत्रों वाले भगवान (विष्णु) का स्मरण करता है, वह बाहर और भीतर से शुद्ध हो जाता है।",
+    "arth_mr": "पवित्र असो वा अपवित्र, जो कोणी कमलनयन देवाचे (विष्णूचे) स्मरण करतो, तो अंतर्बाह्य शुद्ध होतो.",
+    "ex": "Used before starting a formal prayer or puja to reset the mind and body into a state of sanctity.",
+    "categories": [
+      "cat-4",
+      "dg-3"
+    ]
   },
   {
     "id": 7,
-    "title": "दीप दर्शन का मन्त्र",
-    "content": "शुभं करोति कल्याणम् आरोग्यम् धनसंपदा।\nशत्रुबुद्धिविनाशाय दीपकाय नमोऽस्तु ते।।\nदीपो ज्योति परं ब्रह्म दीपो ज्योतिर्जनार्दन:।\nदीपो हरतु मे पापं संध्यादीप नमोऽस्तु ते।।",
-    "favourite": "FALSE",
+    "title": "दीप दर्शन का मन्त्र (भाग १)",
+    "content": "शुभं करोति कल्याणम् आरोग्यम् धनसंपदा।\nशत्रुबुद्धिविनाशाय दीपकाय नमोऽस्तु ते।।",
     "img_url": "/1/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "Light, Health, Prosperity",
+    "arth_en": "I bow to the light of the lamp which brings auspiciousness, well-being, health, and wealth, and destroys negative thoughts.",
+    "arth_hi": "मैं दीपक के प्रकाश को प्रणाम करता हूँ जो शुभ, कल्याण, स्वास्थ्य और धन लाता है और नकारात्मक विचारों का नाश करता है।",
+    "arth_mr": "मी दिव्याच्या ज्योतीला नमस्कार करतो जी शुभ, कल्याण, आरोग्य आणि संपत्ती आणते आणि शत्रूबुद्धीचा नाश करते.",
+    "ex": "Recited while lighting the diya in the evening to invite positive energy and clarity into the home.",
+    "categories": [
+      "cat-3",
+      "cat-7",
+      "dg-7"
+    ]
   },
   {
     "id": 8,
-    "title": "तिलक लगाने का मन्त्र",
-    "content": "केशवानन्न्त गोविन्द बाराह पुरुषोत्तम ।\nपुण्यं यशस्यमायुष्यं तिलकं मे प्रसीदतु ।।\nकान्ति लक्ष्मीं धृतिं सौख्यं सौभाग्यमतुलं बलम् ।\nददातु चन्दनं नित्यं सततं धारयाम्यहम् ।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "title": "दीप दर्शन का मन्त्र (भाग २)",
+    "content": "दीपो ज्योति परं ब्रह्म दीपो ज्योतिर्जनार्दन:।\nदीपो हरतु मे पापं संध्यादीप नमोऽस्तु ते।।",
+    "img_url": "/1/om.webp",
+    "tags": "Sanctity, Forgiveness, Divinity",
+    "arth_en": "The light of the lamp is the Supreme Brahman; the lamp is the Lord. May this evening lamp remove my sins; salutations to you.",
+    "arth_hi": "दीपक का प्रकाश परब्रह्म है; दीपक ही भगवान जनार्दन है। यह संध्या का दीपक मेरे पापों को दूर करे; आपको नमस्कार है।",
+    "arth_mr": "दिव्याचा प्रकाश हा परब्रह्म आहे; दिवाच जनार्दन आहे. हा संध्याकाळचा दिवा माझे पाप हरण करो; तुला माझा नमस्कार असो.",
+    "ex": "Recited during sandhya (twilight) to acknowledge the divine presence and seek spiritual cleansing.",
+    "categories": [
+      "cat-7",
+      "dg-7"
+    ]
   },
   {
     "id": 9,
-    "title": "सूर्य को जल चढाने का मन्त्र",
-    "content": "ऊँ ऐही सूर्यदेव सहस्त्रांशो तेजो राशि जगत्पते।\nअनुकम्पय मां भक्त्या गृहणाध्र्य दिवाकर:।।",
-    "favourite": "FALSE",
-    "img_url": "/1/surya.webp",
-    "tags": "puja",
-    "video_id": null
+    "title": "तिलक लगाने का मन्त्र (भाग १)",
+    "content": "केशवानन्न्त गोविन्द बाराह पुरुषोत्तम ।\nपुण्यं यशस्यमायुष्यं तिलकं मे प्रसीदतु ।।",
+    "img_url": "/2/om.webp",
+    "tags": "Protection, Merit, Success",
+    "arth_en": "O Keshav, Ananta, Govinda, Varaha, and Purushottama, may this tilak grant me merit, fame, and long life.",
+    "arth_hi": "हे केशव, अनंत, गोविंद, वराह और पुरुषोत्तम, यह तिलक मुझे पुण्य, यश और लंबी आयु प्रदान करे।",
+    "arth_mr": "हे केशव, अनंत, गोविंद, वराह आणि पुरुषोत्तम, हा टिळा मला पुण्य, यश आणि आयुष्य प्रदान करो.",
+    "ex": "Recited before heading out for important work to seek divine favor and an aura of success.",
+    "categories": [
+      "cat-4",
+      "cat-7",
+      "dg-6"
+    ]
   },
   {
     "id": 10,
-    "title": "भोग लगाने का मन्त्र",
-    "content": "त्वदीयं वस्तु गोविन्द तुभ्यमेव समर्पये।\nगृहाण सम्मुखो भूत्वा प्रसीद परमेश्वर।।",
-    "favourite": "FALSE",
-    "img_url": "/1/krishna.webp",
-    "tags": "puja",
-    "video_id": null
+    "title": "तिलक लगाने का मन्त्र (भाग २)",
+    "content": "कान्ति लक्ष्मीं धृतिं सौख्यं सौभाग्यमतुलं बलम् ।\nददातु चन्दनं नित्यं सततं धारयाम्यहम् ।।",
+    "img_url": "/2/om.webp",
+    "tags": "Brilliance, Strength, Fortune",
+    "arth_en": "May this sandalwood tilak, which I wear constantly, grant me brilliance, wealth, patience, happiness, and incomparable strength.",
+    "arth_hi": "यह चंदन का तिलक, जिसे मैं नित्य धारण करता हूँ, मुझे चमक, धन, धैर्य, सुख और अतुलनीय बल प्रदान करे।",
+    "arth_mr": "हा चंदनाचा टिळा, जो मी नित्य धारण करतो, मला तेज, लक्ष्मी, धैर्य, सुख आणि अतुलनीय बल देवो.",
+    "ex": "Used to remind the practitioner of their inner strength and the calm presence of the divine during difficult meetings.",
+    "categories": [
+      "cat-7",
+      "dg-3"
+    ]
   },
   {
     "id": 11,
-    "title": "भोजन से पूर्व बोलने का मन्त्र",
-    "content": "ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम्।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्म समाधिना।।",
-    "favourite": "FALSE",
-    "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "सूर्य को जल चढाने का मन्त्र",
+    "content": "ऊँ ऐही सूर्यदेव सहस्त्रांशो तेजो राशि जगत्पते।\nअनुकम्पय मां भक्त्या गृहणाध्र्य दिवाकर:।।",
+    "img_url": "/1/surya.webp",
+    "tags": "Energy, Health, Discipline",
+    "arth_en": "O Sun God, with thousands of rays and a mass of brilliance, Lord of the world, please show compassion to me out of my devotion and accept this water offering.",
+    "arth_hi": "हे सूर्यदेव, हजारों किरणों और तेज की राशि के स्वामी, जगत के अधिपति, कृपया मेरी भक्ति पर कृपा करें और इस अर्घ्य को स्वीकार करें।",
+    "arth_mr": "हे सूर्यदेवा, हजारो किरणे आणि तेजाची रास असलेल्या जगाच्या स्वामी, कृपया माझ्या भक्तीवर कृपा कर आणि हा अर्घ्य स्वीकार कर.",
+    "ex": "Practiced during early morning Surya Arghya to instill solar energy and physical vitality into the body.",
+    "categories": [
+      "cat-1",
+      "cat-6",
+      "dg-6",
+      "mood-6"
+    ]
   },
   {
     "id": 12,
-    "title": "भोजन के बाद का मन्त्र",
-    "content": "अन्नाद् भवन्ति भूतानि पर्जन्यादन्नसंभवः।\nयज्ञाद भवति पर्जन्यो यज्ञः कर्म समुद् भवः।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "भोग लगाने का मन्त्र",
+    "content": "त्वदीयं वस्तु गोविन्द तुभ्यमेव समर्पये।\nगृहाण सम्मुखो भूत्वा प्रसीद परमेश्वर।।",
+    "img_url": "/1/krishna.webp",
+    "tags": "Offering, Gratitude, Sanctity",
+    "arth_en": "O Govinda, I am offering back to you what already belongs to you. Please manifest and accept this with grace.",
+    "arth_hi": "हे गोविंद, जो वस्तु आपकी ही है, मैं उसे आपको ही समर्पित कर रहा हूँ। कृपया सम्मुख होकर इसे स्वीकार करें और प्रसन्न हों।",
+    "arth_mr": "हे गोविंदा, जी वस्तू तुझीच आहे, ती मी तुलाच समर्पित करत आहे. कृपया प्रकट होऊन याचा स्वीकार कर आणि प्रसन्न हो.",
+    "ex": "Recited before eating a meal to transform the act of consumption into an act of worship and gratitude.",
+    "categories": [
+      "cat-7",
+      "dg-3"
+    ]
   },
   {
     "id": 13,
-    "title": "सायं दीप स्तुति मन्त्र",
-    "content": "सायं ज्योतिः परं ब्रह्म दीपो ज्योतिर्जनार्दनः।\nदीपो हरतु मे पापं सन्ध्यादीप नमोऽस्तु ते।।\nशुभं करोतु कल्याणं आरोग्यं सुखसम्पदाम्।\nमम बुद्धिप्रकाशं च दीपज्योतिर्नऽस्तु ते।।",
-    "favourite": "FALSE",
+    "title": "भोजन से पूर्व बोलने का मन्त्र",
+    "content": "ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम्।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्म समाधिना।।",
     "img_url": "/1/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "Sacrifice, Awareness, Divinity",
+    "arth_en": "The act of offering is Brahman, the offering itself is Brahman, offered by Brahman into the fire of Brahman. Brahman is attained by those who see Brahman in every action.",
+    "arth_hi": "अर्पण ब्रह्म है, हवि (आहुति) ब्रह्म है, ब्रह्म रूपी कर्ता द्वारा ब्रह्म रूपी अग्नि में आहुति दी गई है। जो अपने कर्म में ब्रह्म को देखता है, वह ब्रह्म को ही प्राप्त करता है।",
+    "arth_mr": "अर्पण ब्रह्म आहे, हवि ब्रह्म आहे, ब्रह्म स्वरूप कर्त्याद्वारे ब्रह्म स्वरूप अग्नीत आहुती दिली जाते. ज्याचे सर्व कर्म ब्रह्ममय झाले आहे, त्याला ब्रह्मच प्राप्त होते.",
+    "ex": "Recited before a meal to acknowledge that the food, the person eating, and the act of nourishment are all interconnected parts of a single divine energy.",
+    "categories": [
+      "cat-1",
+      "cat-8",
+      "dg-3"
+    ]
   },
   {
     "id": 14,
-    "title": "नवग्रह मन्त्र",
-    "content": "ॐ ब्रह्मा मुरारिस्त्रिपुरान्तकारी, भानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहु केतवः, सर्वे ग्रहा शान्तिकरा भवन्तु।।\n\nॐ कुलदेवतायै नम:\nॐ कुलदैव्यै नम: \nॐ नागदेवतायै नम: \nॐ पितृ दैवतायै नम: ",
-    "favourite": "FALSE",
-    "img_url": "/1/navagrah.jpg",
-    "tags": "navagrah",
-    "video_id": null
+    "title": "भोजन के बाद का मन्त्र",
+    "content": "अन्नाद् भवन्ति भूतानि पर्जन्यादन्नसंभवः।\nयज्ञाद भवति पर्जन्यो यज्ञः कर्म समुद् भवः।।",
+    "img_url": "/2/om.webp",
+    "tags": "Sustenance, Nature, Gratitude",
+    "arth_en": "All living beings subsist on food, and food is produced by rain. Rain comes from sacrifice, and sacrifice originates from prescribed duties.",
+    "arth_hi": "संपूर्ण प्राणी अन्न से उत्पन्न होते हैं, अन्न वर्षा से उत्पन्न होता है। वर्षा यज्ञ से होती है और यज्ञ नियत कर्मों से उत्पन्न होता है।",
+    "arth_mr": "सर्व प्राणी अन्नापासून निर्माण होतात, अन्न पावसापासून निर्माण होते. पाऊस यज्ञापासून होतो आणि यज्ञ विहित कर्मांपासून निर्माण होतो.",
+    "ex": "Used to reflect on the cycle of nature and one's responsibility to perform good deeds in exchange for the sustenance provided by the earth.",
+    "categories": [
+      "cat-1",
+      "cat-6",
+      "dg-6"
+    ]
   },
   {
     "id": 15,
-    "title": "गुरु मन्त्र",
-    "content": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः।\nगुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥",
-    "favourite": "FALSE",
+    "title": "सायं दीप स्तुति मन्त्र (१)",
+    "content": "सायं ज्योतिः परं ब्रह्म दीपो ज्योतिर्जनार्दनः।\nदीपो हरतु मे पापं सन्ध्यादीप नमोऽस्तु ते।।",
     "img_url": "/1/om.webp",
-    "tags": "guru",
-    "video_id": null
+    "tags": "Light, Redemption, Twilight",
+    "arth_en": "The evening light is the Supreme Brahman; the light of the lamp is Lord Janardana. May this lamp destroy my sins; salutations to the evening lamp.",
+    "arth_hi": "सांध्य ज्योति परब्रह्म है; दीपक की ज्योति साक्षात् जनार्दन (विष्णु) है। यह दीपक मेरे पापों का नाश करे; संध्या के दीपक को नमस्कार है।",
+    "arth_mr": "संध्याकाळचा प्रकाश हा परब्रह्म आहे; दिव्याची ज्योत साक्षात जनार्दन आहे. हा दिवा माझे पाप नष्ट करो; संध्याकाळच्या दिव्याला माझा नमस्कार असो.",
+    "ex": "Recited during the transition from day to night to symbolize the lighting of one's inner wisdom against the darkness of ignorance.",
+    "categories": [
+      "cat-1",
+      "cat-8",
+      "dg-3",
+      "dg-7"
+    ]
   },
   {
     "id": 16,
-    "title": "तुलसी स्तुति मन्त्र",
-    "content": "देवी त्वं निर्मिता पूर्वमर्चितासि मुनीश्वरैः।\nनमो नमस्ते तुलसी पापं हर हरिप्रिये।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "tulsi",
-    "video_id": null
+    "title": "सायं दीप स्तुति मन्त्र (२)",
+    "content": "शुभं करोतु कल्याणं आरोग्यं सुखसम्पदाम्।\nमम बुद्धिप्रकाशं च दीपज्योतिर्नऽस्तु ते।।",
+    "img_url": "/1/om.webp",
+    "tags": "Well-being, Health, Intellect",
+    "arth_en": "May the lamp bring auspiciousness, well-being, health, and wealth. Salutations to the light of the lamp that illuminates my intellect.",
+    "arth_hi": "दीपक की ज्योति शुभ, कल्याण, आरोग्य और सुख-संपत्ति प्रदान करे। मेरी बुद्धि के प्रकाश स्वरूप दीपक की ज्योति को नमस्कार है।",
+    "arth_mr": "दिव्याची ज्योत शुभ, कल्याण, आरोग्य आणि सुख-संपत्ती देवो. माझ्या बुद्धीला प्रकाश देणाऱ्या दिव्याच्या ज्योतीला माझा नमस्कार असो.",
+    "ex": "Commonly chanted by families gathering for evening prayers to set a collective intention for health and shared prosperity.",
+    "categories": [
+      "cat-1",
+      "dg-4"
+    ]
   },
   {
     "id": 17,
-    "title": "गणेश जी का मन्त्र",
-    "content": "श्री वक्रतुंड महाकाय सूर्यकोटि समप्रभा।\r\nनिर्विघ्नं कुरु मे देवा सर्व-कार्येषु सर्वदा ॥ \r\n\r\nॐ श्रीं गं सौभाग्य गणपतये।\r\nवरवर्दा सर्वजन्म में वशमान्यै नमः ॥\r\n\r\nॐ एकदन्ताय विद्धमहे, \r\nवक्रतुण्डाय धीमहि,\r\nतन्नो दंति प्रचोदयात् ॥\r\n\r\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये\r\nवर वरदा सर्वजनं मे वशमानाय स्वाहा ॥\r\n\r\nॐ गणेश ऋणं छिन्धि वरेण्यं हुं नमः फट् ॥\r\n\r\nॐ हुं गं ग्लौं हरिद्रा गणपतये वर वरदा\r\nसर्व जन हृदयं स्तम्भय-स्तम्भय स्वाहा ॥\r\n\r\nॐ नमो हेरम्बा मदमोहिता\r\nमम संकटं निवारय निवारय स्वाहा ॥\r\n\r\nगण ॥\r\n\r\nॐ वक्रतुण्डाय हुं ॥\r\n\r\nॐ गं गणपतये नमः ॥\r\n\r\nगं क्षिप्रप्रसादनाय नमः ॥",
-    "favourite": "FALSE",
-    "img_url": "/1/ganesh.webp",
-    "tags": "ganesh",
-    "video_id": null
+    "title": "नवग्रह मन्त्र",
+    "content": "ॐ ब्रह्मा मुरारिस्त्रिपुरान्तकारी, भानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहु केतवः, सर्वे ग्रहा शान्तिकरा भवन्तु।।",
+    "img_url": "/1/navagrah.jpg",
+    "tags": "Cosmic, Balance, Protection",
+    "arth_en": "May Brahma, Vishnu, and Shiva, along with the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, and Ketu, make all planets peaceful for me.",
+    "arth_hi": "ब्रह्मा, विष्णु और शिव के साथ सूर्य, चंद्रमा, मंगल, बुध, गुरु, शुक्र, शनि, राहु और केतु—ये सभी ग्रह मेरे लिए शांतिदायक हों।",
+    "arth_mr": "ब्रह्मा, विष्णू आणि शिव यांच्यासह सूर्य, चंद्र, मंगळ, बुध, गुरु, शुक्र, शनी, राहू आणि केतू—हे सर्व ग्रह माझ्यासाठी शांती देणारे ठरोत.",
+    "ex": "Chanted when someone feels their life is being influenced by external planetary forces or bad luck, seeking universal balance.",
+    "categories": [
+      "cat-4",
+      "cat-6",
+      "dg-1",
+      "dg-6"
+    ]
   },
   {
     "id": 18,
-    "title": "श्री नवदुर्गा रक्षामंत्र",
-    "content": "ॐ जयन्ती मंगला काली भद्रकाली कपालिनी।\nदुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तुते।।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।।",
-    "favourite": "FALSE",
-    "img_url": "/1/durga.webp",
-    "tags": "durga",
-    "video_id": null
+    "title": "कुलदेवता व पितृ वन्दना",
+    "content": "ॐ कुलदेवतायै नम: \nॐ कुलदैव्यै नम: \nॐ नागदेवतायै नम: \nॐ पितृ दैवतायै नम: ",
+    "img_url": "/1/navagrah.jpg",
+    "tags": "Ancestry, Lineage, Roots",
+    "arth_en": "Salutations to the Family Deity, the Lineage Goddess, the Serpent Deity, and the Ancestral Spirits.",
+    "arth_hi": "कुलदेवता, कुलदेवी, नागदेवता और पितृ देवताओं को नमस्कार।",
+    "arth_mr": "कुलदेवता, कुलदेवी, नागदेवता आणि पितृ देवतांना नमस्कार.",
+    "ex": "Used to start a puja or important family function to honor and seek the blessings of one's ancestors and family protectors.",
+    "categories": [
+      "cat-4",
+      "cat-7",
+      "dg-6",
+      "mood-3"
+    ]
   },
   {
     "id": 19,
-    "title": "श्री गंगा जी की स्तुति",
-    "content": "गांगं वारि मनोहारि मुरारिचरणच्युतम् ।\nत्रिपुरारिशिरश्चारि पापहारि पुनातु माम् ।।",
-    "favourite": "FALSE",
-    "img_url": "/1/ganga.webp",
-    "tags": "ganga",
-    "video_id": null
+    "title": "गुरु मन्त्र",
+    "content": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः।\nगुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Guidance, Mentor, Enlightenment",
+    "arth_en": "The Guru is Brahma, the Guru is Vishnu, the Guru is the Great Lord Shiva. The Guru is truly the Supreme Brahman; salutations to that respected teacher.",
+    "arth_hi": "गुरु ब्रह्मा हैं, गुरु विष्णु हैं और गुरु ही महादेव शिव हैं। गुरु साक्षात् परब्रह्म हैं; उन श्री गुरु को मेरा नमस्कार है।",
+    "arth_mr": "गुरु ब्रह्मा आहेत, गुरु विष्णू आहेत आणि गुरुच महादेव शिव आहेत. गुरु साक्षात परब्रह्म आहेत; त्या श्री गुरूंना माझा नमस्कार असो.",
+    "ex": "Recited by students or spiritual seekers to express deep gratitude and surrender to their teachers and mentors.",
+    "categories": [
+      "cat-5",
+      "cat-8",
+      "dg-7"
+    ]
   },
   {
     "id": 20,
-    "title": "गायत्री मन्त्र",
-    "content": "ॐ भूर्भवः स्वः तत्स वितुर्वरेण्यं।\nभर्गोदेवस्य धीमहि धियो योनः प्रचोदयात्।।",
-    "favourite": "FALSE",
-    "img_url": "/1/gayatri.webp",
-    "tags": "gayatri,devi",
-    "video_id": null
+    "title": "तुलसी स्तुति मन्त्र",
+    "content": "देवी त्वं निर्मिता पूर्वमर्चितासि मुनीश्वरैः।\nनमो नमस्ते तुलसी पापं हर हरिप्रिये।।",
+    "img_url": "/2/om.webp",
+    "tags": "Nature, Devotion, Cleansing",
+    "arth_en": "O Goddess Tulsi, you were created in the ancient past and worshipped by great sages. Salutations to you, the beloved of Vishnu; please destroy my sins.",
+    "arth_hi": "हे देवी तुलसी, प्राचीन काल में आपकी रचना हुई और मुनीश्वरों द्वारा आपकी पूजा की गई। विष्णुप्रिया तुलसी, आपको नमस्कार है; मेरे पापों को दूर करें।",
+    "arth_mr": "हे देवी तुळशी, तुझी निर्मिती प्राचीन काळी झाली आणि मुनीश्वरांनी तुझी पूजा केली. विष्णूची आवडती असलेल्या तुळशीला नमस्कार; माझे पाप हरण कर.",
+    "ex": "Recited during morning water offerings to the Tulsi plant, often performed for the well-being and health of the household.",
+    "categories": [
+      "cat-1",
+      "dg-4"
+    ]
   },
   {
     "id": 21,
-    "title": "श्री काली स्तुति",
-    "content": "काली काली महाकाली कालिके परमेश्वरी ।\nसर्वानन्दकरी देवी नारायणि नमोऽस्तुते ।।",
-    "favourite": "FALSE",
-    "img_url": "/1/kaali.webp",
-    "tags": "kali,devi",
-    "video_id": null
+    "title": "गणेश गायत्री मन्त्र",
+    "content": "ॐ एकदन्ताय विद्धमहे, वक्रतुण्डाय धीमहि, तन्नो दंति प्रचोदयात् ॥",
+    "img_url": "/1/ganesh.webp",
+    "tags": "Focus, Success, Intellect",
+    "arth_en": "We meditate on the one with a single tusk, we contemplate the one with the curved trunk; may that Elephant-faced Lord illuminate our intellect.",
+    "arth_hi": "हम एकदंत वाले का ध्यान करते हैं, हम वक्रतुंड का चिंतन करते हैं; वह गजमुख हमें प्रेरणा और बुद्धि प्रदान करें।",
+    "arth_mr": "आम्ही एकदंताचे ध्यान करतो, आम्ही वक्रतुंडाचे चिंतन करतो; तो गजमुख आम्हाला प्रेरणा आणि बुद्धी देवो.",
+    "ex": "Used as a powerful tool to remove mental fog and sharpen decision-making before starting an exam or a business meeting.",
+    "categories": [
+      "cat-2",
+      "dg-1",
+      "mood-4"
+    ]
   },
   {
     "id": 22,
-    "title": "देवी मन्त्र",
-    "content": "या देवी सर्वभूतेषु माँ रुपेण संस्थिता। \r\nनमस्तस्यै नमस्तस्यै नमो नमः।।\r\n\nया देवी सर्वभूतेषु शक्ती रुपेण संस्थिता।।\r\nनमस्तस्यै नमस्तस्यै नमो नमः।।\r\n\nया देवी सर्वभूतेषु बुद्धि रुपेण संस्थिता।\r\nनमस्तस्यै नमस्तस्यै नमो नमः।।\r\n\nया देवी सर्वभूतेषु लक्ष्मी रुपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमो नमः।।",
-    "favourite": "FALSE",
-    "img_url": "/1/devi.webp",
-    "tags": "devi",
-    "video_id": null
+    "title": "श्री नवदुर्गा रक्षामंत्र",
+    "content": "ॐ जयन्ती मंगला काली भद्रकाली कपालिनी।\nदुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तुते।।",
+    "img_url": "/1/durga.webp",
+    "tags": "Protection, Feminine-Energy, Victory",
+    "arth_en": "Salutations to the Goddess who is the winner, auspicious, and the destroyer of time. Salutations to Durga, the forgiving mother and world-sustainer.",
+    "arth_hi": "जयंती, मंगला, काली, भद्रकाली और कपालिनी को नमस्कार। क्षमा करने वाली, कल्याणकारी और जगत को धारण करने वाली मां दुर्गा को प्रणाम।",
+    "arth_mr": "जयंती, मंगला, काली, भद्रकाली आणि कपालिनी यांना नमस्कार. क्षमा करणारी, कल्याणकारी आणि जगाचे रक्षण करणाऱ्या आई दुर्गेला नमस्कार.",
+    "ex": "Chanted for physical protection and to gain inner strength when facing life-threatening situations or great adversity.",
+    "categories": [
+      "cat-4",
+      "dg-4"
+    ]
   },
   {
     "id": 23,
-    "title": "श्री लक्ष्मी मंत्र",
-    "content": "ॐ ह्रीं श्रीं लक्ष्मीभयो नमः॥\r\n\r\nॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद\r\nॐ श्रीं ह्रीं श्रीं महालक्ष्मयै नम:॥\r\n\r\nॐ श्री महालक्ष्म्यै च विद्महे विष्णु पत्न्यै च धीमहि,\r\nतन्नो लक्ष्मी प्रचोदयात् ॐ॥\r\n\r\nविष्णुप्रिये नमस्तुभ्यं जगद्धिते।\nअर्तिहंत्रि नमस्तुभ्यं समृद्धि कुरु में सदा।।",
-    "favourite": "FALSE",
-    "img_url": "/1/laxmi.webp",
-    "tags": "laxmi,devi",
-    "video_id": null
+    "title": "श्री गंगा जी की स्तुति",
+    "content": "गांगं वारि मनोहारि मुरारिचरणच्युतम् ।\nत्रिपुरारिशिरश्चारि पापहारि पुनातु माम् ।।",
+    "img_url": "/1/ganga.webp",
+    "tags": "Purification, Grace, Sanctity",
+    "arth_en": "May the beautiful water of the Ganges, which flows from the feet of Lord Vishnu and rests on the head of Lord Shiva, purify me and destroy my sins.",
+    "arth_hi": "गंगा का वह सुंदर जल, जो भगवान विष्णु के चरणों से निकलता है और शिवजी के मस्तक पर सुशोभित है, वह मेरे पापों को नष्ट कर मुझे पवित्र करे।",
+    "arth_mr": "गंगेचे ते सुंदर पाणी, जे भगवान विष्णूच्या चरणातून येते आणि शिवजींच्या मस्तकावर विराजमान आहे, ते माझे पाप नष्ट करून मला पवित्र करो.",
+    "ex": "Recited by pilgrims during a dip in holy rivers to signify the spiritual washing away of past mistakes.",
+    "categories": [
+      "cat-5"
+    ]
   },
   {
     "id": 24,
-    "title": "विष्णु मन्त्र",
-    "content": "ॐ नमो भगवते वासुदेवाय नम: ॥\r\n\nॐ नमोः नारायणाय नमः ॥\r\n\r\nॐ श्री विष्णवे च विद्महे \r\nवासुदेवाय धीमहि।\r\nतन्नो विष्णुः प्रचोदयात् ॥\r\n\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं, \r\nविश्वाधारं गगनसदृशं मेघवर्ण शुभाङ्गम् ।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम्, \r\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥\r\n\r\nमङ्गलम् भगवान विष्णुः, मङ्गलम् गरुडध्वजः।\r\nमङ्गलम् पुण्डरी काक्षः, मङ्गलाय तनो हरिः ॥",
-    "favourite": "FALSE",
-    "img_url": "/1/vishnu.webp",
-    "tags": "vishnu",
-    "video_id": null
+    "title": "गायत्री मन्त्र",
+    "content": "ॐ भूर्भवः स्वः तत्स वितुर्वरेण्यं।\nभर्गोदेवस्य धीमहि धियो योनः प्रचोदयात्।।",
+    "img_url": "/1/gayatri.webp",
+    "tags": "Enlightenment, Light, Knowledge",
+    "arth_en": "We meditate on that most adorable light of the Creator, who is the source of all; may that light guide and stimulate our intellect.",
+    "arth_hi": "हम उस श्रेष्ठ परमात्मा के प्रकाश का ध्यान करते हैं जो सभी का स्रोत है; वह प्रकाश हमारी बुद्धि को प्रेरित करे और सत्य के मार्ग पर चलाए।",
+    "arth_mr": "आम्ही त्या श्रेष्ठ परमात्म्याच्या प्रकाशाचे ध्यान करतो जो सर्वांचा उगम आहे; तो प्रकाश आमच्या बुद्धीला प्रेरणा देवो आणि सत्याच्या मार्गावर नेवो.",
+    "ex": "Recited daily at sunrise to cultivate mental clarity, spiritual awakening, and universal wisdom.",
+    "categories": [
+      "cat-1",
+      "dg-2",
+      "mood-6"
+    ]
   },
   {
     "id": 25,
-    "title": "ॐ यक्ष कुबेर मंत्र",
-    "content": "ॐ यक्षाय कुबेराय वैश्रवणाय धनधान्याधिपतये\nधनधान्यसमृद्धिं मे देहि दापय स्वाहा॥\n\nॐ श्रीं ह्रीं क्लीं श्रीं क्लीं वित्तेश्वराय नमः॥",
-    "favourite": "FALSE",
-    "img_url": "/1/kuber.webp",
-    "tags": "kuber",
-    "video_id": null
+    "title": "श्री काली स्तुति",
+    "content": "काली काली महाकाली कालिके परमेश्वरी ।\nसर्वानन्दकरी देवी नारायणि नमोऽस्तुते ।।",
+    "img_url": "/1/kaali.webp",
+    "tags": "Courage, Liberation, Joy",
+    "arth_en": "Salutations to Kali, the great goddess and supreme ruler, who provides all forms of bliss. Salutations to the divine Narayani.",
+    "arth_hi": "काली, महाकाली और परमेश्वरी को नमस्कार, जो सभी प्रकार के आनंद प्रदान करती हैं। देवी नारायणी को मेरा प्रणाम.",
+    "arth_mr": "काली, महाकाली आणि परमेश्वरीला नमस्कार, जी सर्व प्रकारचे आनंद प्रदान करते. देवी नारायणीला माझा नमस्कार.",
+    "ex": "Recited when one needs the courage to destroy internal negativity or ego, seeking the bliss that comes from true spiritual freedom.",
+    "categories": [
+      "cat-4",
+      "cat-5",
+      "dg-4"
+    ]
   },
   {
     "id": 26,
-    "title": "स्वास्थ्य प्राप्ति मन्त्र",
-    "content": "अच्युतानन्द गोविन्द नामोच्चारण भेषजात।\nनश्यन्ति सकला रोगाः सत्यंसत्यं वदाम्यहम्।।",
-    "favourite": "FALSE",
-    "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "देवी मन्त्र (शक्ति रूप)",
+    "content": "या देवी सर्वभूतेषु शक्ती रुपेण संस्थिता।।\r\nनमस्तस्यै नमस्तस्यै नमो नमः।।",
+    "img_url": "/1/devi.webp",
+    "tags": "Power, Energy, Resilience",
+    "arth_en": "Salutations to the Goddess who resides in all beings in the form of power and energy.",
+    "arth_hi": "उस देवी को नमस्कार जो सभी प्राणियों में शक्ति के रूप में स्थित हैं.",
+    "arth_mr": "सर्व प्राण्यांमध्ये शक्तीच्या रूपाने वास करणाऱ्या त्या देवीला माझा वारंवार नमस्कार असो.",
+    "ex": "Used by individuals seeking the inner strength and resilience required to overcome physically or mentally demanding challenges.",
+    "categories": [
+      "dg-4"
+    ]
   },
   {
     "id": 27,
-    "title": "सम्पत्ति प्राप्ति मन्त्र",
-    "content": "आयुर्देहि धनं देहि विद्यां देहि महेश्वरि।\nसमस्तमखिलां देहि देहि मे परमेश्वरि।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "देवी मन्त्र (बुद्धि रूप)",
+    "content": "या देवी सर्वभूतेषु बुद्धि रुपेण संस्थिता।\r\nनमस्तस्यै नमस्तस्यै नमो नमः।।",
+    "img_url": "/1/devi.webp",
+    "tags": "Intelligence, Wisdom, Clarity",
+    "arth_en": "Salutations to the Goddess who resides in all beings in the form of intelligence and wisdom.",
+    "arth_hi": "उस देवी को नमस्कार जो सभी प्राणियों में बुद्धि के रूप में स्थित हैं.",
+    "arth_mr": "सर्व प्राण्यांमध्ये बुद्धीच्या रूपाने वास करणाऱ्या त्या देवीला माझा वारंवार नमस्कार असो.",
+    "ex": "Recited by students or professionals before a complex task to invoke clarity of thought and sharp decision-making.",
+    "categories": [
+      "cat-2",
+      "dg-4",
+      "mood-4"
+    ]
   },
   {
     "id": 28,
-    "title": "श्री हनुमान मंत्र",
-    "content": "ॐ श्री हनुमते नमः॥\r\n\r\nॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि।\r\nतन्नो हनुमत् प्रचोदयात्॥\r\n\r\nमनोजवं मारुततुल्यवेगम्।\nजितेन्दि्रयं बुद्धिमतां वरिष्थम्।\nवातात्मजं वानरयूथमुख्यं।\nश्री रामदूमं शरण प्रपद्ये।।",
-    "favourite": "FALSE",
-    "img_url": "/1/hanuman.webp",
-    "tags": "hanuman",
-    "video_id": null
+    "title": "महालक्ष्मी गायत्री मन्त्र",
+    "content": "ॐ श्री महालक्ष्म्यै च विद्महे विष्णु पत्न्यै च धीमहि,\r\nतन्नो लक्ष्मी प्रचोदयात् ॐ॥",
+    "img_url": "/1/laxmi.webp",
+    "tags": "Abundance, Success, Grace",
+    "arth_en": "We meditate on the great Lakshmi, the consort of Vishnu; may that Goddess of wealth inspire and illuminate our path.",
+    "arth_hi": "हम महालक्ष्मी का ध्यान करते हैं जो भगवान विष्णु की पत्नी हैं; वह लक्ष्मी देवी हमें प्रेरणा दें और हमारा मार्ग प्रशस्त करें.",
+    "arth_mr": "आम्ही महालक्ष्मीचे ध्यान करतो जी भगवान विष्णूची पत्नी आहे; ती लक्ष्मी देवी आम्हाला प्रेरणा देवो आणि आमचा मार्ग प्रकाशित करो.",
+    "ex": "Commonly chanted during financial planning or the start of a new business venture to invite sustainable prosperity and divine grace.",
+    "categories": [
+      "cat-3",
+      "dg-4",
+      "dg-5"
+    ]
   },
   {
     "id": 29,
-    "title": "शिवजी मन्त्र",
-    "content": "ॐ नमः शिवाय ॥\r\n\r\nशम्भवाय च मयोभवाय च\r\nनमः शंकराय च मयस्कराय च \r\nनमः शिवाय च शिवतराय च ॥\r\n\r\nॐ नमो भगवते रूद्राय ॥\r\n\r\nॐ तत्पुरुषाय विद्महे \r\nमहादेवाय धीमहि \r\nतन्नो रुद्रः प्रचोदयात् ॥\r\n\r\nॐ महादेवाय विद्महे \r\nरुद्रमूर्तये धीमहि\r\nतन्नः शिवः प्रचोदयात् ॥\r\n\r\nॐ त्र्यम्बकं यजामहे \r\nसुगन्धिं पुष्टिवर्धनम् \r\nउर्वारुकमिव बन्धनान् \r\nमृत्योर्मुक्षीय मामृतात् ॥\r\n\r\nॐ नमो हिरण्यबाहवे\r\nहिरण्यवर्णाय हिरण्यरूपाय \r\nहिरण्यपतए अंबिका पतए \r\nउमा पतए पशूपतए नमो नमः ॥\r\n\r\nश्री शिवाय नम: ॥\r\n\r\nश्री शंकराय नम: ॥\r\n\r\nश्री महेश्वराय नम: ॥\r\n\r\nश्री सांबसदाशिवाय नम: ॥\r\n",
-    "favourite": "FALSE",
-    "img_url": "/1/shiv.webp",
-    "tags": "shiv",
-    "video_id": null
+    "title": "विष्णु शान्ताकारं मन्त्र",
+    "content": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं, \r\nविश्वाधारं गगनसदृशं मेघवर्ण शुभाङ्गम् ।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम्, \r\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥",
+    "img_url": "/1/vishnu.webp",
+    "tags": "Serenity, Protection, Supremacy",
+    "arth_en": "I bow to Lord Vishnu, who has a peaceful form, rests on a serpent, and is the support of the universe; he destroys the fear of worldly existence.",
+    "arth_hi": "मैं भगवान विष्णु को प्रणाम करता हूँ, जिनका स्वरूप शांत है, जो शेषनाग पर शयन करते हैं और जगत के आधार हैं; वह संसार के भय को दूर करते हैं.",
+    "arth_mr": "मी भगवान विष्णूंना नमस्कार करतो, ज्यांचे स्वरूप शांत आहे, जे शेषनागावर शयन करतात आणि जगाचा आधार आहेत; ते संसारातील भीती नष्ट करतात.",
+    "ex": "Recited during times of extreme anxiety or existential fear to find peace in the vast, protective nature of the divine.",
+    "categories": [
+      "cat-4",
+      "dg-2",
+      "dg-3"
+    ]
   },
   {
     "id": 30,
-    "title": "सरस्वती मन्त्र ",
-    "content": "ऐं॥\r\n\r\nऐं लृं॥\r\n\r\nऐं रुं स्वों॥\r\n\r\nवद वद वाग्वादिनी स्वाहा॥\r\n\r\nॐ ऐं नमः॥\r\n\r\nॐ ऐं क्लीं सौः॥\r\n\r\nॐ ऐं महासरस्वत्यै नमः॥\r\n\r\nॐ ऐं ह्रीं श्रीं वाग्देव्यै सरस्वत्यै नमः॥\r\n\r\nॐ अर्हं मुख कमल वासिनी पापात्म क्षयम्कारी\r\nवद वद वाग्वादिनी सरस्वती ऐं ह्रीं नमः स्वाहा॥\n\nया देवी सर्वभूतेषु बुद्धिरूपेणसंस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥\r\n\r\nॐ ऐं वाग्देव्यै विद्महे कामराजाय धीमहि।\r\nतन्नो देवी प्रचोदयात्॥\r\n",
-    "favourite": "FALSE",
-    "img_url": "/1/saraswati.webp",
-    "tags": "saraswati,devi",
-    "video_id": null
+    "title": "कुबेर धन प्राप्ति मन्त्र",
+    "content": "ॐ यक्षाय कुबेराय वैश्रवणाय धनधान्याधिपतये\nधनधान्यसमृद्धिं मे देहि दापय स्वाहा॥",
+    "img_url": "/1/kuber.webp",
+    "tags": "Wealth, Growth, Opportunity",
+    "arth_en": "Salutations to Lord Kuber, the lord of wealth and grains; please grant me prosperity and abundance in all aspects.",
+    "arth_hi": "धन और धान्य के अधिपति कुबेर को नमस्कार; कृपया मुझे धन-धान्य की समृद्धि प्रदान करें.",
+    "arth_mr": "धन आणि धान्याचा अधिपती कुबेराला नमस्कार; कृपया मला धन-धान्याची समृद्धी प्रदान कर.",
+    "ex": "Used when seeking new opportunities for growth or when managing significant financial resources to ensure ethical and steady increase.",
+    "categories": [
+      "cat-3",
+      "dg-4",
+      "mood-2"
+    ]
   },
   {
     "id": 31,
-    "title": "बगुलामुखी मन्त्र",
-    "content": "ॐ ह्लीं बगलामुखी सर्व दुष्टानाम \r\nवाचं मुखम पदम स्तम्भय जिव्हां\r\nकीलय बुद्धिम विनाशय ह्लीं ॐ स्वाहा।।",
-    "favourite": "FALSE",
-    "img_url": "/1/devi.webp",
-    "tags": "bagalamukhi,devi",
-    "video_id": null
+    "title": "स्वास्थ्य प्राप्ति मन्त्र",
+    "content": "अच्युतानन्द गोविन्द नामोच्चारण भेषजात।\nनश्यन्ति सकला रोगाः सत्यंसत्यं वदाम्यहम्।।",
+    "img_url": "/1/om.webp",
+    "tags": "Healing, Health, Recovery",
+    "arth_en": "By chanting the names of Achyuta, Ananda, and Govinda, all diseases are destroyed; this is the absolute truth.",
+    "arth_hi": "अच्युत, आनंद और गोविंद के नामों के उच्चारण मात्र से ही सभी रोग नष्ट हो जाते हैं; यह पूर्णतः सत्य है.",
+    "arth_mr": "अच्युत, आनंद आणि गोविंद या नावांच्या उच्चारानेच सर्व रोग नष्ट होतात; हे पूर्णतः सत्य आहे.",
+    "ex": "Chanted by patients or their families during recovery from illness to instill hope and trigger the body's internal healing mechanisms.",
+    "categories": [
+      "cat-4",
+      "dg-4"
+    ]
   },
   {
     "id": 32,
-    "title": "श्री शीतला स्तुति",
-    "content": "शीतले त्वं जगन्माता शीतले त्वं जगत् पिता।\nशीतले त्वं जगद्धात्री शीतलायै नमो नमः।।",
-    "favourite": "FALSE",
-    "img_url": "/1/sheetala.webp",
-    "tags": "sheetala,devi",
-    "video_id": null
+    "title": "सम्पत्ति प्राप्ति मन्त्र",
+    "content": "आयुर्देहि धनं देहि विद्यां देहि महेश्वरि।\nसमस्तमखिलां देहि देहि मे परमेश्वरि।।",
+    "img_url": "/2/om.webp",
+    "tags": "Fulfillment, Longevity, Prosperity",
+    "arth_en": "O Great Goddess, grant me long life, wealth, and knowledge; grant me everything that is required for a fulfilled life.",
+    "arth_hi": "हे महेश्वरी, मुझे आयु, धन और विद्या प्रदान करें; हे परमेश्वरी, मुझे वह सब कुछ दें जिसकी मुझे आवश्यकता है.",
+    "arth_mr": "हे महेश्वरी, मला आयुष्य, धन आणि विद्या प्रदान कर; हे परमेश्वरी, मला जीवनात आवश्यक असलेले सर्व काही प्रदान कर.",
+    "ex": "Used during personal prayers when asking for holistic growth that balances physical health, material wealth, and spiritual wisdom.",
+    "categories": [
+      "cat-3",
+      "dg-4"
+    ]
   },
   {
     "id": 33,
-    "title": "मंगल मन्त्र",
-    "content": "ॐ हुं श्रीं मंगलाय नमः।।",
-    "favourite": "FALSE",
-    "img_url": "/1/om.webp",
-    "tags": "mangal",
-    "video_id": null
+    "title": "हनुमान मनोजवं मन्त्र",
+    "content": "मनोजवं मारुततुल्यवेगम्।\nजितेन्दि्रयं बुद्धिमतां वरिष्थम्।\nवातात्मजं वानरयूथमुख्यं।\nश्री रामदूमं शरण प्रपद्ये।।",
+    "img_url": "/1/hanuman.webp",
+    "tags": "Speed, Control, Devotion",
+    "arth_en": "I take refuge in the messenger of Rama, who is swift as the mind, has mastered his senses, and is the wisest among the wise.",
+    "arth_hi": "मैं भगवान राम के दूत हनुमान की शरण लेता हूँ, जो मन के समान तीव्र हैं, जिन्होंने अपनी इंद्रियों को जीत लिया है और जो बुद्धिमानों में श्रेष्ठ हैं.",
+    "arth_mr": "मी भगवान रामाचा दूत हनुमानाला शरण जातो, जो मनासारखा वेगवान आहे, ज्याने आपल्या इंद्रियांवर विजय मिळवला आहे आणि जो बुद्धिमानांमध्ये श्रेष्ठ आहे.",
+    "ex": "Recited when needing extreme focus and self-control, especially during competitive exams or high-pressure athletic events.",
+    "categories": [
+      "cat-2",
+      "dg-5",
+      "dg-6"
+    ]
   },
   {
     "id": 34,
-    "title": "बुध मन्त्र",
-    "content": "ॐ ऐं स्त्रीं श्रीं बुधाय नमः।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "budh",
-    "video_id": null
+    "title": "महामृत्युंजय मन्त्र (लघु)",
+    "content": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् \r\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ॥",
+    "img_url": "/1/shiv.webp",
+    "tags": "Immortality, Protection, Liberation",
+    "arth_en": "We worship the three-eyed Lord who nourishes all; may He liberate us from death just as a ripe cucumber is severed from its vine.",
+    "arth_hi": "हम उस तीन नेत्रों वाले भगवान की पूजा करते हैं जो सभी का पोषण करते हैं; वह हमें मृत्यु से उसी प्रकार मुक्त करें जैसे एक पका हुआ खीरा अपनी बेल से अलग हो जाता है.",
+    "arth_mr": "आम्ही त्या त्रिनेत्र देवाची पूजा करतो जो सर्वांचे पोषण करतो; तो आम्हाला मृत्यूपासून मुक्त करो, ज्याप्रमाणे पिकलेली काकडी वेलीपासून सहज वेगळी होते.",
+    "ex": "Recited daily for longevity and protection from untimely death or accidents.",
+    "categories": [
+      "cat-4",
+      "cat-8",
+      "dg-2",
+      "dg-6"
+    ]
   },
   {
     "id": 35,
-    "title": "बृहस्पति मन्त्र",
-    "content": "ॐ बृं बृहस्पतये नमः।।",
-    "img_url": "/1/om.webp",
-    "favourite": "FALSE",
-    "img_url": "/1/brihaspati.webp",
-    "tags": "brihaspati",
-    "video_id": null
+    "title": "सरस्वती बुद्धिरूप मन्त्र",
+    "content": "या देवी सर्वभूतेषु बुद्धिरूपेणसंस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+    "img_url": "/1/saraswati.webp",
+    "tags": "Knowledge, Art, Creativity",
+    "arth_en": "Salutations to the Goddess who resides in all beings in the form of intellect and knowledge.",
+    "arth_hi": "उस देवी को नमस्कार जो सभी प्राणियों में बुद्धि के रूप में स्थित हैं.",
+    "arth_mr": "सर्व प्राण्यांमध्ये बुद्धीच्या रूपाने वास करणाऱ्या त्या देवीला माझा वारंवार नमस्कार असो.",
+    "ex": "Chanted by artists, writers, and students before starting creative work to seek inspiration and technical mastery.",
+    "categories": [
+      "cat-2",
+      "dg-6",
+      "mood-4"
+    ]
   },
   {
     "id": 36,
-    "title": "शुक्र मन्त्र",
-    "content": "ॐ ह्रीं श्रीं शुक्राय नमः ।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "shukra",
-    "video_id": null
+    "title": "बगुलामुखी मन्त्र",
+    "content": "ॐ ह्लीं बगलामुखी सर्व दुष्टानाम \r\nवाचं मुखम पदम स्तम्भय जिव्हां\r\nकीलय बुद्धिम विनाशय ह्लीं ॐ स्वाहा।।",
+    "img_url": "/1/devi.webp",
+    "tags": "Defense, Victory, Silence",
+    "arth_en": "O Bagalamukhi, paralyze the speech and intellect of all those who intend harm; stop their movement and protect me.",
+    "arth_hi": "हे बगलामुखी, जो बुराई करना चाहते हैं उनकी वाणी और बुद्धि को स्तंभित कर दें; उनके मार्ग को रोकें और मेरी रक्षा करें.",
+    "arth_mr": "हे बगलामुखी, जे वाईट चिंततात त्यांच्या वाणीला आणि बुद्धीला स्तंभित कर; त्यांचे मार्ग थांबव आणि माझे रक्षण कर.",
+    "ex": "Used in legal battles or when facing unjust opposition to ensure that one's enemies cannot speak or act against the truth.",
+    "categories": [
+      "dg-4",
+      "dg-6"
+    ]
   },
   {
     "id": 37,
-    "title": "शनि मन्त्र",
-    "content": "ॐ ऐं हीं श्रीं श्नैश्चराय नमः \n\r\nऊँ शं शनैश्चाराय नमः।",
-    "favourite": "FALSE",
-    "img_url": "/1/shani.webp",
-    "tags": "shani",
-    "video_id": null
+    "title": "श्री शीतला स्तुति",
+    "content": "शीतले त्वं जगन्माता शीतले त्वं जगत् पिता।\nशीतले त्वं जगद्धात्री शीतलायै नमो नमः।।",
+    "img_url": "/1/sheetala.webp",
+    "tags": "Health, Protection, Cooling",
+    "arth_en": "O Shitala, you are the Mother of the world, you are the Father of the world. You are the sustainer of the world; salutations to you again and again.",
+    "arth_hi": "हे शीतला माता, आप ही इस जगत की माता और पिता हैं। आप ही इस संसार को धारण करने वाली हैं; आपको बार-बार नमस्कार है।",
+    "arth_mr": "हे शीतला माता, तूच या जगाची माता आणि पिता आहेस. तूच जगाचे पालनपोषण करणारी आहेस; तुला वारंवार नमस्कार असो.",
+    "ex": "Often recited by parents to seek the goddess's protection for their children against fevers and infectious diseases, invoking her 'cooling' grace.",
+    "categories": [
+      "cat-4",
+      "dg-6"
+    ]
   },
   {
     "id": 38,
-    "title": "राहू मन्त्र",
-    "content": "ऊँ ऎं ह्रीं राहवे नम: ।।",
-    "favourite": "FALSE",
+    "title": "मंगल मन्त्र",
+    "content": "ॐ हुं श्रीं मंगलाय नमः।।",
     "img_url": "/1/om.webp",
-    "tags": "rahu",
-    "video_id": null
+    "tags": "Energy, Courage, Auspiciousness",
+    "arth_en": "Om, salutations to Mangala (Mars), the auspicious one who provides energy and strength.",
+    "arth_hi": "ॐ, मंगल देव को नमस्कार, जो शुभता, ऊर्जा और शक्ति प्रदान करते हैं।",
+    "arth_mr": "ॐ, मंगल देवाला नमस्कार, जो शुभत्व, ऊर्जा आणि शक्ती प्रदान करतो.",
+    "ex": "Chanted on Tuesdays or before a physical challenge to overcome lethargy and gain the courage needed for a difficult task.",
+    "categories": [
+      "cat-6",
+      "dg-6"
+    ]
   },
   {
     "id": 39,
-    "title": "केतु मन्त्र",
-    "content": "ॐ ह्रीं केतव नमः।।",
-    "favourite": "FALSE",
-    "img_url": "/1/navagrah.jpg",
-    "tags": "ketu",
-    "video_id": null
+    "title": "बुध मन्त्र",
+    "content": "ॐ ऐं स्त्रीं श्रीं बुधाय नमः।।",
+    "img_url": "/2/om.webp",
+    "tags": "Communication, Intellect, Logic",
+    "arth_en": "Om, salutations to Budha (Mercury), the lord of intelligence, communication, and sharp wit.",
+    "arth_hi": "ॐ, बुद्ध देव को नमस्कार, जो बुद्धि, संवाद और तीव्र विवेक के स्वामी हैं।",
+    "arth_mr": "ॐ, बुध देवाला नमस्कार, जो बुद्धिमत्ता, संवाद आणि तीक्ष्ण बुद्धीचा स्वामी आहे.",
+    "ex": "Used by professionals before an important presentation or negotiation to ensure clear speech and logical thinking.",
+    "categories": [
+      "cat-6",
+      "dg-6"
+    ]
   },
   {
     "id": 40,
-    "title": "सम्पत्ति प्राप्ति मन्त्र",
-    "content": "आयुर्देहि धनं देहि विद्यां देहि महेश्वरि ।\nसमस्तमखिलां देहि देहि मे परमेश्वरि ।।",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "बृहस्पति मन्त्र",
+    "content": "ॐ बृं बृहस्पतये नमः।।",
+    "img_url": "/1/brihaspati.webp",
+    "tags": "Wisdom, Teaching, Prosperity",
+    "arth_en": "Om, salutations to Brihaspati (Jupiter), the preceptor of the gods and the source of great wisdom.",
+    "arth_hi": "ॐ, बृहस्पति देव को नमस्कार, जो देवताओं के गुरु और महान ज्ञान के स्रोत हैं।",
+    "arth_mr": "ॐ, बृहस्पती देवाला नमस्कार, जो देवांचे गुरु आणि महान ज्ञानाचा स्रोत आहे.",
+    "ex": "Recited by students and teachers on Thursdays to invite deep understanding and success in academic pursuits.",
+    "categories": [
+      "cat-2"
+    ]
   },
   {
     "id": 41,
-    "title": "अन्नपूर्णा मन्त्र",
-    "content": "अन्नपूर्णे सदा पूर्णे शंकरप्राणवल्लभे ।\nज्ञानवैराग्यसिद्ध्य भिक्षां देहि च पार्वति ।।",
-    "favourite": "FALSE",
-    "img_url": "/1/annapurna.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "शुक्र मन्त्र",
+    "content": "ॐ ह्रीं श्रीं शुक्राय नमः ।।",
+    "img_url": "/2/om.webp",
+    "tags": "Luxury, Art, Love",
+    "arth_en": "Om, salutations to Shukra (Venus), the lord of beauty, arts, and material comforts.",
+    "arth_hi": "ॐ, शुक्र देव को नमस्कार, जो सौंदर्य, कला और भौतिक सुखों के स्वामी हैं।",
+    "arth_mr": "ॐ, शुक्र देवाला नमस्कार, जो सौंदर्य, कला आणि भौतिक सुखांचा स्वामी आहे.",
+    "ex": "Used to seek harmony in relationships or when starting a creative career in music, fashion, or design.",
+    "categories": [
+      "dg-4",
+      "dg-6"
+    ]
   },
   {
     "id": 42,
-    "title": "प्रदक्षिणा मन्त्र",
-    "content": "यानि कानि च पापानि जन्मान्तरकृतानि च।\nतानि तानि प्रणश्यन्ति प्रदक्षिण पदे पदे।।",
-    "favourite": "FALSE",
-    "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "शनि बीज मन्त्र",
+    "content": "ॐ ऐं हीं श्रीं श्नैश्चराय नमः",
+    "img_url": "/1/shani.webp",
+    "tags": "Discipline, Justice, Karma",
+    "arth_en": "Om, salutations to Shanishchara (Saturn), the lord of discipline and the overseer of one's karma.",
+    "arth_hi": "ॐ, शनैश्चर देव को नमस्कार, जो अनुशासन के स्वामी और कर्मों के फलदाता हैं।",
+    "arth_mr": "ॐ, शनैश्चर देवाला नमस्कार, जो शिस्तीचा स्वामी आणि कर्मांचा फळदाता आहे.",
+    "ex": "Chanted during difficult life phases to cultivate patience and ensure that one remains on the path of righteousness.",
+    "categories": [
+      "cat-6",
+      "dg-6",
+      "dg-7"
+    ]
   },
   {
     "id": 43,
-    "title": "क्षमा प्रार्थना मन्त्र",
-    "content": "आवाहनं न जानामि \r\nन जानामि विसर्जनम्\r\nपूजां चैव न जानामि \r\nक्षमस्व परमेश्वर,\r\nमंत्रहीनं क्रियाहीनं \r\nभक्तिहीनं जनार्दन \r\nयत्पूजितं मया देव \r\nपरिपूर्ण तदस्तु मे\r\n",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "शनि गायत्री मन्त्र",
+    "content": "ऊँ शं शनैश्चाराय नमः।",
+    "img_url": "/1/shani.webp",
+    "tags": "Protection, Endurance, Peace",
+    "arth_en": "Salutations to the slow-moving Lord Saturn; may he grant us peace and protection.",
+    "arth_hi": "धीरे चलने वाले भगवान शनि को नमस्कार; वे हमें शांति और सुरक्षा प्रदान करें।",
+    "arth_mr": "मंद गतीने चालणाऱ्या भगवान शनीला नमस्कार; ते आम्हाला शांती आणि संरक्षण देवोत.",
+    "ex": "Recited specifically on Saturdays to reduce the intensity of hardships and find stability in unstable times.",
+    "categories": [
+      "cat-4",
+      "cat-6",
+      "dg-6",
+      "dg-7"
+    ]
   },
   {
     "id": 44,
-    "title": "सर्वे भवन्तु सुखिन",
-    "content": "सर्वे भवन्तु सुखिनः\nसर्वे सन्तु निरामयाः।\nसर्वे भद्राणि पश्यन्तु\nमा कश्चिद्दुःखभाग्भवेत्।\nॐ शान्तिः शान्तिः शान्तिः॥",
-    "favourite": "FALSE",
+    "title": "राहू मन्त्र",
+    "content": "ऊँ ऎं ह्रीं राहवे नम: ।।",
     "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "tags": "Ambition, Transformation, Intuition",
+    "arth_en": "Om, salutations to Rahu, the cosmic force that governs worldly desires and sudden transformations.",
+    "arth_hi": "ॐ, राहु देव को नमस्कार, जो सांसारिक इच्छाओं और अचानक होने वाले परिवर्तनों के स्वामी हैं।",
+    "arth_mr": "ॐ, राहू देवाला नमस्कार, जो सांसारिक इच्छा आणि अचानक होणाऱ्या बदलांचा स्वामी आहे.",
+    "ex": "Used to seek clarity when faced with illusions or when trying to navigate complex social or political situations.",
+    "categories": [
+      "cat-5",
+      "cat-6",
+      "dg-6",
+      "dg-7"
+    ]
   },
   {
     "id": 45,
-    "title": "ॐ असतो मा सद्गमय",
-    "content": "ॐ असतो मा सद्गमय।\nतमसो मा ज्योतिर्गमय।\nमृत्योर्मा अमृतं गमय।\nॐ शान्तिः शान्तिः शान्तिः॥\n\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पुर्णमुदच्यते\nपूर्णश्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
-    "favourite": "FALSE",
-    "img_url": "/2/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "केतु मन्त्र",
+    "content": "ॐ ह्रीं केतव नमः।।",
+    "img_url": "/1/navagrah.jpg",
+    "tags": "Detachment, Spirituality, Insight",
+    "arth_en": "Om, salutations to Ketu, the force of spiritual liberation and deep intuitive insight.",
+    "arth_hi": "ॐ, केतु देव को नमस्कार, जो आध्यात्मिक मुक्ति और गहरी अंतर्दृष्टि के कारक हैं।",
+    "arth_mr": "ॐ, केतू देवाला नमस्कार, जो आध्यात्मिक मुक्ती आणि खोल अंतर्दृष्टीचा कारक आहे.",
+    "ex": "Recited by spiritual seekers to overcome worldly attachments and gain enlightenment regarding the self.",
+    "categories": [
+      "cat-5",
+      "cat-6",
+      "cat-8",
+      "dg-6",
+      "dg-7"
+    ]
   },
   {
     "id": 46,
-    "title": "ग्रह पीड़ा-नक्षत्र दोष दूर करने का मन्त्र",
-    "content": "नारायणं सर्वकालं क्षुत प्रस्खलनादिषु।\nग्रह नक्षत्र पीडाषु देव बाधाषु सर्वतः।।",
-    "favourite": "FALSE",
-    "img_url": "/1/om.webp",
-    "tags": "prathana",
-    "video_id": null
+    "title": "सम्पत्ति प्राप्ति मन्त्र",
+    "content": "आयुर्देहि धनं देहि विद्यां देहि महेश्वरि ।\nसमस्तमखिलां देहि देहि मे परमेश्वरि ।।",
+    "img_url": "/2/om.webp",
+    "tags": "Prosperity, Wealth, Longevity",
+    "arth_en": "O Maheshwari, grant me long life, wealth, and knowledge. O Parameshwari, grant me all prosperity in its entirety.",
+    "arth_hi": "हे महेश्वरी, मुझे आयु, धन और विद्या प्रदान करें। हे परमेश्वरी, मुझे समस्त सुख और समृद्धि पूर्ण रूप से प्रदान करें।",
+    "arth_mr": "हे महेश्वरी, मला आयुष्य, धन आणि विद्या प्रदान कर. हे परमेश्वरी, मला सर्व सुख आणि समृद्धी पूर्णपणे प्रदान कर.",
+    "ex": "Often used during family prayers to seek a well-rounded life that includes both material security and wisdom.",
+    "categories": [
+      "cat-3",
+      "cat-4",
+      "cat-6",
+      "dg-6",
+      "mood-2"
+    ]
   },
   {
     "id": 47,
-    "title": "सम्पूर्ण महामृत्युंजय मन्त्र:-",
-    "content": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् उर्वारुकमिव बन्धनान्मृ त्योर्मुक्षीय मामृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ।",
-    "favourite": "FALSE",
-    "img_url": "/1/shiv.webp",
-    "tags": "shiv",
-    "video_id": null
+    "title": "अन्नपूर्णा मन्त्र",
+    "content": "अन्नपूर्णे सदा पूर्णे शंकरप्राणवल्लभे ।\nज्ञानवैराग्यसिद्ध्य भिक्षां देहि च पार्वति ।।",
+    "img_url": "/1/annapurna.webp",
+    "tags": "Abundance, Nourishment, Wisdom",
+    "arth_en": "O Annapurna, ever-full, beloved of Lord Shiva; O Parvati, grant me the alms of knowledge and detachment.",
+    "arth_hi": "हे अन्नपूर्णा, जो सदा पूर्ण हैं और शिव की प्राणप्रिय हैं; हे पार्वती, मुझे ज्ञान और वैराग्य की भिक्षा प्रदान करें।",
+    "arth_mr": "हे अन्नपूर्णा, जी सदैव पूर्ण आहे आणि शिवाची प्राणप्रिय आहे; हे पार्वती, मला ज्ञान आणि वैराग्याची भिक्षा दे.",
+    "ex": "Recited by the head of a household to ensure the kitchen and home are always filled with food and spiritual peace.",
+    "categories": [
+      "cat-3",
+      "dg-2",
+      "dg-4",
+      "mood-3"
+    ]
   },
   {
     "id": 48,
-    "title": "रक्षा मंत्र",
-    "content": "येन बद्धो बलि राजा,\r\nदानवेन्द्रो महाबल: \r\nतेन त्वाम् प्रतिबद्धनामि\r\nरक्षे माचल माचल:",
-    "favourite": "FALSE",
+    "title": "प्रदक्षिणा मन्त्र",
+    "content": "यानि कानि च पापानि जन्मान्तरकृतानि च।\nतानि तानि प्रणश्यन्ति प्रदक्षिण पदे पदे।।",
     "img_url": "/1/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "Forgiveness, Devotion, Cleansing",
+    "arth_en": "Whatever sins I have committed in this life or previous births, may they all be destroyed with every step I take during this circumambulation.",
+    "arth_hi": "इस जन्म या पिछले जन्मों में मैंने जो भी पाप किए हैं, वे इस परिक्रमा के दौरान मेरे हर कदम के साथ नष्ट हो जाएं।",
+    "arth_mr": "या जन्मात किंवा मागील जन्मात मी जे काही पाप केले आहेत, ते या परिक्रमेदरम्यान माझ्या प्रत्येक पावलासोबत नष्ट होवोत.",
+    "ex": "Chanted while walking around a deity or a sacred tree to symbolize the active intent of letting go of past mistakes.",
+    "categories": [
+      "cat-7",
+      "dg-7"
+    ]
   },
   {
     "id": 49,
-    "title": "संकल्प मंत्र",
-    "content": "ॐ विष्णुर्विष्णुर्विष्णु:\r\nॐ अद्य  ब्रह्मणोऽह्नि द्वितीय परार्धे \r\nश्री श्वेतवाराहकल्पे वैवस्वतमन्वन्तरे \r\nअष्टाविंशतितमे कलियुगे \r\nकलिप्रथम चरणे जम्बूद्वीपे भरतखण्डे भारतवर्षे पुण्य\r\n(अपने नगर/गांव का नाम लें) \r\nक्षेत्रे बौद्धावतारे वीर विक्रमादित्यनृपते : 2071, \r\nतमेऽब्दे प्लवंग नाम \r\nसंवत्सरे दक्षिणायने ..... \r\nऋतो महामंगल्यप्रदे \r\nमासानां मासोत्तमे \r\n.... मासे \r\n....पक्षे\r\n .....तिथौ \r\n .....वासरे  \r\n (गोत्र का नाम लें) गोत्रोत्पन्नोऽहं \r\n अमुकनामा (अपना नाम लें) \r\n सकलपापक्षयपूर्वकं \r\n सर्वारिष्ट शांतिनिमित्तं \r\n सर्वमंगलकामनया - श्रुतिस्मृत्योक्तफलप्राप्त्यर्थं \r\n मनेप्सित कार्य सिद्धयर्थं \r\n श्री ..... (जिस देवी/देवता की पूजा कर रहे हैं उनका नाम लें)\r\n पूजनं च अहं करिष्ये। \r\n तत्पूर्वागंत्वेन निर्विघ्नतापूर्वक कार्य सिद्धयर्थं\r\nयथामिलितोपचारे गणपति पूजनं करिष्ये।\r\n\r\nसंकल्प मंत्र बोलने के बाद हाथ की सारी सामग्री निचे छोड़ दें ।\r\nअमुक स्थाने – कार्य का स्थान\r\nअमुक संवत्सरे – संवत्सर का नाम\r\nअमुक अयने – उत्तरायन/दक्षिणायन\r\nअमुक ऋतौ – छह ऋतु हैं (वसन्त, ग्रीष्म, वर्षा, शरद्, हेमन्त, शिशिर)\t\r\nअमुक मासे – 12 मास हैं (माघ, फाल्गुन, चैत्र, वैशाख, ज्येष्ठ, आषाढ, श्रावण, भाद्रपद, आश्विन, कार्तिक, अग्रहायण, पौष )\r\nअमुक पक्षे – पक्ष का नाम (शुक्ल या कृष्ण पक्ष)\r\nअमुक तिथौ – तिथि का नाम\r\nअमुक वासरे – दिन का नाम\r\nअमुक समये – दिन में कौन सा समय\r\n\r\nपूजा या व्रत के लिए संकल्प लेने से आस्था विशवास तो बढ़ता ही है साथ ही पूजा व्रत को पूर्ण करने के लिए इच्छा भी बनी रहती है।\r\n",
-    "favourite": "FALSE",
+    "title": "क्षमा प्रार्थना मन्त्र",
+    "content": "आवाहनं न जानामि न जानामि विसर्जनम्। पूजां चैव न जानामि क्षमस्व परमेश्वर।।",
     "img_url": "/2/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "Humility, Forgiveness, Devotion",
+    "arth_en": "I do not know how to invoke You, nor how to bid farewell. I do not know the correct way to worship; please forgive me, O Supreme Lord.",
+    "arth_hi": "मैं आपका आह्वान करना नहीं जानता, न ही विसर्जन करना जानता हूँ। मैं पूजा करने की विधि भी नहीं जानता; हे परमेश्वर, मुझे क्षमा करें।",
+    "arth_mr": "मला तुझे आवाहन करायला येत नाही, ना विसर्जन करायला येते. मला पूजेची पद्धतही माहित नाही; हे परमेश्वरा, मला क्षमा कर.",
+    "ex": "Recited at the end of any ritual or daily prayer to humbly acknowledge that spiritual intent is more important than perfect procedure.",
+    "categories": [
+      "cat-7",
+      "dg-7"
+    ]
   },
   {
     "id": 50,
-    "title": "पुष्पांजलि मंत्र",
-    "content": "ॐ यज्ञेन यज्ञमयजन्त\r\nदेवास्तनि धर्माणि प्रथमान्यासन् ।\r\n\r\nते ह नाकं महिमान: \r\nसचंत यत्र पूर्वे साध्या: \r\nसंति देवा: ॥\r\n\r\n ॥ अर्थात  ॥\r\n\r\nदेवों ने यज्ञ के द्वारा यज्ञरुप प्रजापती का पूजन किया। \r\nयज्ञ और तत्सम उपासना के वे प्रारंभिक धर्मविधि थे।\r\n जहां पहले देवता निवास करते थे (स्वर्गलोक में) \r\n वह स्थान यज्ञाचरण द्वारा प्राप्त करके साधक महानता (गौरव) प्राप्त करते हैं।\r\n\r\n \r\nॐ राजाधिराजाय प्रसह्य साहिने।\r\nनमो वयं वैश्रवणाय कुर्महे।\r\nस मस कामान् काम कामाय मह्यं।\r\nकामेश्र्वरो वैश्रवणो ददातु कुबेराय वैश्रवणाय।\r\nमहाराजाय नम: ।\r\n\r\n ॥ अर्थात  ॥\r\nहमारे लिए सब कुछ अनुकुल करने वाले राजाधिराज\r\n वैश्रवण कुबेर को हम वंदन करते हैं। \r\n वो कामनेश्वर कुबेर मुझ कामनार्थी की सारी कामनाओं को पूरा करें।\r\n\r\nॐ स्वस्ति, साम्राज्यं भौज्यं स्वाराज्यं\r\nवैराज्यं पारमेष्ट्यं राज्यं महाराज्यमाधिपत्यमयं ।\r\nसमन्तपर्यायीस्यात् सार्वभौमः सार्वायुषः आन्तादापरार्धात् ।\r\nपृथीव्यै समुद्रपर्यंताया एकराळ इति ॥\r\n\r\n ॥ अर्थात  ॥\r\n\r\nहमारा राज्य सर्व कल्याणकारी राज्य हो। \r\nहमारा राज्य सर्व उपभोग्य वस्तुओं से परिपूर्ण हो। यहां लोकराज्य हो। \r\nहमारा राज्य आसक्तिरहित, लोभरहित हो। \r\nऐसे परमश्रेष्ठ महाराज्य पर हमारी अधिसत्ता हो।\r\n हमारा राज्य क्षितिज की सीमा तक सुरक्षित रहें। \r\n समुद्र तक फैली पृथ्वी पर हमारा दीर्घायु अखंड राज्य हो। \r\n हमारा राज्य सृष्टि के अंत तक सुरक्षित रहें।\r\n \r\n ॥ अर्थात  ॥\r\n\r\nॐ तदप्येषः श्लोकोभिगीतो।\r\nमरुतः परिवेष्टारो मरुतस्यावसन् गृहे।\r\nआविक्षितस्य कामप्रेर्विश्वेदेवाः सभासद इति ॥\r\n\r\n॥ मंत्रपुष्पांजली समर्पयामि ॥\r\n\r\nराज्य के लिए और राज्य की कीर्ति गाने के लिए यह श्लोक गाया गया है।\r\nअविक्षित के पुत्र मरुती, जो राज्यसभा के सर्व सभासद है \r\nऐसे मरुतगणों द्वारा परिवेष्टित किया गया यह राज्य हमें प्राप्त हो यहीं कामना है।\r\n",
-    "favourite": "FALSE",
+    "title": "सर्वे भवन्तु सुखिन",
+    "content": "सर्वे भवन्तु सुखिनः\nसर्वे सन्तु निरामयाः।\nसर्वे भद्राणि पश्यन्तु\nमा कश्चिद्दुःखभाग्भवेत्।\nॐ शान्तिः शान्तिः शान्तिः॥",
     "img_url": "/1/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "well-being, compassion, universal-peace",
+    "arth_en": "May everyone be happy, may everyone be free from illness. May everyone see what is auspicious, may no one suffer. Om Peace, Peace, Peace.",
+    "arth_hi": "सभी सुखी हों, सभी रोगमुक्त रहें। सभी मंगलमय घटनाओं के साक्षी बनें और किसी को भी दुःख का भागी न बनना पड़े। ॐ शांति, शांति, शांति।",
+    "arth_mr": "सर्व सुखी असोत, सर्व रोगमुक्त असोत. सर्वांचे कल्याण होवो आणि कोणाच्याही वाट्याला दुःख येऊ नये. ॐ शांती, शांती, शांती.",
+    "ex": "Recited at the end of a community gathering or family prayer to set a collective intention for the welfare of all living beings.",
+    "categories": [
+      "cat-5",
+      "cat-7",
+      "dg-7"
+    ]
   },
   {
     "id": 51,
-    "title": "स्वस्ति वाचन मंत्र",
-    "content": "ॐ गणांना त्वा गणपतिं हवामहे\r\nप्रियाणां त्वा प्रियपतिं हवामहे\r\nनिधिनां त्वा निधिपतिं हवामहे \r\nवसो म आह्मजानि गर्भधमात्वमजासि गर्भधम्\r\n\r\nॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ।\r\nस्वस्ति नः पूषा विश्ववेदाः ।\r\nस्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः ।\r\nस्वस्ति नो वृहस्पतिर्दधातु ॥\r\n\r\nॐ पयः पृथिव्यां पय ऽओषधीषु \r\nपयो दिव्यन्तरिक्षे पयो धाः। \r\nपयस्वतीः प्रदिशः सन्तु मह्यम्। \r\nॐ विष्णु रराट मसी विष्णु \r\nस्वस्ति विष्णु सूर्यसु विष्णु \r\nध्रुवो वसी वैष्णव मसी विष्णवे त्वा\r\n\r\nओउम अग्निर्देवता वातो देवता \r\nसूर्यो देवता \r\nचन्द्रमा देवता \r\nवसवो देवता \r\nरूद्र देवता \r\nदित्या देवता \r\nमरुतो देवता \r\nविश्वदेवा देवता \r\nबृहस्पतिर्देवतेन्द्रो देवता\r\nवरुणो देवता ॥\r\n\r\nॐ द्यौः शान्तिरन्तरिक्षं शान्तिः\r\nपृथिवी शान्ति\r\nरापः शान्ति\r\nरोषधयः शान्तिः ।\r\nवनस्पतयः शान्ति\r\nर्विश्वेदेवाः शान्ति\r\nर्ब्रह्म शान्तिः\r\nसर्वं शान्तिः \r\nशान्तिरेव शान्तिः \r\nसा मा शान्तिरेधि \r\nॐ शान्तिः शान्तिः शान्तिः ॥\r\nॐ विश्वानि देव सवितर्दुरितानि परासुव ।\r\nयद् भद्रं तन्न आ सुव \r\nॐ शान्ति शान्ति सर्वारिष्ट \r\nरुष्ट सु शान्ति भवतु॥\r\n",
-    "favourite": "FALSE",
+    "title": "ॐ असतो मा सद्गमय",
+    "content": "ॐ असतो मा सद्गमय।\nतमसो मा ज्योतिर्गमय।\nमृत्योर्मा अमृतं गमय।\nॐ शान्तिः शान्तिः शान्तिः॥",
     "img_url": "/2/om.webp",
-    "tags": "puja",
-    "video_id": null
+    "tags": "guidance, enlightenment, truth",
+    "arth_en": "Lead me from the unreal to the real; lead me from darkness to light; lead me from death to immortality. Om Peace, Peace, Peace.",
+    "arth_hi": "मुझे असत्य से सत्य की ओर ले चलें; मुझे अंधकार से प्रकाश की ओर ले चलें; मुझे मृत्यु से अमरत्व की ओर ले चलें। ॐ शांति, शांति, शांति।",
+    "arth_mr": "मला असत्याकडून सत्याकडे ने; मला अंधाराकडून प्रकाशाकडे ने; मला मृत्यूकडून अमरत्वाकडे ने. ॐ शांती, शांती, शांती.",
+    "ex": "Used as a morning prayer by students and seekers to ask for mental clarity and a path toward true knowledge.",
+    "categories": [
+      "cat-1",
+      "cat-2",
+      "cat-8",
+      "dg-7",
+      "mood-5"
+    ]
   },
   {
     "id": 52,
-    "title": "लक्ष्मी गणेश मन्त्र ",
-    "content": "ॐ श्रीं गं सौम्याय गणपतये वर वरद\r\nसर्वजनं मे वशमानय स्वाहा॥\r\n\r\nदन्ताभये चक्रवरौ दधानं, कराग्रगं स्वर्णघटं त्रिनेत्रम्।\r\nधृताब्जयालिङ्गितमाब्धि पुत्र्या-लक्ष्मी गणेशं कनकाभमीडे॥\r\n\r\nॐ गणेश ऋणं छिन्धि वरेण्यं हुं नमः फट्॥",
-    "favourite": "FALSE",
-    "img_url": "/1/laxmi.webp",
-    "tags": "puja",
-    "video_id": null
+    "title": "ग्रह पीड़ा-नक्षत्र दोष मन्त्र",
+    "content": "नारायणं सर्वकालं क्षुत प्रस्खलनादिषु।\nग्रह नक्षत्र पीडाषु देव बाधाषु सर्वतः।।",
+    "img_url": "/1/om.webp",
+    "tags": "protection, astrological-relief, stability",
+    "arth_en": "I remember Lord Narayana at all times to seek protection from the ill effects of planets, stars, and divine obstacles in all situations.",
+    "arth_hi": "ग्रहों, नक्षत्रों की पीड़ा और दैवीय बाधाओं से मुक्ति के लिए मैं हर समय भगवान नारायण का स्मरण करता हूँ।",
+    "arth_mr": "ग्रहांच्या आणि नक्षत्रांच्या पीडेपासून तसेच दैवीय बाधांपासून मुक्ती मिळवण्यासाठी मी सर्वकाळ भगवान नारायणाचे स्मरण करतो.",
+    "ex": "Chanted when someone feels their life is being negatively impacted by 'bad timing' or planetary alignments according to their horoscope.",
+    "categories": [
+      "cat-4",
+      "cat-6",
+      "dg-6"
+    ]
   },
   {
     "id": 53,
-    "title": "दिवाली पूजा मंत्र",
-    "content": "॥ गोवत्स द्वादशी मंत्र ॥\r\n\r\n॥ अर्घ्य मंत्र ॥\r\n\r\nक्षीरोदार्नवसंभूते सुरासुरनमस्कृते।\r\nसर्वदेवमये मातर्गृहाण्घ्यं नमो नमः॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nसमुद्र मंथन के समय क्षीर सागर से उत्पन्न सुर और असुरों द्वारा नमस्कार की गई देवस्वरूपिणी माता, आपको बार-बार नमस्कार है। मेरे द्वारा दिए गए इस अर्घ्य को आप स्वीकार करें।\r\n\r\n॥ निवेदन मंत्र ॥\r\n\r\nसुरभि त्वं जगन्मातरदेवी विष्णुपदे स्थिता।\r\nसर्वदेवमये ग्रसं मया दत्तमिदं ग्रसा॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे जगदम्बे! हे स्वर्गवासिनी देवी! हे सर्वदेवमयी! आप मेरे द्वारा दिए गए इस अन्न को ग्रहण करें।\r\n\r\n॥ प्रार्थना मंत्र ॥\r\n\r\nसर्वदेवमये देवि सर्वदेवैरलंकृते।\r\nमातरमाभिलाषितं सफलं कुरु नंदिनी॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे सम्पूर्ण जगत् अलंकृत माता! नन्दिनी! मेरा मनोरथ पूर्ण करो।\r\n\r\n॥ यमदीप मंत्र ॥\r\n\r\nमृत्युना पाषादण्डभ्यं कालेन श्यामया सहः।\r\nत्रयोदश्यां दीपदानत्सुर्यजः प्रियतम मम॥\r\n\r\n॥ मंत्र का अर्थ ॥\r\n\r\nत्रयोदशी तिथि को मैं यह दीपक सूर्यपुत्र यमदेव को अर्पित करता हूँ। वे मुझे मृत्यु के पाश से मुक्त करें तथा मेरा कल्याण करें।\r\n\r\n॥ अभ्यंग स्नान मंत्र ॥\r\n\r\nसीतालोष्टासमायुक्ता सकान्तकदलन्विता।\r\nहर पापमपामार्ग भ्रम्यमानः पुनः पुनः॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे जोती हुई भूमि की मिट्टी, काँटों और पत्तों से बने हुए काँटेदार फूस के पौधे; मेरे पापों को नष्ट कर दो।\r\n\r\n॥  नरक चतुर्दशी दीपदान मंत्र ॥\r\n\r\nदत्तो दीपश्चतुर्दश्याम नरकाप्रीतये मया।\r\nचतुर्वर्तिसामयुक्तः सर्वपापनुत्तये॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nइस चतुर्दशी के दिन नरक के देवता की प्रसन्नता के लिए तथा समस्त पापों के नाश के लिए मैं यह चार मुख वाला, चार बत्तियों वाला दीपक अर्पित करता हूँ।\r\n\r\n॥ लक्ष्मी मंत्र ॥\r\n\r\nॐ ह्रीं श्रीं लक्ष्म्यै नमः॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे धन और ऐश्वर्य की देवी लक्ष्मी, आपको मेरा नमस्कार है।\r\n\r\n॥  बली नमस्कार मंत्र ॥\r\n\r\nबलिराजा नमस्तुभ्यं दैत्यदानववंदिता।\r\nइन्द्रशत्रोअमरते विष्णुसन्निध्यदो भव॥\r\nबलिमुद्दिश्य दीयन्ते दानानि कुरुनन्दना।\r\nयानि तन्यक्षान्याहुर्मयैवं सम्प्रदर्शितम्॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nदैत्य तथा दानवों से पूजित हे बलिराज, आपको नमस्कार है। हे इन्द्रशत्रो, हे अमरराते, विष्णु के सानिध्य को देने वाला हो।\r\n\r\n॥ गोवर्धन मंत्र ॥\r\n\r\nगोवर्धन धराधर गोकुलत्राणकारक।\r\nबहुबाहुकृतच्छया गावं कोटिप्रदो भव॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे गोवर्धन, पृथ्वी को धारण करने वाले! आप गोकुल के रक्षक हैं। भगवान श्री कृष्ण ने आपको अपनी भुजाओं पर उठा लिया था। मुझे करोड़ों गायें प्रदान करें।\r\n\r\n॥ गौ मंत्र ॥\r\n\r\nलक्ष्मीर्य लोकापालं धेनुरूपेण संस्थिता।\r\nघृतं वहति यज्ञार्थे मम पापं व्यपोहतु॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे गौ, जो गौ रूप में स्वयं लक्ष्मी हैं और जो यज्ञों के लिए घी प्रदान करती हैं, मेरे पापों का नाश करें।\r\n\r\n॥ यम द्वितीया मंत्र  ॥\r\n\r\nएह्येहि मार्तण्डजा पाशहस्ता यमान्तकलोकधर्मरेषा।\r\nभ्रातृद्वितीयकृतदेवपूजं गृहाणा चार्घ्यं भगवन्नमोस्तु ते॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे मार्तंडज - सूर्य से उत्पन्न हुए, हे पाश्वस्त - हाथ में पाश धारण करने वाले, हे यम, हे अंतक, हे लोकधर, हे अमरेश, भातृद्वितीया में हुई देवपूजा और अर्घ्य को ग्रहण करो। हे भगवान आपको नमस्कार है।\r\n\r\n॥  मार्गपाली मंत्र ॥\r\n\r\nमार्गपाली नमस्तेस्तु सर्वलोकसुखप्रदे।\r\nविधेयैः पुत्रदारद्यैः पुनरेहि व्रतस्य मे॥\r\n\r\n॥ मंत्र का अर्थ  ॥\r\n\r\nहे सर्व प्राणिमात्र को सुख लेवाली मार्गपाली, आपको मेरा नमस्कार है। पुत्र, पत्नी इत्यादि द्वारा आपको पिरोया है। मेरे कैट के लिए पुन: एक बार आपका आगमन हो।",
-    "favourite": "FALSE",
-    "img_url": "/2/laxmi.webp",
-    "tags": "puja",
-    "video_id": null
+    "title": "सम्पूर्ण महामृत्युंजय मन्त्र",
+    "content": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् उर्वारुकमिव बन्धनान्मृ त्योर्मुक्षीय मामृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ।",
+    "img_url": "/1/shiv.webp",
+    "tags": "healing, longevity, ultimate-protection",
+    "arth_en": "A powerful combination of Beej mantras and the Mritunjaya verse seeking total liberation from the fear of death and nourishment for the soul.",
+    "arth_hi": "बीज मंत्रों और महामृत्युंजय मंत्र का यह सम्मिश्रण मृत्यु के भय से मुक्ति और आत्मा के पोषण के लिए है।",
+    "arth_mr": "मृत्यूच्या भीतीपासून मुक्ती आणि आत्म्याच्या पोषणासाठी बीज मंत्र आणि महामृत्युंजय मंत्राचे हे शक्तिशाली मिश्रण आहे.",
+    "ex": "Chanted 108 times during major health crises or for those seeking protection from chronic illness.",
+    "categories": [
+      "cat-4",
+      "cat-8",
+      "dg-2"
+    ]
   },
   {
     "id": 54,
+    "title": "रक्षा मंत्र",
+    "content": "येन बद्धो बलि राजा, दानवेन्द्रो महाबल:। तेन त्वाम् प्रतिबद्धनामि रक्षे माचल माचल:",
+    "img_url": "/1/om.webp",
+    "tags": "protection, security, bond",
+    "arth_en": "I bind you with the same protective bond that bound the powerful King Bali. O protection, remain steadfast and do not move.",
+    "arth_hi": "जिस रक्षा सूत्र से शक्तिशाली राजा बलि को बांधा गया था, उसी से मैं तुम्हें बांधता हूँ। हे रक्षा सूत्र, तुम स्थिर रहो और रक्षा करो।",
+    "arth_mr": "ज्या रक्षासूत्राने शक्तिशाली राजा बळीला बांधले होते, त्याच सूत्राने मी तुला बांधतो. हे संरक्षण, तू स्थिर राहा आणि रक्षण कर.",
+    "ex": "Recited while tying a 'Mauli' or 'Rakhi' on someone's wrist to invoke divine protection for that person.",
+    "categories": [
+      "cat-4"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "संकल्प मंत्र",
+    "content": "ॐ विष्णुर्विष्णुर्विष्णु: ॐ अद्य ब्रह्मणोऽह्नि... पूजनं च अहं करिष्ये।",
+    "img_url": "/2/om.webp",
+    "tags": "intention, focus, commitment",
+    "arth_en": "This is a formal declaration of intent, stating the time, place, and identity of the devotee before starting any ritual or prayer.",
+    "arth_hi": "किसी भी पूजा या व्रत को शुरू करने से पहले समय, स्थान और स्वयं की पहचान बताकर की जाने वाली प्रतिज्ञा।",
+    "arth_mr": "कोणतीही पूजा किंवा व्रत सुरू करण्यापूर्वी वेळ, ठिकाण आणि स्वतःची ओळख सांगून केलेली प्रतिज्ञा.",
+    "ex": "Used at the very beginning of a puja to focus the mind and formally commit to the spiritual task at hand.",
+    "categories": [
+      "cat-7",
+      "dg-3"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "मंत्रपुष्पांजली - १",
+    "content": "ॐ यज्ञेन यज्ञमयजन्त देवास्तनि धर्माणि प्रथमान्यासन् । ते ह नाकं महिमान: सचंत यत्र पूर्वे साध्या: संति देवा: ॥",
+    "img_url": "/1/om.webp",
+    "tags": "offering, glory, tradition",
+    "arth_en": "The gods performed sacrifice through sacrifice; those were the first religious rites. They reached the heavens where the ancient seekers and gods reside.",
+    "arth_hi": "देवों ने यज्ञ के द्वारा परमात्मा का पूजन किया; वे ही प्रथम धर्म-नियम थे। वे उस स्वर्गलोक को प्राप्त हुए जहाँ प्राचीन देव निवास करते हैं।",
+    "arth_mr": "देवांनी यज्ञाद्वारे यज्ञाचे पूजन केले; तेच प्रथम धर्मविधी होते. ते त्या स्वर्गलोकाला प्राप्त झाले जिथे प्राचीन देव निवास करतात.",
+    "ex": "Recited at the very end of a large celebration to offer the 'flower of one's actions' to the divine.",
+    "categories": [
+      "cat-7",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "मंत्रपुष्पांजली - २ (कुबेर मंत्र)",
+    "content": "ॐ राजाधिराजाय प्रसह्य साहिने। नमो वयं वैश्रवणाय कुर्महे। स मस कामान् काम कामाय मह्यं। कामेश्र्वरो वैश्रवणो ददातु कुबेराय वैश्रवणाय। महाराजाय नम: ।",
+    "img_url": "/1/om.webp",
+    "tags": "prosperity, fulfillment, abundance",
+    "arth_en": "We bow to the King of Kings, Vaishravana (Kubera). May the Lord of desires fulfill all my wishes.",
+    "arth_hi": "हम राजाओं के राजा वैश्रवण (कुबेर) को नमन करते हैं। वे कामेश्वर कुबेर मेरी सभी इच्छाओं को पूर्ण करें।",
+    "arth_mr": "आम्ही राजाधिराज वैश्रवण कुबेराला वंदन करतो. तो कामेश्वर कुबेर माझ्या सर्व इच्छा पूर्ण करो.",
+    "ex": "Used to seek material and spiritual abundance at the conclusion of a festive ritual.",
+    "categories": [
+      "cat-3",
+      "cat-7",
+      "dg-4",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "लक्ष्मी मंत्र (दिवाली)",
+    "content": "ॐ ह्रीं श्रीं लक्ष्म्यै नमः॥",
+    "img_url": "/2/laxmi.webp",
+    "tags": "wealth, fortune, celebration",
+    "arth_en": "Salutations to Lakshmi, the goddess of wealth and spiritual abundance.",
+    "arth_hi": "धन और ऐश्वर्य की देवी लक्ष्मी को मेरा नमस्कार।",
+    "arth_mr": "धन आणि ऐश्वर्याची देवी लक्ष्मीला माझा नमस्कार.",
+    "ex": "Main mantra for the night of Diwali to invite prosperity and light into the household for the coming year.",
+    "categories": [
+      "cat-3",
+      "dg-3",
+      "dg-4",
+      "mood-2"
+    ]
+  },
+  {
+    "id": 59,
     "title": "श्री राम मंत्र",
-    "content": "ॐ श्री रामाय नमः॥\r\n\r\nश्री राम जय राम जय जय राम॥\r\n\r\nॐ दशरथये विद्महे \r\nसीतावल्लभाय धीमहि,\r\nतन्नो राम प्रचोदयात्॥\r\n\r\nॐ अपदमपहरतरं दातारं सर्वसम्पदाम।\r\nलोकाभिरामं श्रीरामं भूयो-भूयो नमाम्यहम्॥\r\n\r\nश्री राम जया राम कोदंड राम॥\r\n",
-    "favourite": "FALSE",
+    "content": "ॐ श्री रामाय नमः॥ श्री राम जय राम जय जय राम॥",
     "img_url": "/1/ram.webp",
-    "tags": "ram",
-    "video_id": null
+    "tags": "righteousness, peace, victory",
+    "arth_en": "Salutations to Rama; Victory to Rama, Victory to the Lord.",
+    "arth_hi": "श्री राम को नमस्कार; श्री राम की जय हो, जय हो, जय हो।",
+    "arth_mr": "श्री रामाला नमस्कार; श्री रामाचा विजय असो, विजय असो, विजय असो.",
+    "ex": "Chanted for mental strength and to follow the path of 'Dharma' during difficult ethical dilemmas.",
+    "categories": [
+      "dg-3",
+      "dg-6"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "लोकः समस्ताः सुखिनो भवन्तु",
+    "content": "लोकः समस्ताः सुखिनो भवन्तु।",
+    "img_url": "/1/om.webp",
+    "tags": "Compassion, Unity, Positivity",
+    "arth_en": "May all beings everywhere be happy and free.",
+    "arth_hi": "संसार के सभी प्राणी सुखी और स्वतंत्र हों.",
+    "arth_mr": "जगातील सर्व प्राणी सुखी आणि मुक्त असोत.",
+    "ex": "Recited as a prayer for global well-being and to foster a mindset of compassion toward all living creatures.",
+    "categories": [
+      "cat-5",
+      "dg-4",
+      "dg-7",
+      "mood-5"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "शान्ति मन्त्र (सह नाववतु)",
+    "content": "ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु मा विद्विषावहै । ॐ शान्तिः शान्तिः शान्तिः ॥",
+    "img_url": "/2/om.webp",
+    "tags": "Harmony, Education, Respect",
+    "arth_en": "May He protect us both together; may He nourish us both together; May we work with great energy. May our study be vigorous and effective; May we not mutually dispute.",
+    "arth_hi": "ईश्वर हम दोनों (गुरु और शिष्य) की साथ-साथ रक्षा करें, हम दोनों का साथ-साथ पालन-पोषण करें। हम साथ मिलकर पूर्ण शक्ति के साथ कार्य करें। हमारी शिक्षा ओजस्वी हो और हमारे बीच कभी द्वेष न हो.",
+    "arth_mr": "ईश्वर आपल्या दोघांचेही (गुरु आणि शिष्य) एकत्रित रक्षण करो, आपले एकत्रित पालन-पोषण करो. आपण एकत्रितपणे पूर्ण शक्तीने कार्य करूया. आपले शिक्षण ओजस्वी असो आणि आपल्यात कधीही द्वेष नसावा.",
+    "ex": "Traditionally chanted at the beginning of classes or meetings to ensure a cooperative environment and fruitful learning.",
+    "categories": [
+      "cat-1",
+      "cat-4",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "सरस्वती वन्दना (या कुन्देन्दु)",
+    "content": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना। या ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा वन्दिता सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा॥",
+    "img_url": "/1/saraswati.webp",
+    "tags": "Wisdom, Creativity, Knowledge",
+    "arth_en": "Salutations to Goddess Saraswati, white as jasmine and snow, seated on a white lotus and worshipped by all gods. May she remove my ignorance completely.",
+    "arth_hi": "देवी सरस्वती, जो चमेली और बर्फ के समान श्वेत हैं, जो सफेद कमल पर विराजमान हैं और सभी देवताओं द्वारा पूजनीय हैं, वह मेरी अज्ञानता को पूरी तरह से दूर करें.",
+    "arth_mr": "देवी सरस्वती, जी मोगरा आणि बर्फासारखी शुभ्र आहे, जी पांढऱ्या कमळावर विराजमान आहे आणि सर्व देवांनी पूजलेली आहे, ती माझे अज्ञान पूर्णपणे दूर करो.",
+    "ex": "Recited by students and artists before beginning creative work or studies to seek academic excellence and clarity.",
+    "categories": [
+      "cat-2",
+      "dg-4",
+      "dg-7",
+      "mood-4"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "हरे कृष्ण महामन्त्र",
+    "content": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Bliss, Consciousness, Peace",
+    "arth_en": "O Lord, O Energy of the Lord, please engage me in Your service.",
+    "arth_hi": "हे प्रभु, हे प्रभु की शक्ति, कृपया मुझे अपनी सेवा में लगाएं.",
+    "arth_mr": "हे प्रभू, हे प्रभूची शक्ती, कृपया मला तुमच्या सेवेत सामावून घ्या.",
+    "ex": "Chanted for mental peace, spiritual bliss, and to cleanse the heart of negative emotions like anxiety and ego.",
+    "categories": [
+      "cat-5",
+      "dg-3"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "आदित्य हृदयम् (आरंभ)",
+    "content": "ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्। रावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्॥",
+    "img_url": "/1/surya.webp",
+    "tags": "Vitality, Victory, Confidence",
+    "arth_en": "Seeing Rama dejected on the battlefield, the Sage Agastya spoke this hymn to help him gain the strength to defeat the enemy.",
+    "arth_hi": "रणभूमि में राम को थका हुआ और चिंतित देखकर, ऋषि अगस्त्य ने उन्हें शत्रु को पराजित करने की शक्ति देने के लिए इस स्तोत्र का उपदेश दिया.",
+    "arth_mr": "रणभूमीवर रामाला थकलेले आणि चिंतेत पाहून, ऋषी अगस्त्य यांनी त्यांना शत्रूचा पराभव करण्याची शक्ती देण्यासाठी या स्तोत्राचा उपदेश केला.",
+    "ex": "Recited when facing immense mental fatigue or dejection to regain spiritual energy and focus for life's battles.",
+    "categories": [
+      "cat-4",
+      "cat-6",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "महालक्ष्मी अष्टकम् (नमस्तेस्तु महामाये)",
+    "content": "नमस्तेस्तु महामाये श्रीपीठे सुरपूजिते। शङ्खचक्रगदाहस्ते महालक्ष्मि नमोस्तु ते॥",
+    "img_url": "/1/laxmi.webp",
+    "tags": "Prosperity, Goal, Sharpness",
+    "arth_en": "Salutations to the Great Mother, who is worshipped in the sacred seat and holds the conch, discus, and mace.",
+    "arth_hi": "महामाया महालक्ष्मी को नमस्कार, जो श्रीपीठ पर सुशोभित हैं और शंख, चक्र तथा गदा धारण करती हैं.",
+    "arth_mr": "महामाया महालक्ष्मीला नमस्कार, जी श्रीपीठावर पूजली जाते आणि जिला शंख, चक्र आणि गदा धारण केलेले हात आहेत.",
+    "ex": "Chanted to bring calmness, clarity, and financial stability, helping the devotee achieve their goals (Lakshya).",
+    "categories": [
+      "cat-3",
+      "dg-3",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "दुर्गा सप्तश्लोकी (सर्व मङ्गल)",
+    "content": "सर्वमङ्गलमङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+    "img_url": "/1/durga.webp",
+    "tags": "Protection, Goodness, Fearlessness",
+    "arth_en": "Salutations to Narayani, the auspiciousness of all things, who fulfills all goals and provides refuge.",
+    "arth_hi": "सभी मंगलों में मंगल, कल्याणकारी, सभी मनोरथों को सिद्ध करने वाली, शरणागतवत्सल, तीन नेत्रों वाली गौरी नारायणी को नमस्कार है.",
+    "arth_mr": "सर्व मंगलात मंगल, कल्याणकारी, सर्व उद्दिष्टे साध्य करणारी, शरण देणारी आणि त्रिनेत्र गौरी नारायणीला नमस्कार असो.",
+    "ex": "Commonly recited for general protection and to invite goodness into one's home and family life.",
+    "categories": [
+      "cat-4",
+      "dg-2",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "शान्ति मन्त्र (सर्वेषां स्वस्तिर्भवतु)",
+    "content": "ॐ सर्वेषां स्वस्तिर्भवतु। सर्वेषां शान्तिर्भवतु। सर्वेषां पूर्णं भवतु। सर्वेषां मङ्गलं भवतु॥",
+    "img_url": "/1/om.webp",
+    "tags": "Wellness, Happiness, Completion",
+    "arth_en": "May there be well-being in all, may there be peace in all, may there be fulfillment in all, may there be auspiciousness in all.",
+    "arth_hi": "सबका मंगल हो, सबकी शांति हो, सब पूर्ण हों और सबका कल्याण हो.",
+    "arth_mr": "सर्वांचे कल्याण होवो, सर्वांना शांती लाभो, सर्व पूर्ण होवोत आणि सर्वांचे मंगल होवो.",
+    "ex": "Used as a meditation tool to shift focus from individual worries to universal peace and happiness.",
+    "categories": [
+      "cat-5",
+      "dg-3",
+      "mood-5"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "जेहि विधि होइ नाथ हित मोरा",
+    "content": "जेहि विधि होइ नाथ हित मोरा। करहु सो वेगि दास मैं तोरा॥",
+    "img_url": "/1/ram.webp",
+    "tags": "Direction, Success, Surrender",
+    "arth_en": "O Lord, I am Your devotee; do at once whatever is good for me, as I do not know the path.",
+    "arth_hi": "हे प्रभु, मैं आपका दास हूँ। जिस प्रकार भी मेरा हित हो, वह आप शीघ्र ही करें क्योंकि मैं स्वयं मार्ग नहीं जानता.",
+    "arth_mr": "हे प्रभू, मी तुमचा दास आहे. ज्या मार्गाने माझे हित होईल, ते तुम्ही त्वरित करा कारण मला स्वतःला मार्ग माहीत नाही.",
+    "ex": "Recited daily when one feels confused or stuck in life, asking for divine guidance and success in finding the right path.",
+    "categories": [
+      "dg-3",
+      "dg-4",
+      "mood-1"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "सोऽहम् मन्त्र",
+    "content": "ॐ सोऽहम्।",
+    "img_url": "/1/om.webp",
+    "tags": "Calm, Self-Realization, Breath",
+    "arth_en": "I am that (the Divine); used to regulate breathing and soothe the mind.",
+    "arth_hi": "मैं वही (दिव्य तत्व) हूँ; यह मंत्र सांसों को नियंत्रित करने और मन को शांत करने के लिए उपयोग किया जाता है.",
+    "arth_mr": "मी तोच (दिव्य तत्व) आहे; श्वासावर नियंत्रण ठेवण्यासाठी आणि मन शांत करण्यासाठी याचा वापर केला जातो.",
+    "ex": "Used in 5-minute daily meditations to eliminate headaches and bring a deep sense of inner calm.",
+    "categories": [
+      "cat-1",
+      "cat-4",
+      "cat-8",
+      "dg-4",
+      "dg-7",
+      "mood-5"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "निर्वाणषट्कम् (चिदानन्द रूप:)",
+    "content": "मनोबुद्ध्यहंकार चित्तानि नाहं, न च श्रोत्रजिव्हे न च घ्राणनेत्रे।\nन च व्योम भूमिर्न तेजो न वायुः, चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥",
+    "img_url": "/1/shiv.webp",
+    "tags": "Identity, Peace, Meditation",
+    "arth_en": "I am not the mind, intellect, ego, or memory. I am not the five senses or the five elements. I am the form of pure consciousness and bliss; I am Shiva, I am Shiva.",
+    "arth_hi": "मैं मन, बुद्धि, अहंकार और चित्त नहीं हूँ, न ही मैं पाँच इंद्रियाँ या पाँच तत्व हूँ। मैं केवल आनंदमय चेतना हूँ; मैं शिव हूँ, मैं शिव हूँ।",
+    "arth_mr": "मी मन, बुद्धी, अहंकार किंवा चित्त नाही, तसेच मी पंचेंद्रिये किंवा पंचतत्वे नाही. मी केवळ आनंदमयी चैतन्य आहे; मी शिव आहे, मी शिव आहे.",
+    "ex": "Recited by those feeling overwhelmed by social labels or personal failures, helping them reconnect with their inner, unchanging divine essence.",
+    "categories": [
+      "cat-5",
+      "cat-8",
+      "dg-1",
+      "dg-2",
+      "mood-5"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "शिव पञ्चाक्षर स्तोत्रम्",
+    "content": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय।\nनित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय॥",
+    "img_url": "/1/shiv.webp",
+    "tags": "Devotion, Purity, Protection",
+    "arth_en": "Salutations to Shiva, who wears the king of snakes as a garland, has three eyes, and is smeared with sacred ash. I bow to Him, represented by the syllable 'Na'.",
+    "arth_hi": "उन शिव को नमस्कार जिन्होंने साँपों का हार पहना है, जिनके तीन नेत्र हैं और जो भस्म धारण करते हैं। 'न' अक्षर स्वरूप शिव को मेरा प्रणाम।",
+    "arth_mr": "ज्यांनी नागांचा हार घातला आहे, ज्यांना तीन डोळे आहेत आणि जे भस्म लावतात, अशा 'न' अक्षर स्वरूप शिवाला माझा नमस्कार.",
+    "ex": "Used as a powerful morning invocation to invite discipline, purity, and the protective energy of Lord Shiva into the day.",
+    "categories": [
+      "cat-1",
+      "dg-2",
+      "mood-6"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "मधुराष्टकम्",
+    "content": "अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम्।\nहृदयं मधुरं गमनं मधुरं मधुराधिपतेरखिलं मधुरम्॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Love, Sweetness, Bhakti",
+    "arth_en": "His lips are sweet, His face is sweet, His eyes are sweet, His smile is sweet. Everything about the Lord of Sweetness is entirely sweet.",
+    "arth_hi": "उनके होंठ मधुर हैं, मुख मधुर है, नेत्र मधुर हैं और मुस्कान मधुर है। मधुरता के स्वामी श्रीकृष्ण का सब कुछ अत्यंत मधुर है।",
+    "arth_mr": "त्यांचे ओठ मधुर आहेत, मुख मधुर आहे, डोळे मधुर आहेत आणि हास्य मधुर आहे. मधुरतेचा स्वामी असलेल्या कृष्णाचे सर्व काही मधुरच आहे.",
+    "ex": "Chanted to cultivate a positive, 'sweet' outlook toward life and to replace bitterness or anger with divine love and devotion.",
+    "categories": [
+      "cat-5",
+      "cat-8",
+      "dg-2",
+      "dg-3"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "श्री सूक्तम् (आरंभ)",
+    "content": "हिरण्यवर्णां हरिणीं सुवर्णरजतस्त्रजाम्।\nचन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आ वह॥",
+    "img_url": "/1/laxmi.webp",
+    "tags": "Prosperity, Abundance, Grace",
+    "arth_en": "O Agni, invoke for me that Lakshmi, who is golden-hued, adorned with gold and silver garlands, and shining like the moon.",
+    "arth_hi": "हे अग्निदेव, मेरे लिए उस स्वर्णमयी लक्ष्मी का आह्वान करें, जो सोने और चांदी के हारों से सुशोभित हैं और चंद्रमा के समान चमकती हैं।",
+    "arth_mr": "हे अग्निदेवा, माझ्यासाठी त्या सुवर्णमयी लक्ष्मीचे आवाहन कर, जी सोने आणि चांदीच्या हारांनी सुशोभित आहे आणि चंद्रासारखी तेजस्वी आहे.",
+    "ex": "Recited during Friday prayers or while lighting the evening lamp to invite financial stability and domestic abundance into the household.",
+    "categories": [
+      "cat-2",
+      "cat-3",
+      "dg-4",
+      "mood-2"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "दुर्गा आपदुद्धारक स्तोत्रम्",
+    "content": "नमस्ते शरण्ये शिवे सानुकम्पे नमस्ते जगद्व्यापिके विश्वरूपे।\nनमस्ते जगद्वन्द्यपादारविन्दे नमस्ते जगत्तारिणि त्राहि दुर्गे॥",
+    "img_url": "/1/durga.webp",
+    "tags": "Rescue, Protection, Faith",
+    "arth_en": "Salutations to the compassionate Mother who is our refuge. Salutations to the protector of the universe; O Durga, please save me from all calamities.",
+    "arth_hi": "शरण देने वाली दयालु माता को नमस्कार। हे जगत का उद्धार करने वाली मां दुर्गा, मेरी रक्षा करें और मुझे सभी संकटों से बचाएं।",
+    "arth_mr": "शरण देणाऱ्या दयाळू मातेला नमस्कार. जगाचा उद्धार करणाऱ्या आई दुर्गे, माझे रक्षण कर आणि मला सर्व संकटांतून वाचव.",
+    "ex": "Chanted when a person feels 'stuck' in a major life crisis or legal trouble, seeking the Goddess's intervention to find a way out.",
+    "categories": [
+      "cat-4",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "संकटनाशन गणेश स्तोत्रम्",
+    "content": "प्रणम्य शिरसा देवं गौरीपुत्रं विनायकम्।\nभक्तावासं स्मरेन्नित्यं आयुःकामार्थसिद्धये॥",
+    "img_url": "/1/ganesh.webp",
+    "tags": "Problem-Solving, Success, Long-life",
+    "arth_en": "Bowing my head, I salute the Lord Ganesha, the son of Gauri. A devotee should remember Him daily to achieve longevity, desires, and wealth.",
+    "arth_hi": "गौरी पुत्र विनायक को सिर झुकाकर प्रणाम। आयु, कामनाओं और धन की सिद्धि के लिए भक्त को प्रतिदिन उनका स्मरण करना चाहिए।",
+    "arth_mr": "गौरीपुत्र विनायकाला नतमस्तक होऊन नमस्कार. आयुष्य, इच्छा आणि धन प्राप्तीसाठी भक्ताने दररोज त्याचे स्मरण करावे.",
+    "ex": "Used by those starting a long journey or a difficult venture to ensure all obstacles are neutralized before they even appear.",
+    "categories": [
+      "dg-1",
+      "dg-2"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "कनकाधारा स्तोत्रम् (अङ्गं हरे:)",
+    "content": "अङ्गं हरेः पुलकभूषणमाश्रयन्ती भृङ्गाङ्गनेव मुकुलाभरणं तमालम्।\nअङ्गीकृताखिलविभूतिरपाङ्गलीला माङ्गल्यदास्तु मम मङ्गलदेवतायाः॥",
+    "img_url": "/1/laxmi.webp",
+    "tags": "Wealth, Grace, Luck",
+    "arth_en": "May the side-long glance of Goddess Lakshmi, which brings all types of prosperity, grant me auspiciousness and wealth.",
+    "arth_hi": "देवी लक्ष्मी की वह तिरछी दृष्टि, जो सभी प्रकार की समृद्धि लाती है, मुझे शुभता और धन प्रदान करे।",
+    "arth_mr": "देवी लक्ष्मीची ती कृपादृष्टी, जी सर्व प्रकारची समृद्धी आणते, मला शुभत्व आणि धन प्रदान करो.",
+    "ex": "Recited by those facing sudden financial hardship, invoking the 'shower of gold' that Adi Shankaracharya famously requested for a poor woman.",
+    "categories": [
+      "cat-3",
+      "dg-3",
+      "mood-2"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "कालभैरवाष्टकम्",
+    "content": "देवराजसेव्यमानपावनाङ्घ्रिपङ्कजं व्यालयज्ञसूत्रमिन्दुशेखरं कृपाकरम्।\nनारदादियोगिवृन्दवन्दितं दिगम्बरं काशिकापुराधिनाथकालभैरवं भजे॥",
+    "img_url": "/1/shiv.webp",
+    "tags": "Time, Liberation, Courage",
+    "arth_en": "I worship Kalabhairava, the Lord of Kashi, whose feet are served by the King of Gods, who wears a snake as a sacred thread and is the master of Time.",
+    "arth_hi": "मैं काशी के स्वामी कालभैरव की पूजा करता हूँ, जिनके चरणों की सेवा देवराज करते हैं और जो काल (समय) के अधिपति हैं।",
+    "arth_mr": "मी काशीचा स्वामी काळभैरवाची पूजा करतो, ज्यांच्या चरणांची सेवा देवराज करतात आणि जे काळाचे (वेळेचे) अधिपती आहेत.",
+    "ex": "Chanted to overcome the fear of death, bad habits, and the negative effects of 'bad times' (Shani/Rahu periods).",
+    "categories": [
+      "cat-4",
+      "cat-6",
+      "dg-2"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "हयग्रीव मन्त्र (ज्ञानमयं देवं)",
+    "content": "ज्ञानानन्दमयं देवं निर्मलस्फटिकाकृतिम्।\nआधारं सर्वविद्यानां हयग्रीवमुपास्महे॥",
+    "img_url": "/1/om.webp",
+    "tags": "Education, Memory, Logic",
+    "arth_en": "We worship Lord Hayagriva, the embodiment of knowledge and bliss, who is pure like a crystal and is the foundation of all sciences.",
+    "arth_hi": "हम भगवान हयग्रीव की उपासना करते हैं, जो ज्ञान और आनंद के स्वरूप हैं, स्फटिक के समान निर्मल हैं और सभी विद्याओं के आधार हैं।",
+    "arth_mr": "आम्ही भगवान हयग्रीवांची उपासना करतो, जे ज्ञान आणि आनंदाचे स्वरूप आहेत, स्फटिकासारखे निर्मळ आहेत आणि सर्व विद्यांचा आधार आहेत.",
+    "ex": "Highly recommended for students before exams or researchers to enhance memory, concentration, and analytical skills.",
+    "categories": [
+      "cat-2",
+      "dg-5",
+      "mood-4"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "अच्युतं केशवम्",
+    "content": "अच्युतं केशवं रामनारायणं कृष्णदामोदरं वासुदेवं हरिम्।\nश्रीधरं माधवं गोपिकावल्लभं जानकीनायकं रामचन्द्रं भजे॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Devotion, Peace, Simplicity",
+    "arth_en": "I worship the Lord who is known by many names: Achyuta, Keshava, Rama, Narayana, Krishna, and the beloved of Sita.",
+    "arth_hi": "मैं उन भगवान की पूजा करता हूँ जिन्हें अच्युत, केशव, राम, नारायण और कृष्ण जैसे अनेक नामों से जाना जाता है।",
+    "arth_mr": "मी त्या भगवंताची पूजा करतो ज्याला अच्युत, केशव, राम, नारायण आणि कृष्ण अशा अनेक नावांनी ओळखले जाते.",
+    "ex": "A simple yet profound chant used for daily evening prayers to bring the entire family together in a state of peaceful devotion.",
+    "categories": [
+      "cat-5",
+      "dg-3",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "कर्पूरगौरं करुणावतारम्",
+    "content": "कर्पूरगौरं करुणावतारं संसारसारं भुजगेन्द्रहारम्।\nसदा वसन्तं हृदयारविन्दे भवं भवानीसहितं नमामि॥",
+    "img_url": "/1/shiv.webp",
+    "tags": "Devotion, Transformation, Purity",
+    "arth_en": "I bow to Shiva, who is as white as camphor, the embodiment of compassion, the essence of worldly existence, and who wears the king of serpents as a garland.",
+    "arth_hi": "मैं उन शिव को नमन करता हूँ जो कपूर के समान गौर वर्ण हैं, करुणा के अवतार हैं, संसार के सार हैं और जो साँपों का हार पहनते हैं।",
+    "arth_mr": "मी त्या शिवाला वंदन करतो जो कापूरासारखा शुभ्र आहे, करुणेचा अवतार आहे, संसाराचा सार आहे आणि जो नागांचा हार घालतो.",
+    "ex": "Recited at the end of an Aarti to symbolize the burning away of ego and the light of divine compassion entering the home.",
+    "categories": [
+      "cat-1",
+      "cat-7",
+      "dg-2"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "मङ्गलम् भगवान् विष्णुः",
+    "content": "मङ्गलम् भगवान् विष्णुः, मङ्गलम् गरुडध्वजः।\nमङ्गलम् पुण्डरीकाक्षः, मङ्गलाय तनो हरिः॥",
+    "img_url": "/1/vishnu.webp",
+    "tags": "Auspiciousness, Success, Union",
+    "arth_en": "Auspicious is Lord Vishnu, auspicious is the one with the Garuda flag. Auspicious is the lotus-eyed Lord; may Hari grant us auspiciousness.",
+    "arth_hi": "भगवान विष्णु मंगलकारी हैं, गरुड़ध्वज मंगलकारी हैं। कमल के समान नेत्रों वाले भगवान मंगलकारी हैं; भगवान हरि हमारा मंगल करें।",
+    "arth_mr": "भगवान विष्णू मंगलमय आहेत, गरुडध्वज मंगलमय आहे. कमळासारखे डोळे असलेला भगवान मंगलमय आहे; भगवान हरी आमचे कल्याण करोत.",
+    "ex": "Commonly recited at the beginning of weddings, housewarmings, or new contracts to ensure a positive and obstacle-free start.",
+    "categories": [
+      "cat-3",
+      "cat-7",
+      "dg-3",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "धन्वन्तरि मन्त्र",
+    "content": "ॐ नमो भगवते महासुदर्शनाय वासुदेवाय धन्वन्तरये।\nअमृतकलशहस्ताय सर्वरोगविनाशाय त्रैलोक्यनाथाय श्रीमहाविष्णवे नमः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Health, Healing, Medicine",
+    "arth_en": "Salutations to Lord Dhanvantari, who holds the pot of nectar, destroys all diseases, and is the Lord of the three worlds.",
+    "arth_hi": "भगवान धन्वन्तरि को नमस्कार, जो हाथ में अमृत कलश धारण करते हैं, सभी रोगों का नाश करते हैं और तीनों लोकों के स्वामी हैं।",
+    "arth_mr": "भगवान धन्वंतरींना नमस्कार, जे हातात अमृत कलश धारण करतात, सर्व रोगांचा नाश करतात आणि तिन्ही लोकांचे स्वामी आहेत.",
+    "ex": "Chanted by those undergoing medical treatment or by doctors before surgery to invoke the energy of divine healing.",
+    "categories": [
+      "cat-4",
+      "dg-2",
+      "dg-3"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "हनुमान बाहुक (आरंभ)",
+    "content": "हनुमान अञ्जनी सूनुर्व वायुपुत्रो महाबलः।\nरामेष्टः फाल्गुनसखः पिङ्गाक्षोऽमितविक्रमः॥",
+    "img_url": "/1/hanuman.webp",
+    "tags": "Strength, Protection, Loyalty",
+    "arth_en": "Hanuman, the son of Anjani, the son of the Wind, is possessed of great strength, dear to Rama, and friend of Arjuna.",
+    "arth_hi": "अंजनी के पुत्र हनुमान, वायुपुत्र और महान शक्तिशाली हैं। वे राम के प्रिय और अर्जुन के मित्र हैं।",
+    "arth_mr": "अंजनीचा मुलगा हनुमान, वायुपुत्र आणि महान बलवान आहे. तो रामाचा प्रिय आणि अर्जुनाचा मित्र आहे.",
+    "ex": "Recited by those seeking protection from physical harm or negative energies, especially before traveling at night.",
+    "categories": [
+      "cat-4",
+      "dg-1",
+      "dg-5"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "दक्षिणामूर्ति मन्त्र",
+    "content": "ॐ नमः प्रणवार्थाय शुद्धज्ञानैकमूर्तये।\nनिर्मलाय प्रशान्ताय दक्षिणामूर्तये नमः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Silence, Wisdom, Guru",
+    "arth_en": "Salutations to Dakshinamurti, the personification of pure knowledge and the meaning of 'Om', who is spotless and peaceful.",
+    "arth_hi": "दक्षिणामूर्ति को नमस्कार, जो शुद्ध ज्ञान के अवतार और 'ॐ' के अर्थ हैं, जो निर्मल और अत्यंत शांत हैं।",
+    "arth_mr": "दक्षिणामूर्तीला नमस्कार, जो शुद्ध ज्ञानाचा अवतार आणि 'ॐ' चा अर्थ आहे, जो निर्मल आणि अत्यंत शांत आहे.",
+    "ex": "Used by spiritual students seeking a deeper connection with their inner self or looking for a true mentor or teacher.",
+    "categories": [
+      "cat-5",
+      "dg-7",
+      "mood-1"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "सुदर्शन कवच मन्त्र",
+    "content": "ॐ ह्रीं श्रीं क्लीं चक्रराजाय विद्महे महाचक्राय धीमहि।\nतन्नश्चक्रः प्रचोदयात्॥",
+    "img_url": "/1/vishnu.webp",
+    "tags": "Defense, Negativity, Clarity",
+    "arth_en": "We meditate on the King of Wheels (Sudarshana); may that great wheel inspire our intellect and protect us from evil.",
+    "arth_hi": "हम चक्रों के राजा सुदर्शन का ध्यान करते हैं; वह महान चक्र हमारी बुद्धि को प्रेरित करे और बुराई से हमारी रक्षा करे।",
+    "arth_mr": "आम्ही चक्रांचा राजा सुदर्शन याचे ध्यान करतो; ते महान चक्र आमच्या बुद्धीला प्रेरणा देवो आणि वाईटापासून आमचे रक्षण करो.",
+    "ex": "Chanted when one feels surrounded by negative vibes, jealousy, or 'evil eye' to create a spiritual shield of light.",
+    "categories": [
+      "cat-4",
+      "cat-5",
+      "dg-3",
+      "dg-4",
+      "mood-3"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "महालक्ष्मी बीज मन्त्र",
+    "content": "ॐ श्रीं ह्रीं क्लीं महालक्ष्म्यै नमः॥",
+    "img_url": "/1/laxmi.webp",
+    "tags": "Wealth, Growth, Magnetism",
+    "arth_en": "Salutations to the Great Lakshmi; a powerful combination of sounds to attract prosperity and divine grace.",
+    "arth_hi": "महालक्ष्मी को नमस्कार; समृद्धि और दैवीय कृपा को आकर्षित करने वाला एक शक्तिशाली बीज मंत्र।",
+    "arth_mr": "महालक्ष्मीला नमस्कार; समृद्धी आणि दैवीय कृपा आकर्षित करणारा एक शक्तिशाली बीज मंत्र.",
+    "ex": "Used as a 108-time chant during 'Friday' prayers to overcome financial scarcity and improve one's social standing.",
+    "categories": [
+      "cat-3",
+      "dg-3",
+      "dg-4",
+      "mood-2"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "उग्रवीरं महाविष्णुं (नरसिंह मन्त्र)",
+    "content": "उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम्।\nनृसिंहं भीषणं भद्रं मृत्योर्मृत्युं नमाम्यहम्॥",
+    "img_url": "/1/vishnu.webp",
+    "tags": "Fearlessness, Rescue, Power",
+    "arth_en": "I bow to the ferocious and heroic Narasimha, who is blazing everywhere; he is the death of death itself and our ultimate protector.",
+    "arth_hi": "मैं उन उग्र और वीर नरसिंह को नमन करता हूँ, जो सब ओर से प्रज्वलित हैं; वे स्वयं मृत्यु की मृत्यु हैं और हमारे रक्षक हैं।",
+    "arth_mr": "मी त्या उग्र आणि वीर नरसिंहाला नमन करतो, जो सर्व बाजूंनी प्रज्वलित आहे; तो स्वतः मृत्यूचा मृत्यू आहे आणि आपला रक्षक आहे.",
+    "ex": "Recited during times of extreme panic or when one feels threatened by powerful enemies to gain instant courage.",
+    "categories": [
+      "cat-4",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "कार्तिकेय मन्त्र",
+    "content": "ॐ शरवणभवाय नमः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Focus, Victory, Siblings",
+    "arth_en": "Salutations to Lord Murugan, born in the forest of reeds, who represents the peak of focus and victory.",
+    "arth_hi": "शरवण के वन में उत्पन्न हुए भगवान कार्तिकेय को नमस्कार, जो एकाग्रता और विजय के प्रतीक हैं।",
+    "arth_mr": "शरवणाच्या वनात जन्मलेल्या भगवान कार्तिकेयाला नमस्कार, जो एकाग्रता आणि विजयाचे प्रतीक आहे.",
+    "ex": "Chanted to improve family relations with brothers or to overcome laziness and gain the 'warrior' mindset for goals.",
+    "categories": [
+      "dg-1"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "दत्तात्रेय मन्त्र",
+    "content": "ॐ द्रां दत्तात्रेयाय नमः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Guidance, Balance, Unity",
+    "arth_en": "Salutations to Lord Dattatreya, who embodies the combined power of Brahma, Vishnu, and Shiva.",
+    "arth_hi": "भगवान दत्तात्रेय को नमस्कार, जो ब्रह्मा, विष्णु और शिव की संयुक्त शक्ति के प्रतीक हैं।",
+    "arth_mr": "भगवान दत्तात्रेयांना नमस्कार, जे ब्रह्मा, विष्णू आणि शिव यांच्या संयुक्त शक्तीचे प्रतीक आहेत.",
+    "ex": "Recited on Thursdays to seek a balanced life and guidance when facing choices between different life paths.",
+    "categories": [
+      "cat-5",
+      "dg-7",
+      "mood-1"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "राधा गायत्री मन्त्र",
+    "content": "ॐ वृषभानुजायै विद्महे कृष्णप्रियायै धीमहि।\nतन्नो राधा प्रचोदयात्॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Love, Peace, Relationships",
+    "arth_en": "We meditate on the daughter of Vrishabhanu, we contemplate the beloved of Krishna; may Radha inspire our hearts with love.",
+    "arth_hi": "हम वृषभानु की पुत्री का ध्यान करते हैं, हम कृष्ण की प्रिया का चिंतन करते हैं; राधा हमारे हृदय को प्रेम से प्रेरित करें।",
+    "arth_mr": "आम्ही वृषभानूच्या कन्येचे ध्यान करतो, आम्ही कृष्णाच्या प्रियेचे चिंतन करतो; राधा आमच्या हृदयात प्रेमाची प्रेरणा देवो.",
+    "ex": "Used by couples or individuals seeking a more loving, peaceful atmosphere in their personal relationships and homes.",
+    "categories": [
+      "cat-3",
+      "dg-4",
+      "mood-3"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "आपदामपहर्तारं (राम रक्षा)",
+    "content": "आपदामपहर्तारं दातारं सर्वसम्पदाम्।\nलोकाभिरामं श्रीरामं भूयो भूयो नमाम्यहम्॥",
+    "img_url": "/1/ram.webp",
+    "tags": "Safety, Wealth, Devotion",
+    "arth_en": "I bow again and again to Rama, the one who removes all calamities and bestows all wealth and happiness.",
+    "arth_hi": "मैं बार-बार श्री राम को नमन करता हूँ, जो सभी विपत्तियों को दूर करते हैं और सभी प्रकार की संपत्ति और सुख प्रदान करते हैं।",
+    "arth_mr": "मी वारंवार श्रीरामाला नमन करतो, जो सर्व संकटे दूर करतो आणि सर्व प्रकारची संपत्ती आणि सुख प्रदान करतो.",
+    "ex": "Chanted as a protective 'Shloka' before starting a long car journey or when feeling insecure about the future.",
+    "categories": [
+      "cat-2",
+      "cat-4",
+      "dg-3",
+      "dg-5"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "सर्वबाधा विनिर्मुक्तो (दुर्गा)",
+    "content": "सर्वबाधा विनिर्मुक्तो धनधान्यसुतान्वितः।\nमनुष्यो मत्प्रसादेन भविष्यति न संशयः॥",
+    "img_url": "/1/durga.webp",
+    "tags": "Obstacles, Family, Certainty",
+    "arth_en": "One who recites this shall be freed from all obstacles and blessed with wealth and progeny by the Goddess's grace.",
+    "arth_hi": "देवी की कृपा से मनुष्य सभी बाधाओं से मुक्त हो जाएगा और धन तथा संतान से संपन्न होगा; इसमें कोई संदेह नहीं है।",
+    "arth_mr": "देवीच्या कृपेने मनुष्य सर्व अडथळ्यांतून मुक्त होईल आणि धन व संतानाने संपन्न होईल; यात शंका नाही.",
+    "ex": "Used by families during Navratri to remove long-standing 'blocks' in work or when trying to start a family.",
+    "categories": [
+      "cat-6",
+      "dg-4",
+      "dg-6"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "अन्नपूर्णा ध्यान मन्त्र",
+    "content": "ॐ ह्रीं श्रीं क्लीं भगवति अन्नपूर्णे नमः॥",
+    "img_url": "/1/annapurna.webp",
+    "tags": "Nourishment, Abundance, Hunger",
+    "arth_en": "Salutations to the Goddess Annapurna, the provider of food and nourishment; may she keep our kitchen ever-full.",
+    "arth_hi": "देवी अन्नपूर्णा को नमस्कार, जो भोजन और पोषण प्रदान करती हैं; वे हमारे घर को हमेशा धन-धान्य से भरपूर रखें।",
+    "arth_mr": "देवी अन्नपूर्णेला नमस्कार, जी अन्न आणि पोषण प्रदान करते; ती आमचे घर नेहमी धनधान्याने समृद्ध ठेवो.",
+    "ex": "Recited by mothers while cooking to ensure the food is not just tasty but also spiritually nourishing for the family.",
+    "categories": [
+      "cat-3",
+      "cat-7",
+      "dg-2",
+      "dg-4",
+      "dg-7",
+      "mood-3"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "शान्ति मन्त्र (भद्रं कर्णेभिः)",
+    "content": "ॐ भद्रं कर्णेभिः शृणुयाम देवाः। भद्रं पश्येमाक्षभिर्यजत्राः॥",
+    "img_url": "/2/om.webp",
+    "tags": "Positivity, Senses, Peace",
+    "arth_en": "O Gods, may we hear only what is auspicious with our ears; may we see only what is auspicious with our eyes.",
+    "arth_hi": "हे देवों, हम अपने कानों से केवल शुभ सुनें; हम अपनी आँखों से केवल शुभ देखें।",
+    "arth_mr": "हे लोकांनो, आम्ही आमच्या कानांनी फक्त शुभ ऐको; आम्ही आमच्या डोळ्यांनी फक्त शुभ पाहो.",
+    "ex": "Used at the start of a meditation session to shut out the 'noise' of the world and focus on purely positive inputs.",
+    "categories": [
+      "cat-5",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "भुवनेश्वरी मन्त्र",
+    "content": "ॐ ह्रीं भुवनेश्वर्यै नमः॥",
+    "img_url": "/1/devi.webp",
+    "tags": "Expansion, Success, Leadership",
+    "arth_en": "Salutations to the Queen of the Universe; her energy helps in expanding one's horizons and leadership.",
+    "arth_hi": "ब्रह्मांड की रानी भुवनेश्वरी को नमस्कार; उनकी ऊर्जा हमारे प्रभाव और नेतृत्व को बढ़ाने में सहायक है।",
+    "arth_mr": "ब्रह्मांडाची राणी भुवनेश्वरीला नमस्कार; तिची ऊर्जा आमचा प्रभाव आणि नेतृत्व वाढवण्यासाठी उपयुक्त आहे.",
+    "ex": "Chanted by those in public roles or business owners looking to expand their reach and influence ethically.",
+    "categories": [
+      "dg-4",
+      "dg-7",
+      "mood-1"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "हनुमान (बुद्धिहीन तनु जानिके)",
+    "content": "बुद्धिहीन तनु जानिके सुमिरौ पवन कुमार।\nबल बुद्धि विद्या देहु मोहि हरहु कलेश विकार॥",
+    "img_url": "/1/hanuman.webp",
+    "tags": "Humility, Intelligence, Calm",
+    "arth_en": "Knowing myself to be ignorant, I remember Hanuman; give me strength, wisdom, and knowledge, and remove my miseries.",
+    "arth_hi": "स्वयं को बुद्धिहीन जानकर मैं पवन पुत्र हनुमान का स्मरण करता हूँ; मुझे बल, बुद्धि और विद्या दें और मेरे कष्टों को दूर करें।",
+    "arth_mr": "स्वतःला बुद्धिहीन मानून मी पवनपुत्र हनुमानाचे स्मरण करतो; मला बल, बुद्धी आणि विद्या दे आणि माझे कष्ट दूर कर.",
+    "ex": "Commonly recited by children and students before exams to calm their nerves and seek mental sharpenss.",
+    "categories": [
+      "cat-2",
+      "cat-6",
+      "dg-5",
+      "dg-6",
+      "mood-4"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "सूर्य बीज मन्त्र",
+    "content": "ॐ घृणिः सूर्याय नमः॥",
+    "img_url": "/1/surya.webp",
+    "tags": "Vitality, Fame, Health",
+    "arth_en": "Salutations to the Sun, the source of light; may he grant us radiance and physical health.",
+    "arth_hi": "प्रकाश के स्रोत सूर्य देव को नमस्कार; वे हमें तेज और शारीरिक स्वास्थ्य प्रदान करें।",
+    "arth_mr": "प्रकाशाचा स्रोत सूर्यदेवाला नमस्कार; तो आम्हाला तेज आणि शारीरिक आरोग्य देवो.",
+    "ex": "Chanted every morning while facing the sun to cure skin issues or to gain respect and fame in society.",
+    "categories": [
+      "cat-2",
+      "cat-6",
+      "dg-6",
+      "dg-7",
+      "mood-6"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "दीप प्रार्थना (अन्तर्ज्योति)",
+    "content": "अन्तर्ज्योतिर्बहिर्ज्योतिः प्रत्यग्ज्योतिः परात्परः।\nज्योतिर्ज्योतिः स्वयं ज्योतिरात्मज्योतिः शिवोऽस्म्यहम्॥",
+    "img_url": "/1/om.webp",
+    "tags": "Inner-Light, Meditation, Self",
+    "arth_en": "The light within and without; I am that light which is beyond the highest. I am the self-shining soul; I am Shiva.",
+    "arth_hi": "भीतर और बाहर का प्रकाश; मैं वही प्रकाश हूँ जो सर्वोच्च से भी परे है। मैं स्वयं प्रकाशमान आत्मा हूँ; मैं शिव हूँ।",
+    "arth_mr": "आत आणि बाहेरचा प्रकाश; मी तोच प्रकाश आहे जो सर्वोच्च पलीकडे आहे. मी स्वयंप्रकाशी आत्मा आहे; मी शिव आहे.",
+    "ex": "Recited during deep meditation to realize that the 'divine light' seen in the temple also exists within the heart.",
+    "categories": [
+      "cat-5",
+      "cat-7",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "भोजन प्रार्थना (अहं वैश्वानरो)",
+    "content": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्॥",
+    "img_url": "/1/om.webp",
+    "tags": "Digestion, Biology, Sacredness",
+    "arth_en": "I, as the fire of digestion, reside in the bodies of all living beings. In balance with the breath, I digest the four types of food.",
+    "arth_hi": "मैं पाचन की अग्नि बनकर सभी प्राणियों के शरीर में निवास करता हूँ। श्वास के संतुलन के साथ, मैं चार प्रकार के भोजन को पचाता हूँ।",
+    "arth_mr": "मी पचनाचा अग्नी बनून सर्व प्राण्यांच्या शरीरात निवास करतो. श्वासाच्या संतुलनासह, मी चार प्रकारच्या अन्नाचे पचन करतो.",
+    "ex": "Recited by health-conscious users before eating to pray for healthy digestion and gratitude for the miracle of life.",
+    "categories": [
+      "cat-7"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "कृष्णं वन्दे जगद्गुरुम्",
+    "content": "वसुदेवसुतं देवं कंसचाणूरमर्दनम्।\nदेवकी परमानन्दं कृष्णं वन्दे जगद्गुरुम्॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Guru, Joy, Krishna",
+    "arth_en": "I bow to Lord Krishna, the Guru of the universe, the son of Vasudeva, the killer of Kamsa and Chanoora, and the source of Devaki's supreme joy.",
+    "arth_hi": "मैं भगवान कृष्ण को प्रणाम करता हूँ, जो जगत के गुरु हैं, वसुदेव के पुत्र हैं, कंस और चाणूर का वध करने वाले हैं और देवकी के परम आनंद का स्रोत हैं।",
+    "arth_mr": "मी भगवान कृष्णाला वंदन करतो, जो जगाचा गुरु आहे, वसुदेवाचा मुलगा आहे, कंस आणि चाणूरचा वध करणारा आहे आणि देवकीच्या परमानंदाचा स्रोत आहे.",
+    "ex": "Recited as a primary morning prayer by devotees to start the day with the guidance of the ultimate teacher (Jagatguru).",
+    "categories": [
+      "cat-1",
+      "dg-3",
+      "dg-6",
+      "mood-1",
+      "mood-6"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "शनि स्तुति (नीलांजन)",
+    "content": "नीलांजनसमाभासं रविपुत्रं यमाग्रजम्।\nछायामार्तण्डसम्भूतं तं नमामि शनैश्चरम्॥",
+    "img_url": "/1/shani.webp",
+    "tags": "Justice, Protection, Shani",
+    "arth_en": "I bow to Shani (Saturn), who is blue like a mountain, the son of the Sun, the elder brother of Yama, and born to Chhaya and Martanda.",
+    "arth_hi": "मैं शनिदेव को नमस्कार करता हूँ, जो नीले पर्वत के समान कांतिवान हैं, सूर्य के पुत्र हैं, यमराज के बड़े भाई हैं और छाया व सूर्य के पुत्र हैं।",
+    "arth_mr": "मी शनिदेवाला नमस्कार करतो, जो निळ्या पर्वतासारखा तेजस्वी आहे, सूर्याचा पुत्र आहे, यमराजाचा मोठा भाऊ आहे आणि छाया व सूर्याचा पुत्र आहे.",
+    "ex": "Chanted on Saturdays to reduce the intensity of hardships and seek justice during difficult karmic phases.",
+    "categories": [
+      "cat-4",
+      "cat-6",
+      "dg-4",
+      "dg-6"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "अखण्ड मण्डलाकारम्",
+    "content": "अखण्डमण्डलाकारं व्याप्तं येन चराचरम्।\nतत्पदं दर्शितं येन तस्मै श्रीगुरवे नमः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Guru, Universe, Knowledge",
+    "arth_en": "Salutations to the Guru who revealed to me the divine state which pervades the entire unbroken universe of moving and unmoving objects.",
+    "arth_hi": "उन गुरु को नमस्कार जिन्होंने मुझे उस दिव्य स्थिति का दर्शन कराया जो संपूर्ण चराचर ब्रह्मांड में व्याप्त है।",
+    "arth_mr": "ज्याने संपूर्ण चराचर विश्व व्यापले आहे, त्या दिव्य स्थितीचे दर्शन घडवणाऱ्या गुरूला मी नमस्कार करतो.",
+    "ex": "Used to honor a teacher or mentor before starting a new course of study or seeking spiritual initiation.",
+    "categories": [
+      "cat-5",
+      "cat-7",
+      "cat-8",
+      "dg-3",
+      "dg-7",
+      "mood-1"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "खोई वस्तु पाने का मन्त्र",
+    "content": "कार्तवीर्यार्जुनो नाम राजा बाहुसहस्रवान्।\nतस्य स्मरणमात्रेण गतं नष्टं च लभ्यते॥",
+    "img_url": "/1/om.webp",
+    "tags": "Lost-Found, Recovery, Success",
+    "arth_en": "Remembering King Kartavirya Arjuna, who had a thousand arms, helps one recover lost or stolen items.",
+    "arth_hi": "हजार भुजाओं वाले राजा कार्तवीर्य अर्जुन के स्मरण मात्र से खोई हुई या चोरी हुई वस्तु वापस मिल जाती है।",
+    "arth_mr": "हजार हात असलेल्या कार्तवीर्य अर्जुनाच्या केवळ स्मरणाने हरवलेली किंवा चोरीला गेलेली वस्तू पुन्हा मिळते.",
+    "ex": "Recited when you have misplaced an important item like house keys, a wallet, or important documents to calm the mind and find them.",
+    "categories": [
+      "cat-2",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "संतान गोपाल मन्त्र",
+    "content": "ॐ देवकीसुत गोविन्द वासुदेव जगत्पते।\nदेहि मे तनयं कृष्ण त्वामहं शरणं गतः॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Children, Family, Blessings",
+    "arth_en": "O Krishna, son of Devaki and Govinda, Lord of the universe, I take refuge in You. Please bless me with a child.",
+    "arth_hi": "हे देवकीपुत्र कृष्ण, हे गोविंद, हे जगत के स्वामी, मैं आपकी शरण में हूँ। कृपया मुझे संतान सुख प्रदान करें।",
+    "arth_mr": "हे देवकीपुत्र कृष्णा, हे गोविंदा, हे जगाच्या मालका, मी तुला शरण आलो आहे. कृपया मला संतान सुख दे.",
+    "ex": "Chanted by couples seeking the joy of parenthood or for the healthy birth of a child.",
+    "categories": [
+      "cat-5",
+      "cat-8",
+      "dg-3",
+      "dg-7",
+      "mood-3"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "ऋणमोचक मंगल मन्त्र",
+    "content": "मङ्गलो भूमिपुत्रश्च ऋणहर्ता धनप्रदः।\nस्थिरासनो महाकायः सर्वकर्मावरोधकः॥",
+    "img_url": "/1/om.webp",
+    "tags": "Debt-Relief, Wealth, Mars",
+    "arth_en": "Salutations to Mangal (Mars), the son of Earth, who removes debts and bestows wealth and stability.",
+    "arth_hi": "पृथ्वी के पुत्र मंगल देव को नमस्कार, जो ऋणों (कर्ज) को हरने वाले और धन प्रदान करने वाले हैं।",
+    "arth_mr": "पृथ्वीचा पुत्र असलेल्या मंगल देवाला नमस्कार, जो कर्ज निवारणारा आणि धन प्रदान करणारा आहे.",
+    "ex": "Recited on Tuesdays by individuals facing financial stress or those trying to clear a long-standing bank loan or debt.",
+    "categories": [
+      "cat-3",
+      "cat-6",
+      "dg-6",
+      "mood-2"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "सर्वस्वरूपे सर्वेशे (शक्ति)",
+    "content": "सर्वस्वरूपे सर्वेशे सर्वशक्ति समन्विते।\nभयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते॥",
+    "img_url": "/1/durga.webp",
+    "tags": "Courage, Fear, Durga",
+    "arth_en": "O Goddess Durga, who exists in all forms and possesses all powers, please protect us from all fears. We bow to You.",
+    "arth_hi": "हे देवी दुर्गा, जो सभी रूपों में विद्यमान हैं और सभी शक्तियों से युक्त हैं, कृपया हमें सभी भयों से बचाएं। आपको नमस्कार है।",
+    "arth_mr": "हे देवी दुर्गे, तू सर्व रूपांत आहेस आणि सर्व शक्तींनी युक्त आहेस, कृपया आमचे सर्व भयापासून रक्षण कर.",
+    "ex": "Chanted during times of national or personal crisis to gain the collective strength to face a common enemy or disaster.",
+    "categories": [
+      "cat-4",
+      "dg-4"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "कस्तूरी तिलकं (कृष्ण)",
+    "content": "कस्तूरी तिलकं ललाट पटले, वक्षस्थले कौस्तुभम्।\nनासाग्रे वरमौक्तिकं करतले वेणुं करे कङ्कणम्॥",
+    "img_url": "/1/krishna.webp",
+    "tags": "Beauty, Devotion, Krishna",
+    "arth_en": "Describes Lord Krishna with the musk tilak on His forehead, the Kaustubha gem on His chest, and the flute in His hand.",
+    "arth_hi": "भगवान कृष्ण का वर्णन: जिनके ललाट पर कस्तूरी का तिलक, वक्ष पर कौस्तुभ मणि और हाथ में मुरली सुशोभित है।",
+    "arth_mr": "कृष्णाचे वर्णन: ज्याच्या कपाळावर कस्तुरी टिळक, छातीवर कौस्तुभ मणी आणि हातात बासरी शोभा देत आहे.",
+    "ex": "Chanted during Puja to help the devotee visualize the beautiful form of Krishna, deepening their meditative connection.",
+    "categories": [
+      "cat-5",
+      "cat-7",
+      "dg-3",
+      "dg-7"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "मूकं करोति वाचालं (कृपा)",
+    "content": "मूकं करोति वाचालं पङ्गुं लङ्घयते गिरिम्।\nयत्कृपा तमहं वन्दे परमानन्द माधवम्॥",
+    "img_url": "/1/om.webp",
+    "tags": "Grace, Impossible, Faith",
+    "arth_en": "I bow to the blissful Madhava, whose grace makes the mute speak eloquently and the lame cross mountains.",
+    "arth_hi": "मैं उस परम आनंद स्वरूप माधव की वंदना करता हूँ, जिनकी कृपा से गूंगा बोलने लगता है और लंगड़ा पर्वत लांघ जाता है।",
+    "arth_mr": "ज्याच्या कृपेने मुका बोलू लागतो आणि पांगळा पर्वत चढू शकतो, त्या परमानंद स्वरूप माधवाला मी वंदन करतो.",
+    "ex": "Used as a motivational prayer before starting a task that seems impossible or beyond one's current abilities.",
+    "categories": [
+      "cat-2",
+      "dg-3",
+      "mood-4"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "पुनरपि जननं (भज गोविन्दम्)",
+    "content": "पुनरपि जननं पुनरपि मरणं पुनरपि जननीजठरे शयनम्।\nइह संसारे बहुदुस्तारे कृपयाऽपारे पाहि मुरारे॥",
+    "img_url": "/1/om.webp",
+    "tags": "Liberation, Detachment, Peace",
+    "arth_en": "Being born again, dying again, lying again in the mother's womb—this cycle is hard to cross. O Krishna, save me through Your grace.",
+    "arth_hi": "बार-बार जन्म लेना, बार-बार मरना, फिर से माँ के गर्भ में सोना—यह संसार चक्र कठिन है। हे कृष्ण, अपनी कृपा से मेरी रक्षा करें।",
+    "arth_mr": "पुन्हा जन्म, पुन्हा मृत्यू आणि पुन्हा मातेच्या उदरात शयन; या संसारातून हे कृष्णा, तुझ्या कृपेने माझे रक्षण कर.",
+    "ex": "Recited during introspection or when seeking spiritual detachment from worldly worries and the cycle of stress.",
+    "categories": [
+      "cat-5",
+      "cat-8",
+      "dg-2",
+      "dg-7",
+      "mood-5"
+    ]
   }
 ]
