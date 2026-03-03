@@ -1,0 +1,2342 @@
+[
+ {
+ "id": 1,
+ "que_en": "How many chapters are there in the Bhagavad Gita?",
+ "que_hi": "भगवद गीता में कुल कितने अध्याय हैं?",
+ "options": [
+ {"text_eng": "12", "text_hindi": "12", "ans": false},
+ {"text_eng": "18", "text_hindi": "18", "ans": true},
+ {"text_eng": "24", "text_hindi": "24", "ans": false},
+ {"text_eng": "108", "text_hindi": "108", "ans": false}
+ ],
+ "fact_eng": "The Gita's 18 chapters are divided into three sections of six chapters each, focusing on Karma Yoga, Bhakti Yoga, and Jnana Yoga. ",
+ "fact_hindi": "गीता के 18 अध्यायों को छह-छह अध्यायों के तीन खंडों में विभाजित किया गया है, जो कर्म योग, भक्ति योग और ज्ञान योग पर केंद्रित हैं। "
+ },
+ {
+ "id": 2,
+ "que_en": "Who narrated the events of the war to King Dhritarashtra in real-time?",
+ "que_hi": "राजा धृतराष्ट्र को युद्ध की घटनाओं का सजीव वर्णन किसने सुनाया?",
+ "options": [
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": false},
+ {"text_eng": "Sanjaya", "text_hindi": "संजय", "ans": true},
+ {"text_eng": "Vyasa", "text_hindi": "व्यास", "ans": false},
+ {"text_eng": "Kripacharya", "text_hindi": "कृपाचार्य", "ans": false}
+ ],
+ "fact_eng": "Sanjaya was given 'Divya Drishti' (divine vision) by Sage Vyasa to see the battlefield from miles away in the palace. ",
+ "fact_hindi": "संजय को ऋषि व्यास द्वारा 'दिव्य दृष्टि' दी गई थी ताकि वे महल में बैठे हुए मीलों दूर युद्ध के मैदान को देख सकें। "
+ },
+ {
+ "id": 3,
+ "que_en": "What was the name of Arjuna's powerful bow?",
+ "que_hi": "अर्जुन के शक्तिशाली धनुष का क्या नाम था?",
+ "options": [
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Gandiva", "text_hindi": "गांडीव", "ans": true},
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": false},
+ {"text_eng": "Sharanga", "text_hindi": "शारंग", "ans": false}
+ ],
+ "fact_eng": "The Gandiva was created by Brahma and eventually given to Arjuna by Varuna (the Sea God) at the request of Agni. ",
+ "fact_hindi": "गांडीव का निर्माण ब्रह्मा द्वारा किया गया था और अंततः अग्नि के अनुरोध पर वरुण (समुद्र देव) द्वारा अर्जुन को दिया गया था। "
+ },
+ {
+ "id": 4,
+ "que_en": "Which Parva (book) of the Mahabharata contains the Bhagavad Gita?",
+ "que_hi": "महाभारत के किस पर्व में भगवद गीता निहित है?",
+ "options": [
+ {"text_eng": "Adi Parva", "text_hindi": "आदि पर्व", "ans": false},
+ {"text_eng": "Bhishma Parva", "text_hindi": "भीष्म पर्व", "ans": true},
+ {"text_eng": "Vana Parva", "text_hindi": "वन पर्व", "ans": false},
+ {"text_eng": "Shanti Parva", "text_hindi": "शांति पर्व", "ans": false}
+ ],
+ "fact_eng": "The Gita occurs in chapters 23 to 40 of the Bhishma Parva, just before the Great War begins. ",
+ "fact_hindi": "गीता भीष्म पर्व के अध्याय 23 से 40 में आती है, जो महान युद्ध शुरू होने से ठीक पहले का समय है। "
+ },
+ {
+ "id": 5,
+ "que_en": "Who was the father of Bhishma Pitamah?",
+ "que_hi": "भीष्म पितामह के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": false},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": true},
+ {"text_eng": "Vichitravirya", "text_hindi": "विचित्रवीर्य", "ans": false},
+ {"text_eng": "Bharat", "text_hindi": "भरत", "ans": false}
+ ],
+ "fact_eng": "King Shantanu was a Kuru king whose love for Satyavati led Bhishma to take his famous oath of celibacy. ",
+ "fact_hindi": "राजा शांतनु एक कुरु राजा थे, जिनके सत्यवती के प्रति प्रेम के कारण भीष्म को ब्रह्मचर्य की अपनी प्रसिद्ध प्रतिज्ञा लेनी पड़ी थी। "
+ },
+ {
+ "id": 6,
+ "que_en": "On which battlefield was the Gita spoken?",
+ "que_hi": "गीता का उपदेश किस युद्ध भूमि पर दिया गया था?",
+ "options": [
+ {"text_eng": "Panipat", "text_hindi": "पानीपत", "ans": false},
+ {"text_eng": "Kurukshetra", "text_hindi": "कुरुक्षेत्र", "ans": true},
+ {"text_eng": "Magadha", "text_hindi": "मगध", "ans": false},
+ {"text_eng": "Indraprastha", "text_hindi": "इन्द्रप्रस्थ", "ans": false}
+ ],
+ "fact_eng": "Kurukshetra is known as 'Dharmakshetra' because it was considered a holy land even before the war took place. ",
+ "fact_hindi": "कुरुक्षेत्र को 'धर्मक्षेत्र' के रूप में जाना जाता है क्योंकि युद्ध होने से पहले ही इसे एक पवित्र भूमि माना जाता था। "
+ },
+ {
+ "id": 7,
+ "que_en": "Who was the only Kaurava brother to survive the war?",
+ "que_hi": "युद्ध में जीवित बचने वाला एकमात्र कौरव भाई कौन था?",
+ "options": [
+ {"text_eng": "Dushasana", "text_hindi": "दुशासन", "ans": false},
+ {"text_eng": "Yuyutsu", "text_hindi": "युयुत्सु", "ans": true},
+ {"text_eng": "Vikarna", "text_hindi": "विकर्ण", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false}
+ ],
+ "fact_eng": "Yuyutsu chose the path of Dharma and fought for the Pandavas, which is why he was the only son of Dhritarashtra to survive. ",
+ "fact_hindi": "युयुत्सु ने धर्म का मार्ग चुना और पांडवों के लिए युद्ध लड़ा, यही कारण है कि वह धृतराष्ट्र का जीवित बचने वाला एकमात्र पुत्र था। "
+ },
+ {
+ "id": 8,
+ "que_en": "What was the real name of Bhishma Pitamah?",
+ "que_hi": "भीष्म पितामह का वास्तविक नाम क्या था?",
+ "options": [
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false},
+ {"text_eng": "Devavrata", "text_hindi": "देवव्रत", "ans": true},
+ {"text_eng": "Shrutayu", "text_hindi": "श्रुतायु", "ans": false},
+ {"text_eng": "Gangaputra", "text_hindi": "गंगापुत्र", "ans": false}
+ ],
+ "fact_eng": "He earned the name 'Bhishma' (The Terrible) only after taking the difficult oath to remain celibate for life. ",
+ "fact_hindi": "आजीवन ब्रह्मचारी रहने की कठिन प्रतिज्ञा लेने के बाद ही उन्हें 'भीष्म' (भयानक/भीषण) नाम मिला था। "
+ },
+ {
+ "id": 9,
+ "que_en": "Who was the Guru of both Pandavas and Kauravas?",
+ "que_hi": "पांडवों और कौरवों के गुरु कौन थे?",
+ "options": [
+ {"text_eng": "Parashurama", "text_hindi": "परशुराम", "ans": false},
+ {"text_eng": "Dronacharya", "text_hindi": "द्रोणाचार्य", "ans": true},
+ {"text_eng": "Vashistha", "text_hindi": "वशिष्ठ", "ans": false},
+ {"text_eng": "Sandipani", "text_hindi": "सांदीपनि", "ans": false}
+ ],
+ "fact_eng": "Dronacharya was a master of advanced military arts and was the father of Ashwatthama. ",
+ "fact_hindi": "द्रोणाचार्य उन्नत सैन्य कलाओं के उस्ताद थे और अश्वत्थामा के पिता थे। "
+ },
+ {
+ "id": 10,
+ "que_en": "How many verses (shlokas) are there in the Bhagavad Gita?",
+ "que_hi": "भगवद गीता में कुल कितने श्लोक हैं?",
+ "options": [
+ {"text_eng": "500", "text_hindi": "500", "ans": false},
+ {"text_eng": "700", "text_hindi": "700", "ans": true},
+ {"text_eng": "1000", "text_hindi": "1000", "ans": false},
+ {"text_eng": "1800", "text_hindi": "1800", "ans": false}
+ ],
+ "fact_eng": "Out of 700 shlokas, Krishna spoke 574, Arjuna spoke 84, Sanjaya spoke 41, and Dhritarashtra spoke only 1. ",
+ "fact_hindi": "700 श्लोकों में से, कृष्ण ने 574, अर्जुन ने 84, संजय ने 41 और धृतराष्ट्र ने केवल 1 श्लोक बोला है। "
+ },
+ {
+ "id": 11,
+ "que_en": "Who wrote down the Mahabharata as dictated by Sage Vyasa?",
+ "que_hi": "ऋषि व्यास द्वारा बोले जाने पर महाभारत को किसने लिखा था?",
+ "options": [
+ {"text_eng": "Sage Narada", "text_hindi": "नारद मुनि", "ans": false},
+ {"text_eng": "Lord Ganesha", "text_hindi": "भगवान गणेश", "ans": true},
+ {"text_eng": "Lord Brahma", "text_hindi": "भगवान ब्रह्मा", "ans": false},
+ {"text_eng": "Hanuman", "text_hindi": "हनुमान", "ans": false}
+ ],
+ "fact_eng": "It is said that Lord Ganesha used his own broken tusk to write the epic when his pen broke. ",
+ "fact_hindi": "कहा जाता है कि जब कलम टूट गई, तो भगवान गणेश ने महाकाव्य लिखने के लिए अपने स्वयं के टूटे हुए दांत का उपयोग किया था। "
+ },
+ {
+ "id": 12,
+ "que_en": "What was the name of Krishna's conch shell?",
+ "que_hi": "कृष्ण के शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false},
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": true},
+ {"text_eng": "Paundra", "text_hindi": "पौण्ड्र", "ans": false},
+ {"text_eng": "Anantavijaya", "text_hindi": "अनन्तविजय", "ans": false}
+ ],
+ "fact_eng": "The Panchajanya conch was obtained from the demon Panchajana, who lived in a shell in the deep sea. ",
+ "fact_hindi": "पाञ्चजन्य शंख पंचजन नामक राक्षस से प्राप्त किया गया था, जो गहरे समुद्र में एक शंख के अंदर रहता था। "
+ },
+ {
+ "id": 13,
+ "que_en": "Who was the charioteer of Arjuna during the Kurukshetra war?",
+ "que_hi": "कुरुक्षेत्र युद्ध के दौरान अर्जुन के सारथी कौन थे?",
+ "options": [
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Lord Krishna", "text_hindi": "भगवान कृष्ण", "ans": true},
+ {"text_eng": "Drishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": false},
+ {"text_eng": "Satyaki", "text_hindi": "सात्यकि", "ans": false}
+ ],
+ "fact_eng": "Krishna chose to be a non-combatant charioteer, earning the name 'Parthasarathi' (Arjuna's Charioteer). ",
+ "fact_hindi": "कृष्ण ने एक गैर-लड़ाकू सारथी बनना चुना, जिससे उन्हें 'पार्थसारथी' (अर्जुन के सारथी) नाम मिला। "
+ },
+ {
+ "id": 14,
+ "que_en": "How many days did the Kurukshetra war last?",
+ "que_hi": "कुरुक्षेत्र का युद्ध कितने दिनों तक चला?",
+ "options": [
+ {"text_eng": "13 days", "text_hindi": "13 दिन", "ans": false},
+ {"text_eng": "18 days", "text_hindi": "18 दिन", "ans": true},
+ {"text_eng": "21 days", "text_hindi": "21 दिन", "ans": false},
+ {"text_eng": "10 days", "text_hindi": "10 दिन", "ans": false}
+ ],
+ "fact_eng": "The number 18 is significant: 18 chapters in Gita, 18 parvas in Mahabharata, and 18 days of war. ",
+ "fact_hindi": "अंक 18 बहुत महत्वपूर्ण है: गीता में 18 अध्याय, महाभारत में 18 पर्व और युद्ध के 18 दिन। "
+ },
+ {
+ "id": 15,
+ "que_en": "Who was the commander of the Kauravas for the first 10 days?",
+ "que_hi": "पहले 10 दिनों तक कौरव सेना के सेनापति कौन थे?",
+ "options": [
+ {"text_eng": "Drona", "text_hindi": "द्रोणाचार्य", "ans": false},
+ {"text_eng": "Bhishma", "text_hindi": "भीष्म", "ans": true},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false}
+ ],
+ "fact_eng": "Bhishma Pitamah fell on the 10th day after being pierced by countless arrows, lying on the 'bed of arrows'. ",
+ "fact_hindi": "भीष्म पितामह 10वें दिन अनगिनत तीरों से बिंधकर गिर गए और 'शरशय्या' (तीरों की शय्या) पर लेट गए। "
+ },
+ {
+ "id": 16,
+ "que_en": "Which Pandava was known for his extreme physical strength?",
+ "que_hi": "कौन सा पांडव अपनी अत्यधिक शारीरिक शक्ति के लिए जाना जाता था?",
+ "options": [
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": true},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": false}
+ ],
+ "fact_eng": "Bhima possessed the strength of 10,000 elephants and killed all 100 Kaurava brothers in the war. ",
+ "fact_hindi": "भीम के पास 10,000 हाथियों की शक्ति थी और उन्होंने युद्ध में सभी 100 कौरव भाइयों का वध किया था। "
+ },
+ {
+ "id": 17,
+ "que_en": "What was the original name of the Mahabharata?",
+ "que_hi": "महाभारत का मूल नाम क्या था?",
+ "options": [
+ {"text_eng": "Bharat Samhita", "text_hindi": "भारत संहिता", "ans": false},
+ {"text_eng": "Jaya Samhita", "text_hindi": "जय संहिता", "ans": true},
+ {"text_eng": "Itihasa", "text_hindi": "इतिहास", "ans": false},
+ {"text_eng": "Veda", "text_hindi": "वेद", "ans": false}
+ ],
+ "fact_eng": "Originally, it had 8,800 shlokas and was called Jaya. Later it grew to 24,000 (Bharata) and finally 100,000 (Mahabharata). ",
+ "fact_hindi": "मूल रूप से, इसमें 8,800 श्लोक थे और इसे जय कहा जाता था। बाद में यह 24,000 (भारत) और अंततः 1,00,000 (महाभारत) श्लोकों का हो गया। "
+ },
+ {
+ "id": 18,
+ "que_en": "Who was the biological father of Yudhisthira?",
+ "que_hi": "युधिष्ठिर के जैविक पिता कौन थे?",
+ "options": [
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": false},
+ {"text_eng": "Lord Yama (Dharma)", "text_hindi": "यमराज (धर्म)", "ans": true},
+ {"text_eng": "Indra", "text_hindi": "इन्द्र", "ans": false},
+ {"text_eng": "Vayu", "text_hindi": "वायु", "ans": false}
+ ],
+ "fact_eng": "Yudhisthira was known for his adherence to truth and righteousness, qualities inherited from his father, the God of Dharma. ",
+ "fact_hindi": "युधिष्ठिर को सत्य और धार्मिकता के पालन के लिए जाना जाता था, जो गुण उन्हें अपने पिता, धर्म के देवता से विरासत में मिले थे। "
+ },
+ {
+ "id": 19,
+ "que_en": "Who was the mother of Karna?",
+ "que_hi": "कर्ण की माता कौन थी?",
+ "options": [
+ {"text_eng": "Madri", "text_hindi": "माद्री", "ans": false},
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": true},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": false},
+ {"text_eng": "Satyavati", "text_hindi": "सत्यवती", "ans": false}
+ ],
+ "fact_eng": "Karna was born to Kunti before her marriage to Pandu, through a boon given by Sage Durvasa to call upon the Sun God. ",
+ "fact_hindi": "कर्ण का जन्म कुंती के पांडु से विवाह से पहले हुआ था, जो ऋषि दुर्वासा द्वारा सूर्य देव का आह्वान करने के लिए दिए गए वरदान के माध्यम से हुआ था। "
+ },
+ {
+ "id": 20,
+ "que_en": "Who killed Dronacharya in the war?",
+ "que_hi": "युद्ध में द्रोणाचार्य का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Dhrishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": true},
+ {"text_eng": "Abhimanyu", "text_hindi": "अभिमन्यु", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false}
+ ],
+ "fact_eng": "Dhrishtadyumna was born from a yajna specifically to kill Drona, fulfilling the revenge of his father, King Drupada. ",
+ "fact_hindi": "धृष्टद्युम्न का जन्म विशेष रूप से द्रोण को मारने के लिए एक यज्ञ से हुआ था, जिससे उनके पिता, राजा द्रुपद का बदला पूरा हुआ। "
+ },
+ {
+ "id": 21,
+ "que_en": "What was the name of Yudhisthira's conch shell?",
+ "que_hi": "युधिष्ठिर के शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": false},
+ {"text_eng": "Anantavijaya", "text_hindi": "अनन्तविजय", "ans": true},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false},
+ {"text_eng": "Sughosha", "text_hindi": "सुघोष", "ans": false}
+ ],
+ "fact_eng": "Anantavijaya means 'Eternal Victory'. Each Pandava brother had a unique, named conch that they blew to signal the start of the day's battle. ",
+ "fact_hindi": "अनन्तविजय का अर्थ है 'अनंत विजय'। प्रत्येक पांडव भाई के पास एक विशिष्ट नाम वाला शंख था जिसे वे दिन के युद्ध की शुरुआत का संकेत देने के लिए बजाते थे। "
+ },
+ {
+ "id": 22,
+ "que_en": "Who was the King of Gandhara and the mastermind behind the game of dice?",
+ "que_hi": "गांधार का राजा और द्यूत क्रीड़ा (जुए) के पीछे का मास्टरमाइंड कौन था?",
+ "options": [
+ {"text_eng": "Jayadratha", "text_hindi": "जयद्रथ", "ans": false},
+ {"text_eng": "Shakuni", "text_hindi": "शकुनि", "ans": true},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Kritavarma", "text_hindi": "कृतवर्मा", "ans": false}
+ ],
+ "fact_eng": "Shakuni used dice made from the bones of his father, which supposedly followed his every command, ensuring the Pandavas' defeat. ",
+ "fact_hindi": "शकुनि ने अपने पिता की हड्डियों से बने पासे का उपयोग किया था, जो कथित तौर पर उसके हर आदेश का पालन करते थे, जिससे पांडवों की हार सुनिश्चित हुई। "
+ },
+ {
+ "id": 23,
+ "que_en": "Which warrior was cursed by Lord Krishna to wander the earth for 3000 years?",
+ "que_hi": "भगवान कृष्ण ने किस योद्धा को 3000 वर्षों तक पृथ्वी पर भटकने का श्राप दिया था?",
+ "options": [
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": true},
+ {"text_eng": "Shishupala", "text_hindi": "शिशुपाल", "ans": false},
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": false}
+ ],
+ "fact_eng": "Ashwatthama was cursed for using the Brahmastra to kill the unborn child (Parikshit) in Uttara's womb after the war had ended. ",
+ "fact_hindi": "अश्वत्थामा को युद्ध समाप्त होने के बाद उत्तरा के गर्भ में अजन्मे बच्चे (परीक्षित) को मारने के लिए ब्रह्मास्त्र का उपयोग करने के कारण श्राप दिया गया था। "
+ },
+ {
+ "id": 24,
+ "que_en": "Who was the father of King Pandu and King Dhritarashtra?",
+ "que_hi": "राजा पांडु और राजा धृतराष्ट्र के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Sage Vyasa", "text_hindi": "ऋषि व्यास", "ans": true},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false},
+ {"text_eng": "Vichitravirya", "text_hindi": "विचित्रवीर्य", "ans": false},
+ {"text_eng": "Bhisma", "text_hindi": "भीष्म", "ans": false}
+ ],
+ "fact_eng": "Through the practice of Niyoga, Sage Vyasa fathered the Kuru princes to continue the royal lineage after Vichitravirya died childless. ",
+ "fact_hindi": "नियोग की प्रथा के माध्यम से, ऋषि व्यास ने विचित्रवीर्य की मृत्यु के बाद शाही वंश को जारी रखने के लिए कुरु राजकुमारों को जन्म दिया। "
+ },
+ {
+ "id": 25,
+ "que_en": "In which city were the Pandavas attempted to be burnt alive in a lacquer house?",
+ "que_hi": "किस नगर में पांडवों को लाक्षागृह (लाख के घर) में जिंदा जलाने का प्रयास किया गया था?",
+ "options": [
+ {"text_eng": "Hastinapur", "text_hindi": "हस्तिनापुर", "ans": false},
+ {"text_eng": "Varanavata", "text_hindi": "वारणावत", "ans": true},
+ {"text_eng": "Mathura", "text_hindi": "मथुरा", "ans": false},
+ {"text_eng": "Ekachakra", "text_hindi": "एकचक्र", "ans": false}
+ ],
+ "fact_eng": "The Pandavas escaped through a secret tunnel dug by Vidura's messenger, leaving the Kauravas to believe they had perished. ",
+ "fact_hindi": "पांडव विदुर के दूत द्वारा खोदी गई एक गुप्त सुरंग के माध्यम से बच निकले, जिससे कौरवों को लगा कि वे मर चुके हैं। "
+ },
+ {
+ "id": 26,
+ "que_en": "Who was the sister of Krishna and the wife of Arjuna?",
+ "que_hi": "कृष्ण की बहन और अर्जुन की पत्नी कौन थी?",
+ "options": [
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": true},
+ {"text_eng": "Ulupi", "text_hindi": "उलूपी", "ans": false},
+ {"text_eng": "Chitrangada", "text_hindi": "चित्रांगदा", "ans": false}
+ ],
+ "fact_eng": "Arjuna abducted Subhadra from Dwarka with Krishna's silent approval, as he knew they were a perfect match. ",
+ "fact_hindi": "अर्जुन ने कृष्ण की मूक सहमति से द्वारका से सुभद्रा का अपहरण किया था, क्योंकि वे जानते थे कि वे एक-दूसरे के लिए एकदम सही हैं। "
+ },
+ {
+ "id": 27,
+ "que_en": "Who was the celestial architect who built the magical Maya Sabha?",
+ "que_hi": "जादुई 'मय सभा' का निर्माण करने वाला दिव्य वास्तुकार कौन था?",
+ "options": [
+ {"text_eng": "Vishwakarma", "text_hindi": "विश्वकर्मा", "ans": false},
+ {"text_eng": "Mayasura", "text_hindi": "मयासुर", "ans": true},
+ {"text_eng": "Narada", "text_hindi": "नारद", "ans": false},
+ {"text_eng": "Indra", "text_hindi": "इन्द्र", "ans": false}
+ ],
+ "fact_eng": "Mayasura built the palace out of gratitude after Arjuna and Krishna saved him from the burning Khandava Forest. ",
+ "fact_hindi": "मयासुर ने अर्जुन और कृष्ण द्वारा खांडव वन की आग से बचाए जाने के बाद कृतज्ञता वश इस महल का निर्माण किया था। "
+ },
+ {
+ "id": 28,
+ "que_en": "Which demon was killed by Bhima in the city of Ekachakra?",
+ "que_hi": "एकचक्र नगर में भीम ने किस राक्षस का वध किया था?",
+ "options": [
+ {"text_eng": "Hidimba", "text_hindi": "हिडिम्ब", "ans": false},
+ {"text_eng": "Bakasure", "text_hindi": "बकासुर", "ans": true},
+ {"text_eng": "Jarasandha", "text_hindi": "जरासंध", "ans": false},
+ {"text_eng": "Kirmira", "text_hindi": "किर्मीर", "ans": false}
+ ],
+ "fact_eng": "Bakasure used to demand a cartload of food and one human being every week from the villagers until Bhima took the food and killed him. ",
+ "fact_hindi": "बकासुर ग्रामीणों से हर हफ्ते एक गाड़ी खाना और एक इंसान की मांग करता था, जब तक कि भीम ने खाना लेकर उसका वध नहीं कर दिया। "
+ },
+ {
+ "id": 29,
+ "que_en": "Who was the younger wife of King Pandu and mother of Nakula and Sahadeva?",
+ "que_hi": "राजा पांडु की छोटी पत्नी और नकुल एवं सहदेव की माता कौन थी?",
+ "options": [
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false},
+ {"text_eng": "Madri", "text_hindi": "माद्री", "ans": true},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": false},
+ {"text_eng": "Satyavati", "text_hindi": "सत्यवती", "ans": false}
+ ],
+ "fact_eng": "Madri invoked the Ashwini Kumaras (the twin physicians of the gods) using Kunti's mantra to give birth to the Pandava twins. ",
+ "fact_hindi": "माद्री ने पांडव जुड़वां बच्चों को जन्म देने के लिए कुंती के मंत्र का उपयोग करके अश्विनी कुमारों (देवताओं के जुड़वां वैद्यों) का आह्वान किया था। "
+ },
+ {
+ "id": 30,
+ "que_en": "Who was born from a sacrificial fire specifically to kill Drona?",
+ "que_hi": "द्रोणाचार्य का वध करने के लिए विशेष रूप से यज्ञ की अग्नि से किसका जन्म हुआ था?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Dhrishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": true},
+ {"text_eng": "Sikhandi", "text_hindi": "शिखंडी", "ans": false},
+ {"text_eng": "Satyaki", "text_hindi": "सात्यकि", "ans": false}
+ ],
+ "fact_eng": "He was the son of King Drupada and the brother of Draupadi, destined from birth to end Dronacharya's life. ",
+ "fact_hindi": "वे राजा द्रुपद के पुत्र और द्रौपदी के भाई थे, जिनका जन्म ही द्रोणाचार्य के जीवन को समाप्त करने के लिए हुआ था। "
+ },
+ {
+ "id": 31,
+ "que_en": "Who was the son of Bhima who possessed incredible magical powers during the war?",
+ "que_hi": "भीम का वह पुत्र कौन था जिसके पास युद्ध के दौरान अविश्वसनीय जादुई शक्तियां थीं?",
+ "options": [
+ {"text_eng": "Abhimanyu", "text_hindi": "अभिमन्यु", "ans": false},
+ {"text_eng": "Ghatotkacha", "text_hindi": "घटोत्कच", "ans": true},
+ {"text_eng": "Barbarika", "text_hindi": "बर्बरीक", "ans": false},
+ {"text_eng": "Iravan", "text_hindi": "इरावन", "ans": false}
+ ],
+ "fact_eng": "Being a Rakshasa, his powers increased manifold at night. He forced Karna to use his divine weapon 'Vasavi Shakti'. ",
+ "fact_hindi": "एक राक्षस होने के नाते, रात में उसकी शक्तियां कई गुना बढ़ जाती थीं। उसने कर्ण को अपने दिव्य अस्त्र 'वासवी शक्ति' का उपयोग करने के लिए मजबूर कर दिया था। "
+ },
+ {
+ "id": 32,
+ "que_en": "Who gave Arjuna the divine weapon Pashupatastra after a fierce battle?",
+ "que_hi": "एक भीषण युद्ध के बाद अर्जुन को दिव्य अस्त्र 'पाशुपतास्त्र' किसने दिया था?",
+ "options": [
+ {"text_eng": "Lord Vishnu", "text_hindi": "भगवान विष्णु", "ans": false},
+ {"text_eng": "Lord Shiva", "text_hindi": "भगवान शिव", "ans": true},
+ {"text_eng": "Lord Indra", "text_hindi": "भगवान इन्द्र", "ans": false},
+ {"text_eng": "Lord Brahma", "text_hindi": "भगवान ब्रह्मा", "ans": false}
+ ],
+ "fact_eng": "Lord Shiva tested Arjuna's skill by disguising himself as a Kirata (hunter) before granting him the weapon. ",
+ "fact_hindi": "भगवान शिव ने अर्जुन को अस्त्र प्रदान करने से पहले एक किरात (शिकारी) के रूप में खुद को छिपाकर अर्जुन के कौशल की परीक्षा ली थी। "
+ },
+ {
+ "id": 33,
+ "que_en": "Who was the Sun God's son born with a divine armor (Kavacha) and earrings (Kundala)?",
+ "que_hi": "सूर्य देव का वह पुत्र कौन था जो दिव्य कवच और कुंडल के साथ पैदा हुआ था?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": true},
+ {"text_eng": "Eklavya", "text_hindi": "एकलव्य", "ans": false},
+ {"text_eng": "Bhisma", "text_hindi": "भीष्म", "ans": false}
+ ],
+ "fact_eng": "Karna donated his armor and earrings to Indra disguised as a Brahmin, despite knowing it would make him vulnerable. ",
+ "fact_hindi": "कर्ण ने ब्राह्मण के वेश में आए इंद्र को अपना कवच और कुंडल दान कर दिया था, यह जानते हुए भी कि इससे वह असुरक्षित हो जाएगा। "
+ },
+ {
+ "id": 34,
+ "que_en": "Which warrior entered the complex Chakravyuh formation on the 13th day?",
+ "que_hi": "युद्ध के 13वें दिन जटिल चक्रव्यूह रचना में किस योद्धा ने प्रवेश किया था?",
+ "options": [
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Abhimanyu", "text_hindi": "अभिमन्यु", "ans": true},
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false}
+ ],
+ "fact_eng": "Abhimanyu learned how to enter the Chakravyuh while in his mother's womb but never heard how to exit it. ",
+ "fact_hindi": "अभिमन्यु ने अपनी माता के गर्भ में रहते हुए चक्रव्यूह में प्रवेश करना सीख लिया था, लेकिन उससे बाहर निकलने का तरीका कभी नहीं सुन पाया। "
+ },
+ {
+ "id": 35,
+ "que_en": "Who was the king of the Matsya Kingdom where Pandavas spent their final year of exile?",
+ "que_hi": "मत्स्य साम्राज्य का राजा कौन था जहाँ पांडवों ने अपने वनवास का अंतिम वर्ष बिताया था?",
+ "options": [
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Virata", "text_hindi": "विराट", "ans": true},
+ {"text_eng": "Drupada", "text_hindi": "द्रुपद", "ans": false},
+ {"text_eng": "Kuntibhoja", "text_hindi": "कुंतीभोज", "ans": false}
+ ],
+ "fact_eng": "The Pandavas lived in King Virata's palace in disguise: Yudhisthira as a counselor, Bhima as a cook, and Arjuna as a dance teacher. ",
+ "fact_hindi": "पांडव राजा विराट के महल में भेष बदलकर रहते थे: युधिष्ठिर सलाहकार के रूप में, भीम रसोइए के रूप में और अर्जुन नृत्य शिक्षक के रूप में। "
+ },
+ {
+ "id": 36,
+ "que_en": "How many total 'Akshauhinis' (military divisions) participated in the war?",
+ "que_hi": "युद्ध में कुल कितनी 'अक्षौहिणी' (सैन्य विभाग) ने भाग लिया था?",
+ "options": [
+ {"text_eng": "11", "text_hindi": "11", "ans": false},
+ {"text_eng": "18", "text_hindi": "18", "ans": true},
+ {"text_eng": "7", "text_hindi": "7", "ans": false},
+ {"text_eng": "21", "text_hindi": "21", "ans": false}
+ ],
+ "fact_eng": "The Kauravas had 11 Akshauhinis, while the Pandavas had 7, totaling 18 divisions—matching the 18 days of the war. ",
+ "fact_hindi": "कौरवों के पास 11 अक्षौहिणी थीं, जबकि पांडवों के पास 7 थीं, कुल मिलाकर 18 विभाग थे—जो युद्ध के 18 दिनों के समान थे। "
+ },
+ {
+ "id": 37,
+ "que_en": "Who was the master of the game of dice that cheated the Pandavas?",
+ "que_hi": "पांडवों को धोखा देने वाले द्यूत क्रीड़ा (जुए) के खेल का मास्टर कौन था?",
+ "options": [
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": false},
+ {"text_eng": "Shakuni", "text_hindi": "शकुनि", "ans": true},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false},
+ {"text_eng": "Dussasana", "text_hindi": "दुशासन", "ans": false}
+ ],
+ "fact_eng": "Shakuni's trickery led to the Pandavas losing their kingdom, wealth, and even their freedom for 13 years. ",
+ "fact_hindi": "शकुनि की चालाकी के कारण पांडवों को अपना राज्य, धन और यहाँ तक कि 13 वर्षों के लिए अपनी स्वतंत्रता भी गंवानी पड़ी। "
+ },
+ {
+ "id": 38,
+ "que_en": "Who gave Krishna the Sudarshana Chakra during the burning of the Khandava Forest?",
+ "que_hi": "खांडव वन के दहन के दौरान कृष्ण को सुदर्शन चक्र किसने दिया था?",
+ "options": [
+ {"text_eng": "Lord Shiva", "text_hindi": "भगवान शिव", "ans": false},
+ {"text_eng": "Lord Parashurama", "text_hindi": "परशुराम", "ans": false},
+ {"text_eng": "Lord Agni", "text_hindi": "अग्नि देव", "ans": true},
+ {"text_eng": "Lord Indra", "text_hindi": "इन्द्र देव", "ans": false}
+ ],
+ "fact_eng": "Lord Agni presented the Sudarshana Chakra to Krishna and the Gandiva bow to Arjuna to help them fight the gods who tried to save the forest. ",
+ "fact_hindi": "भगवान अग्नि ने उन देवताओं से लड़ने में मदद करने के लिए कृष्ण को सुदर्शन चक्र और अर्जुन को गांडीव धनुष भेंट किया था, जिन्होंने वन को बचाने की कोशिश की थी। "
+ },
+ {
+ "id": 39,
+ "que_en": "Who was the only child of Dhritarashtra to support the Pandavas in the war?",
+ "que_hi": "युद्ध में पांडवों का समर्थन करने वाला धृतराष्ट्र का एकमात्र पुत्र कौन था?",
+ "options": [
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false},
+ {"text_eng": "Yuyutsu", "text_hindi": "युयुत्सु", "ans": true},
+ {"text_eng": "Satyaki", "text_hindi": "सात्यकि", "ans": false},
+ {"text_eng": "Dhrishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": false}
+ ],
+ "fact_eng": "Yuyutsu was the son of Dhritarashtra and a maid servant. He felt the Kauravas were wrong and joined the righteous side. ",
+ "fact_hindi": "युयुत्सु धृतराष्ट्र और एक दासी का पुत्र था। उसने महसूस किया कि कौरव गलत थे और वह धर्म के पक्ष में शामिल हो गया। "
+ },
+ {
+ "id": 40,
+ "que_en": "Which king of the vultures died trying to save Draupadi (or Sita in previous lives)?",
+ "que_hi": "गिद्धों का वह राजा कौन था जिसकी मृत्यु द्रौपदी (या पिछले जन्मों में सीता) को बचाने के प्रयास में हुई थी?",
+ "options": [
+ {"text_eng": "Sampati", "text_hindi": "सम्पाती", "ans": false},
+ {"text_eng": "Jatayu", "text_hindi": "जटायु", "ans": true},
+ {"text_eng": "Garuda", "text_hindi": "गरुड़", "ans": false},
+ {"text_eng": "Kakasura", "text_hindi": "काकासुर", "ans": false}
+ ],
+ "fact_eng": "Jatayu is a legendary bird in Indian epics who sacrificed his life fighting Ravana. His story is often cited in the Mahabharata as an example of loyalty. ",
+ "fact_hindi": "जटायु भारतीय महाकाव्यों में एक प्रसिद्ध पक्षी है जिसने रावण से लड़ते हुए अपने प्राणों की आहुति दे दी थी। उसकी कहानी अक्सर महाभारत में वफादारी के उदाहरण के रूप में दी जाती है। "
+ },
+ {
+ "id": 41,
+ "que_en": "Who was the only female to attend the Rajasuya Yajna performed by Yudhisthira?",
+ "que_hi": "युधिष्ठिर द्वारा किए गए राजसूय यज्ञ में शामिल होने वाली एकमात्र महिला कौन थी?",
+ "options": [
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false},
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": true},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false}
+ ],
+ "fact_eng": "As the Queen Consort and the 'Yajnaseni', Draupadi's presence was ritualistically mandatory for the completion of the sacrifice. ",
+ "fact_hindi": "महारानी और 'यज्ञसेनी' होने के नाते, यज्ञ को पूरा करने के लिए द्रौपदी की उपस्थिति अनुष्ठानिक रूप से अनिवार्य थी। "
+ },
+ {
+ "id": 42,
+ "que_en": "What was the name of the snake king who tried to kill Parikshit (Arjuna's grandson)?",
+ "que_hi": "परीक्षित (अर्जुन के पोते) को मारने की कोशिश करने वाले नागराज का नाम क्या था?",
+ "options": [
+ {"text_eng": "Vasuki", "text_hindi": "वासुकी", "ans": false},
+ {"text_eng": "Takshaka", "text_hindi": "तक्षक", "ans": true},
+ {"text_eng": "Shesha", "text_hindi": "शेष", "ans": false},
+ {"text_eng": "Kaliya", "text_hindi": "कालिया", "ans": false}
+ ],
+ "fact_eng": "Takshaka killed King Parikshit due to a curse from a sage's son, which eventually led to the Great Snake Sacrifice (Sarpa Satra). ",
+ "fact_hindi": "एक ऋषि के पुत्र के श्राप के कारण तक्षक ने राजा परीक्षित का वध किया था, जिससे अंततः महान सर्प यज्ञ (सर्प सत्र) हुआ। "
+ },
+ {
+ "id": 43,
+ "que_en": "Which warrior's head stayed alive to watch the entire 18-day war from a hilltop?",
+ "que_hi": "किस योद्धा का सिर पहाड़ी की चोटी से पूरे 18 दिनों का युद्ध देखने के लिए जीवित रहा?",
+ "options": [
+ {"text_eng": "Ghatotkacha", "text_hindi": "घटोत्कच", "ans": false},
+ {"text_eng": "Barbarika", "text_hindi": "बर्बरीक", "ans": true},
+ {"text_eng": "Iravan", "text_hindi": "इरावन", "ans": false},
+ {"text_eng": "Abhimanyu", "text_hindi": "अभिमन्यु", "ans": false}
+ ],
+ "fact_eng": "Barbarika (Grandson of Bhima) is worshipped today as Khatushyamji. He had three arrows capable of ending the war in minutes. ",
+ "fact_hindi": "बर्बरीक (भीम के पोते) को आज खाटूश्यामजी के रूप में पूजा जाता है। उनके पास ऐसे तीन तीर थे जो मिनटों में युद्ध समाप्त कर सकते थे। "
+ },
+ {
+ "id": 44,
+ "que_en": "Who was the charioteer of Karna during his final battle with Arjuna?",
+ "que_hi": "अर्जुन के साथ अंतिम युद्ध के दौरान कर्ण के सारथी कौन थे?",
+ "options": [
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": false},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": true},
+ {"text_eng": "Kritavarma", "text_hindi": "कृतवर्मा", "ans": false},
+ {"text_eng": "Shakuni", "text_hindi": "शकुनि", "ans": false}
+ ],
+ "fact_eng": "King Shalya was the uncle of Nakula and Sahadeva. He was forced to serve Karna but constantly demoralized him with insults. ",
+ "fact_hindi": "राजा शल्य नकुल और सहदेव के मामा थे। उन्हें कर्ण की सेवा करने के लिए मजबूर किया गया था, लेकिन वे लगातार कर्ण का मनोबल गिराते रहे। "
+ },
+ {
+ "id": 45,
+ "que_en": "How many sons did Draupadi have (collectively known as Upapandavas)?",
+ "que_hi": "द्रौपदी के कितने पुत्र थे (जिन्हें सामूहिक रूप से उपपांडव कहा जाता है)?",
+ "options": [
+ {"text_eng": "3", "text_hindi": "3", "ans": false},
+ {"text_eng": "5", "text_hindi": "5", "ans": true},
+ {"text_eng": "10", "text_hindi": "10", "ans": false},
+ {"text_eng": "100", "text_hindi": "100", "ans": false}
+ ],
+ "fact_eng": "Draupadi had one son from each of the five Pandavas. Tragically, all five were killed by Ashwatthama on the final night of the war. ",
+ "fact_hindi": "द्रौपदी के पाँचों पांडवों से एक-एक पुत्र थे। दुखद रूप से, युद्ध की अंतिम रात को अश्वत्थामा ने उन पाँचों का वध कर दिया था। "
+ },
+ {
+ "id": 46,
+ "que_en": "Which sage cursed Karna that he would forget his divine mantras when he needed them most?",
+ "que_hi": "किस ऋषि ने कर्ण को श्राप दिया था कि जब उसे सबसे अधिक आवश्यकता होगी, तब वह अपने दिव्य मंत्रों को भूल जाएगा?",
+ "options": [
+ {"text_eng": "Durvasa", "text_hindi": "दुर्वासा", "ans": false},
+ {"text_eng": "Parashurama", "text_hindi": "परशुराम", "ans": true},
+ {"text_eng": "Vishwamitra", "text_hindi": "विश्वामित्र", "ans": false},
+ {"text_eng": "Narada", "text_hindi": "नारद", "ans": false}
+ ],
+ "fact_eng": "Parashurama cursed Karna because he had lied about being a Brahmin to receive advanced weapon training. ",
+ "fact_hindi": "परशुराम ने कर्ण को श्राप दिया था क्योंकि कर्ण ने उन्नत शस्त्र प्रशिक्षण प्राप्त करने के लिए ब्राह्मण होने का झूठ बोला था। "
+ },
+ {
+ "id": 47,
+ "que_en": "Who killed the demon King Jarasandha in a wrestling match?",
+ "que_hi": "मल्ल-युद्ध (कुश्ती) में राक्षस राजा जरासंध का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": true},
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": false},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false}
+ ],
+ "fact_eng": "Jarasandha could only be killed by being torn in half and having the pieces thrown in opposite directions so they couldn't rejoin. ",
+ "fact_hindi": "जरासंध को केवल शरीर के दो टुकड़े करके और उन्हें विपरीत दिशाओं में फेंक कर ही मारा जा सकता था ताकि वे दोबारा न जुड़ सकें। "
+ },
+ {
+ "id": 48,
+ "que_en": "What weapon did Krishna use to kill Shishupala during the Rajasuya Yajna?",
+ "que_hi": "राजसूय यज्ञ के दौरान कृष्ण ने शिशुपाल का वध करने के लिए किस अस्त्र का उपयोग किया था?",
+ "options": [
+ {"text_eng": "Kaumodaki Gada", "text_hindi": "कौमोदकी गदा", "ans": false},
+ {"text_eng": "Sudarshana Chakra", "text_hindi": "सुदर्शन चक्र", "ans": true},
+ {"text_eng": "Nandaka Sword", "text_hindi": "नंदक तलवार", "ans": false},
+ {"text_eng": "Sharanga Bow", "text_hindi": "शारंग धनुष", "ans": false}
+ ],
+ "fact_eng": "Krishna had promised Shishupala's mother he would forgive 100 sins. He killed Shishupala the moment he committed his 101st insult. ",
+ "fact_hindi": "कृष्ण ने शिशुपाल की माता को वचन दिया था कि वे उसकी 100 गलतियों को क्षमा करेंगे। उन्होंने 101वीं गाली देते ही उसका वध कर दिया। "
+ },
+ {
+ "id": 49,
+ "que_en": "Which Pandava had the ability to see into the future but was sworn to silence?",
+ "que_hi": "किस पांडव के पास भविष्य देखने की शक्ति थी लेकिन उन्हें मौन रहने की शपथ दी गई थी?",
+ "options": [
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false},
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": true},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false}
+ ],
+ "fact_eng": "Sahadeva knew about the war and its outcome beforehand. Krishna warned him that if he spoke about it, his head would burst into pieces. ",
+ "fact_hindi": "सहदेव को युद्ध और उसके परिणाम के बारे में पहले से पता था। कृष्ण ने उन्हें चेतावनी दी थी कि यदि वे इसके बारे में बोलेंगे, तो उनका सिर फट जाएगा। "
+ },
+ {
+ "id": 50,
+ "que_en": "Who was the incarnation of Amba, who took revenge on Bhishma?",
+ "que_hi": "अम्बा का अवतार कौन था, जिसने भीष्म से बदला लिया था?",
+ "options": [
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": false},
+ {"text_eng": "Shikhandi", "text_hindi": "शिखंडी", "ans": true},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": false},
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false}
+ ],
+ "fact_eng": "Shikhandi was born as a female but later became a male. Bhishma refused to fight him because he knew Shikhandi's past as Amba. ",
+ "fact_hindi": "शिखंडी का जन्म एक महिला के रूप में हुआ था लेकिन बाद में वह पुरुष बन गया। भीष्म ने उससे लड़ने से मना कर दिया क्योंकि वे अम्बा के रूप में उसके अतीत को जानते थे। "
+ },
+ {
+ "id": 51,
+ "que_en": "What was the name of the divine cow that could fulfill all wishes, owned by Sage Vashistha?",
+ "que_hi": "ऋषि वशिष्ठ के पास मौजूद उस दिव्य गाय का नाम क्या था जो सभी इच्छाएं पूरी कर सकती थी?",
+ "options": [
+ {"text_eng": "Surabhi", "text_hindi": "सुरभि", "ans": false},
+ {"text_eng": "Nandini", "text_hindi": "नन्दिनी", "ans": true},
+ {"text_eng": "Kamadhenu", "text_hindi": "कामधेनु", "ans": false},
+ {"text_eng": "Kapila", "text_hindi": "कपिला", "ans": false}
+ ],
+ "fact_eng": "Nandini was the daughter of Kamadhenu. King Vishwamitra (then a king) tried to steal her, which led to his conflict with Vashistha. ",
+ "fact_hindi": "नन्दिनी कामधेनु की पुत्री थी। राजा विश्वामित्र ने उसे चुराने की कोशिश की थी, जिससे उनका वशिष्ठ के साथ संघर्ष हुआ। "
+ },
+ {
+ "id": 52,
+ "que_en": "How many verses (shlokas) does the longest version of the Mahabharata contain?",
+ "que_hi": "महाभारत के सबसे लंबे संस्करण में कुल कितने श्लोक हैं?",
+ "options": [
+ {"text_eng": "50,000", "text_hindi": "50,000", "ans": false},
+ {"text_eng": "1,00,000", "text_hindi": "1,00,000", "ans": true},
+ {"text_eng": "2,00,000", "text_hindi": "2,00,000", "ans": false},
+ {"text_eng": "75,000", "text_hindi": "75,000", "ans": false}
+ ],
+ "fact_eng": "The Mahabharata is the world's longest epic, roughly ten times the length of the Iliad and Odyssey combined. ",
+ "fact_hindi": "महाभारत दुनिया का सबसे लंबा महाकाव्य है, जो इलियड और ओडिसी की संयुक्त लंबाई का लगभग दस गुना है। "
+ },
+ {
+ "id": 53,
+ "que_en": "Who was the grandfather of the Pandavas and Kauravas?",
+ "que_hi": "पांडवों और कौरवों के दादा कौन थे?",
+ "options": [
+ {"text_eng": "Bhisma", "text_hindi": "भीष्म", "ans": false},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false},
+ {"text_eng": "Vichitravirya", "text_hindi": "विचित्रवीर्य", "ans": true},
+ {"text_eng": "Bharat", "text_hindi": "भरत", "ans": false}
+ ],
+ "fact_eng": "Though Bhishma lived long enough to be a grandfather figure, biologically Pandu and Dhritarashtra were the sons of Vichitravirya's wives. ",
+ "fact_hindi": "यद्यपि भीष्म दादा के समान थे, लेकिन जैविक रूप से पांडु और धृतराष्ट्र विचित्रवीर्य की पत्नियों के पुत्र थे। "
+ },
+ {
+ "id": 54,
+ "que_en": "Which forest did Arjuna and Krishna burn to build the city of Indraprastha?",
+ "que_hi": "इन्द्रप्रस्थ नगर बसाने के लिए अर्जुन और कृष्ण ने किस वन को जलाया था?",
+ "options": [
+ {"text_eng": "Dandaka Forest", "text_hindi": "दंडक वन", "ans": false},
+ {"text_eng": "Khandava Forest", "text_hindi": "खांडव वन", "ans": true},
+ {"text_eng": "Naimisha Forest", "text_hindi": "नैमिष वन", "ans": false},
+ {"text_eng": "Ashoka Vatika", "text_hindi": "अशोक वाटिका", "ans": false}
+ ],
+ "fact_eng": "Arjuna used a canopy of arrows to stop the rain sent by Indra, who was trying to protect the forest and the serpent Takshaka. ",
+ "fact_hindi": "अर्जुन ने बाणों की एक छत बनाकर इंद्र द्वारा भेजी गई बारिश को रोक दिया था, जो वन और तक्षक नाग की रक्षा करने की कोशिश कर रहे थे। "
+ },
+ {
+ "id": 55,
+ "que_en": "Who was the son of Arjuna born to the Naga princess Ulupi?",
+ "que_hi": "नाग राजकुमारी उलूपी से उत्पन्न अर्जुन के पुत्र का नाम क्या था?",
+ "options": [
+ {"text_eng": "Abhimanyu", "text_hindi": "अभिमन्यु", "ans": false},
+ {"text_eng": "Iravan", "text_hindi": "इरावन", "ans": true},
+ {"text_eng": "Babruvahana", "text_hindi": "बब्रुवाहन", "ans": false},
+ {"text_eng": "Srutakarma", "text_hindi": "श्रुतकर्म", "ans": false}
+ ],
+ "fact_eng": "Iravan sacrificed himself to Goddess Kali for the victory of the Pandavas. He is highly revered in South Indian traditions. ",
+ "fact_hindi": "इरावन ने पांडवों की जीत के लिए देवी काली को अपने प्राणों की आहुति दे दी थी। दक्षिण भारतीय परंपराओं में उनका बहुत सम्मान है। "
+ },
+ {
+ "id": 56,
+ "que_en": "What was the name of the golden chariot of Lord Krishna?",
+ "que_hi": "भगवान कृष्ण के स्वर्ण रथ का नाम क्या था?",
+ "options": [
+ {"text_eng": "Nandighosha", "text_hindi": "नंदीघोष", "ans": false},
+ {"text_eng": "Jaitra", "text_hindi": "जैत्र", "ans": true},
+ {"text_eng": "Pushpaka", "text_hindi": "पुष्पक", "ans": false},
+ {"text_eng": "Garudadvaja", "text_hindi": "गरुड़ध्वज", "ans": false}
+ ],
+ "fact_eng": "Krishna's chariot was driven by Daruka and featured the emblem of Garuda on its flag. ",
+ "fact_hindi": "कृष्ण के रथ को दारुक चलाते थे और इसके ध्वज पर गरुड़ का प्रतीक बना हुआ था। "
+ },
+ {
+ "id": 57,
+ "que_en": "Who was the only warrior to defeat Arjuna in a battle after the Kurukshetra war?",
+ "que_hi": "कुरुक्षेत्र युद्ध के बाद अर्जुन को युद्ध में हराने वाला एकमात्र योद्धा कौन था?",
+ "options": [
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false},
+ {"text_eng": "Babruvahana", "text_hindi": "बब्रुवाहन", "ans": true},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false},
+ {"text_eng": "Shishupala", "text_hindi": "शिशुपाल", "ans": false}
+ ],
+ "fact_eng": "Babruvahana was Arjuna's own son from the princess Chitrangada. He defeated Arjuna while protecting the Ashwamedha horse. ",
+ "fact_hindi": "बब्रुवाहन राजकुमारी चित्रांगदा से उत्पन्न अर्जुन के अपने ही पुत्र थे। उन्होंने अश्वमेध के घोड़े की रक्षा करते हुए अर्जुन को हराया था। "
+ },
+ {
+ "id": 58,
+ "que_en": "Who killed the demon King Kamsa, Krishna's uncle?",
+ "que_hi": "कृष्ण के मामा, राक्षस राजा कंस का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Balarama", "text_hindi": "बलराम", "ans": false},
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": true},
+ {"text_eng": "Vasudeva", "text_hindi": "वसुदेव", "ans": false},
+ {"text_eng": "Akruara", "text_hindi": "अक्रूर", "ans": false}
+ ],
+ "fact_eng": "Kamsa had imprisoned his own sister Devaki and killed seven of her children to prevent the prophecy of his death. ",
+ "fact_hindi": "कंस ने अपनी ही बहन देवकी को कैद कर लिया था और अपनी मृत्यु की भविष्यवाणी को रोकने के लिए उसकी सात संतानों का वध कर दिया था। "
+ },
+ {
+ "id": 59,
+ "que_en": "What was the name of the garden where the Pandavas lived during their exile?",
+ "que_hi": "वनवास के दौरान पांडव किस उद्यान/वन में रहते थे?",
+ "options": [
+ {"text_eng": "Dwaita Vana", "text_hindi": "द्वैत वन", "ans": true},
+ {"text_eng": "Madhuvana", "text_hindi": "मधुवन", "ans": false},
+ {"text_eng": "Kadambavana", "text_hindi": "कदंबवन", "ans": false},
+ {"text_eng": "Nandanavana", "text_hindi": "नंदनवन", "ans": false}
+ ],
+ "fact_eng": "Dwaita Vana was a beautiful forest with a lake where the famous 'Yaksha Prashna' dialogue took place between a Yaksha and Yudhisthira. ",
+ "fact_hindi": "द्वैत वन एक सुंदर वन था जहाँ एक यक्ष और युधिष्ठिर के बीच प्रसिद्ध 'यक्ष प्रश्न' संवाद हुआ था। "
+ },
+ {
+ "id": 60,
+ "que_en": "Who was the biological mother of the 100 Kauravas?",
+ "que_hi": "100 कौरवों की जैविक माता कौन थी?",
+ "options": [
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": true},
+ {"text_eng": "Satyavati", "text_hindi": "सत्यवती", "ans": false},
+ {"text_eng": "Madri", "text_hindi": "माद्री", "ans": false}
+ ],
+ "fact_eng": "After a two-year pregnancy, Gandhari gave birth to a mass of flesh, which Sage Vyasa divided into 101 pieces (100 sons and 1 daughter). ",
+ "fact_hindi": "दो साल के गर्भ के बाद, गांधारी ने मांस के एक लोथड़े को जन्म दिया, जिसे ऋषि व्यास ने 101 टुकड़ों (100 पुत्र और 1 पुत्री) में विभाजित किया था। "
+ },
+ {
+ "id": 61,
+ "que_en": "What was the name of the island where Sage Vyasa was born?",
+ "que_hi": "ऋषि व्यास का जन्म किस द्वीप पर हुआ था?",
+ "options": [
+ {"text_eng": "Dwarka", "text_hindi": "द्वारका", "ans": false},
+ {"text_eng": "Jamrudweepa", "text_hindi": "जम्बूद्वीप", "ans": false},
+ {"text_eng": "Yamunadweepa", "text_hindi": "यमुनाद्वीप", "ans": true},
+ {"text_eng": "Lanka", "text_hindi": "लंका", "ans": false}
+ ],
+ "fact_eng": "Because he was born on an island (Dweepa) and was dark-skinned (Krishna), he is also known as 'Krishna Dvaipayana'. ",
+ "fact_hindi": "चूँकि उनका जन्म एक द्वीप पर हुआ था और उनका रंग सांवला (कृष्ण) था, इसलिए उन्हें 'कृष्ण द्वैपायन' के नाम से भी जाना जाता है। "
+ },
+ {
+ "id": 62,
+ "que_en": "Who was the only person to hear the Bhagavad Gita other than Arjuna on the battlefield?",
+ "que_hi": "युद्ध के मैदान में अर्जुन के अलावा भगवद गीता सुनने वाला एकमात्र व्यक्ति कौन था?",
+ "options": [
+ {"text_eng": "Sanjaya", "text_hindi": "संजय", "ans": false},
+ {"text_eng": "Hanuman", "text_hindi": "हनुमान", "ans": true},
+ {"text_eng": "Bhishma", "text_hindi": "भीष्म", "ans": false},
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": false}
+ ],
+ "fact_eng": "Hanuman was present on the flag of Arjuna's chariot. Sanjaya also heard it through divine vision, but Hanuman was physically present. ",
+ "fact_hindi": "हनुमान अर्जुन के रथ के ध्वज पर विराजमान थे। संजय ने भी इसे दिव्य दृष्टि से सुना था, लेकिन हनुमान शारीरिक रूप से वहां उपस्थित थे। "
+ },
+ {
+ "id": 63,
+ "que_en": "Which animal's form did the God of Dharma take to test Yudhisthira's loyalty during their final journey?",
+ "que_hi": "पांडवों की अंतिम यात्रा के दौरान धर्मराज ने युधिष्ठिर की परीक्षा लेने के लिए किस जानवर का रूप धारण किया था?",
+ "options": [
+ {"text_eng": "Deer", "text_hindi": "हिरण", "ans": false},
+ {"text_eng": "Dog", "text_hindi": "कुत्ता", "ans": true},
+ {"text_eng": "Cow", "text_hindi": "गाय", "ans": false},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false}
+ ],
+ "fact_eng": "Yudhisthira refused to enter heaven without the dog, proving his compassion for all living beings. The dog then revealed himself as Dharma. ",
+ "fact_hindi": "युधिष्ठिर ने कुत्ते के बिना स्वर्ग जाने से इनकार कर दिया था, जिससे सभी जीवों के प्रति उनकी दया सिद्ध हुई। तब कुत्ते ने खुद को धर्मराज के रूप में प्रकट किया। "
+ },
+ {
+ "id": 64,
+ "que_en": "Who was the father of the 100 Kauravas?",
+ "que_hi": "100 कौरवों के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": false},
+ {"text_eng": "Dhritarashtra", "text_hindi": "धृतराष्ट्र", "ans": true},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false},
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": false}
+ ],
+ "fact_eng": "Dhritarashtra was the eldest son of Vichitravirya but was passed over for the throne initially because of his blindness. ",
+ "fact_hindi": "धृतराष्ट्र विचित्रवीर्य के सबसे बड़े पुत्र थे, लेकिन उनके अंधेपन के कारण शुरुआत में उन्हें सिंहासन नहीं दिया गया था। "
+ },
+ {
+ "id": 65,
+ "que_en": "Who killed the demon King Narakasura with Krishna's help?",
+ "que_hi": "कृष्ण की सहायता से राक्षस राजा नरकासुर का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Satyabhama", "text_hindi": "सत्यभामा", "ans": true},
+ {"text_eng": "Balarama", "text_hindi": "बलराम", "ans": false},
+ {"text_eng": "Rukmini", "text_hindi": "रुक्मिणी", "ans": false}
+ ],
+ "fact_eng": "Satyabhama was an incarnation of Bhumi Devi. Narakasura had a boon that he could only be killed by his mother, and Satyabhama fulfilled that. ",
+ "fact_hindi": "सत्यभामा भूमि देवी का अवतार थीं। नरकासुर को वरदान था कि उसे केवल उसकी माता ही मार सकती है, और सत्यभामा ने उसे पूरा किया। "
+ },
+ {
+ "id": 66,
+ "que_en": "What was the name of the sword of Lord Krishna?",
+ "que_hi": "भगवान कृष्ण की तलवार का नाम क्या था?",
+ "options": [
+ {"text_eng": "Nandaka", "text_hindi": "नंदक", "ans": true},
+ {"text_eng": "Kharga", "text_hindi": "खड्ग", "ans": false},
+ {"text_eng": "Asi", "text_hindi": "असि", "ans": false},
+ {"text_eng": "Chandrahas", "text_hindi": "चंद्रहास", "ans": false}
+ ],
+ "fact_eng": "Nandaka is the sword of Vishnu, representing pure knowledge and the power to cut through ignorance. ",
+ "fact_hindi": "नंदक विष्णु की तलवार है, जो शुद्ध ज्ञान और अज्ञान को काटने की शक्ति का प्रतिनिधित्व करती है। "
+ },
+ {
+ "id": 67,
+ "que_en": "Who was the teacher of Parashurama?",
+ "que_hi": "परशुराम के गुरु कौन थे?",
+ "options": [
+ {"text_eng": "Vishnu", "text_hindi": "विष्णु", "ans": false},
+ {"text_eng": "Shiva", "text_hindi": "शिव", "ans": true},
+ {"text_eng": "Brahma", "text_hindi": "ब्रह्मा", "ans": false},
+ {"text_eng": "Vashistha", "text_hindi": "वशिष्ठ", "ans": false}
+ ],
+ "fact_eng": "Parashurama performed severe penance to please Lord Shiva, who then taught him the art of warfare and gave him his famous axe (Parashu). ",
+ "fact_hindi": "परशुराम ने भगवान शिव को प्रसन्न करने के लिए कठोर तपस्या की थी, जिन्होंने तब उन्हें युद्ध कला सिखाई और अपना प्रसिद्ध कुल्हाड़ी (परशु) दिया। "
+ },
+ {
+ "id": 68,
+ "que_en": "Which city was the capital of the Pandavas?",
+ "que_hi": "पांडवों की राजधानी कौन सा नगर था?",
+ "options": [
+ {"text_eng": "Hastinapur", "text_hindi": "हस्तिनापुर", "ans": false},
+ {"text_eng": "Indraprastha", "text_hindi": "इन्द्रप्रस्थ", "ans": true},
+ {"text_eng": "Mathura", "text_hindi": "मथुरा", "ans": false},
+ {"text_eng": "Varanasi", "text_hindi": "वाराणसी", "ans": false}
+ ],
+ "fact_eng": "Indraprastha was built on the barren land of Khandavaprastha and became one of the most magnificent cities of its time. ",
+ "fact_hindi": "इन्द्रप्रस्थ का निर्माण खांडवप्रस्थ की बंजर भूमि पर किया गया था और यह अपने समय के सबसे भव्य नगरों में से एक बन गया था। "
+ },
+ {
+ "id": 69,
+ "que_en": "Who was the mother of Vidura?",
+ "que_hi": "विदुर की माता कौन थी?",
+ "options": [
+ {"text_eng": "Ambika", "text_hindi": "अम्बिका", "ans": false},
+ {"text_eng": "Ambalika", "text_hindi": "अम्बालिका", "ans": false},
+ {"text_eng": "Parishrami (A Maid)", "text_hindi": "परिश्रमी (एक दासी)", "ans": true},
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false}
+ ],
+ "fact_eng": "Vidura was an incarnation of the God of Dharma, born to a maid through Sage Vyasa due to a curse from Sage Mandavya. ",
+ "fact_hindi": "विदुर धर्मराज के अवतार थे, जिनका जन्म ऋषि माण्डव्य के श्राप के कारण ऋषि व्यास के माध्यम से एक दासी से हुआ था। "
+ },
+ {
+ "id": 70,
+ "que_en": "What was the name of the bow of Lord Vishnu, used in the epic wars?",
+ "que_hi": "महाकाव्य युद्धों में उपयोग किए जाने वाले भगवान विष्णु के धनुष का नाम क्या था?",
+ "options": [
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Sharanga", "text_hindi": "शारंग", "ans": true},
+ {"text_eng": "Gandiva", "text_hindi": "गांडीव", "ans": false},
+ {"text_eng": "Kodanda", "text_hindi": "कोदंड", "ans": false}
+ ],
+ "fact_eng": "Sharanga is the celestial bow of Lord Vishnu. Lord Rama and Lord Krishna (as avatars of Vishnu) are often depicted using it. ",
+ "fact_hindi": "शारंग भगवान विष्णु का दिव्य धनुष है। भगवान राम और भगवान कृष्ण (विष्णु के अवतार के रूप में) को अक्सर इसका उपयोग करते हुए चित्रित किया जाता है। "
+ },
+ {
+ "id": 71,
+ "que_en": "Who was the father of the demon king Ravana (whose ancestry is discussed in the Mahabharata)?",
+ "que_hi": "राक्षस राजा रावण के पिता कौन थे (जिनकी वंशावली की चर्चा महाभारत में की गई है)?",
+ "options": [
+ {"text_eng": "Sumali", "text_hindi": "सुमाली", "ans": false},
+ {"text_eng": "Vishrava", "text_hindi": "विश्रवा", "ans": true},
+ {"text_eng": "Pulastya", "text_hindi": "पुलस्त्य", "ans": false},
+ {"text_eng": "Kuber", "text_hindi": "कुबेर", "ans": false}
+ ],
+ "fact_eng": "Ravana was the son of Sage Vishrava and the grandson of Sage Pulastya, one of the Saptarishis (Seven Sages). ",
+ "fact_hindi": "रावण ऋषि विश्रवा के पुत्र और सप्तऋषियों में से एक, ऋषि पुलस्त्य के पोते थे। "
+ },
+ {
+ "id": 72,
+ "que_en": "What was the name of the divine garland given to Amba by Lord Kartikeya?",
+ "que_hi": "भगवान कार्तिकेय द्वारा अम्बा को दी गई दिव्य माला का नाम क्या था?",
+ "options": [
+ {"text_eng": "Vaijayanti", "text_hindi": "वैजयंती", "ans": false},
+ {"text_eng": "Akshayamala", "text_hindi": "अक्षयमाला", "ans": true},
+ {"text_eng": "Parijata", "text_hindi": "पारिजात", "ans": false},
+ {"text_eng": "Mandara", "text_hindi": "मंदार", "ans": false}
+ ],
+ "fact_eng": "Whoever wore this garland was destined to kill Bhishma. It was eventually worn by Shikhandi in his previous birth. ",
+ "fact_hindi": "जो भी इस माला को पहनता, उसका भीष्म का वध करना निश्चित था। अंततः इसे शिखंडी ने अपने पिछले जन्म में पहना था। "
+ },
+ {
+ "id": 73,
+ "que_en": "Which animal's head was used to replace Daksha Prajapati's head?",
+ "que_hi": "दक्ष प्रजापति के सिर के स्थान पर किस जानवर का सिर लगाया गया था?",
+ "options": [
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": false},
+ {"text_eng": "Goat", "text_hindi": "बकरा", "ans": true},
+ {"text_eng": "Horse", "text_hindi": "घोड़ा", "ans": false},
+ {"text_eng": "Bull", "text_hindi": "सांड", "ans": false}
+ ],
+ "fact_eng": "After Virabhadra beheaded Daksha, Lord Shiva forgave him and restored his life with the head of a sacrificial goat. ",
+ "fact_hindi": "वीरभद्र द्वारा दक्ष का सिर काटने के बाद, भगवान शिव ने उन्हें क्षमा कर दिया और एक बलि दिए गए बकरे के सिर के साथ उनका जीवन बहाल किया। "
+ },
+ {
+ "id": 74,
+ "que_en": "Who was the real identity of the Yaksha who questioned Yudhisthira at the lake?",
+ "que_hi": "सरोवर पर युधिष्ठिर से प्रश्न करने वाले यक्ष की वास्तविक पहचान क्या थी?",
+ "options": [
+ {"text_eng": "Lord Indra", "text_hindi": "भगवान इन्द्र", "ans": false},
+ {"text_eng": "Yama (Dharma)", "text_hindi": "यमराज (धर्म)", "ans": true},
+ {"text_eng": "Lord Shiva", "text_hindi": "भगवान शिव", "ans": false},
+ {"text_eng": "Sage Vyasa", "text_hindi": "ऋषि व्यास", "ans": false}
+ ],
+ "fact_eng": "Yama, the God of Justice and Yudhisthira's celestial father, tested his wisdom and adherence to Dharma. ",
+ "fact_hindi": "न्याय के देवता और युधिष्ठिर के दिव्य पिता यमराज ने उनकी बुद्धिमत्ता और धर्म के प्रति निष्ठा की परीक्षा ली थी। "
+ },
+ {
+ "id": 75,
+ "que_en": "Which Parva describes the Pandavas' final journey to the Himalayas?",
+ "que_hi": "किस पर्व में पांडवों की हिमालय की अंतिम यात्रा का वर्णन है?",
+ "options": [
+ {"text_eng": "Shanti Parva", "text_hindi": "शांति पर्व", "ans": false},
+ {"text_eng": "Mahaprasthanika Parva", "text_hindi": "महाप्रस्थानिक पर्व", "ans": true},
+ {"text_eng": "Anushasana Parva", "text_hindi": "अनुशासन पर्व", "ans": false},
+ {"text_eng": "Mausala Parva", "text_hindi": "मौसल पर्व", "ans": false}
+ ],
+ "fact_eng": "This is one of the shortest books of the Mahabharata, detailing the Pandavas renouncing their kingdom to seek heaven. ",
+ "fact_hindi": "यह महाभारत की सबसे छोटी पुस्तकों में से एक है, जिसमें पांडवों द्वारा स्वर्ग की खोज में अपने राज्य का त्याग करने का विवरण है। "
+ },
+ {
+ "id": 76,
+ "que_en": "Who was the charioteer of Indra, who assisted Arjuna during the war against the Nivatakavachas?",
+ "que_hi": "इन्द्र के सारथी कौन थे, जिन्होंने निवातकवचों के विरुद्ध युद्ध के दौरान अर्जुन की सहायता की थी?",
+ "options": [
+ {"text_eng": "Daruka", "text_hindi": "दारुक", "ans": false},
+ {"text_eng": "Matali", "text_hindi": "मातलि", "ans": true},
+ {"text_eng": "Sumantra", "text_hindi": "सुमंत्र", "ans": false},
+ {"text_eng": "Aruna", "text_hindi": "अरुण", "ans": false}
+ ],
+ "fact_eng": "Indra sent Matali with his divine chariot to help Arjuna defeat the demons who lived under the ocean. ",
+ "fact_hindi": "इन्द्र ने समुद्र के नीचे रहने वाले राक्षसों को हराने में अर्जुन की मदद करने के लिए मातलि को अपने दिव्य रथ के साथ भेजा था। "
+ },
+ {
+ "id": 77,
+ "que_en": "What was the name of the sister of Lord Krishna who was married to Duryodhana's brother, Dussala?",
+ "que_hi": "भगवान कृष्ण की उस बहन का नाम क्या था जिसका विवाह दुर्योधन के भाई दुःशला से हुआ था?",
+ "options": [
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false},
+ {"text_eng": "Dushala", "text_hindi": "दुःशला", "ans": true},
+ {"text_eng": "Ekanamsha", "text_hindi": "एकानंशा", "ans": false},
+ {"text_eng": "Chitrangada", "text_hindi": "चित्रांगदा", "ans": false}
+ ],
+ "fact_eng": "Dushala was the only sister of the 100 Kauravas, born to Gandhari and Dhritarashtra. ",
+ "fact_hindi": "दुःशला 100 कौरवों की एकमात्र बहन थी, जिसका जन्म गांधारी और धृतराष्ट्र से हुआ था। "
+ },
+ {
+ "id": 78,
+ "que_en": "Who was the father of the warrior Satyaki?",
+ "que_hi": "योद्धा सात्यकि के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Shini", "text_hindi": "शिनी", "ans": true},
+ {"text_eng": "Hridika", "text_hindi": "हृदिक", "ans": false},
+ {"text_eng": "Vasudeva", "text_hindi": "वसुदेव", "ans": false},
+ {"text_eng": "Ugrasena", "text_hindi": "उग्रसेन", "ans": false}
+ ],
+ "fact_eng": "Satyaki, also known as Yuyudhana, was a powerful Yadava warrior and a close friend/disciple of Arjuna. ",
+ "fact_hindi": "सात्यकि, जिन्हें युयुधान के नाम से भी जाना जाता है, एक शक्तिशाली यादव योद्धा और अर्जुन के करीबी मित्र/शिष्य थे। "
+ },
+ {
+ "id": 79,
+ "que_en": "Which sage told the story of Nala and Damayanti to Yudhisthira to console him during exile?",
+ "que_hi": "किस ऋषि ने वनवास के दौरान युधिष्ठिर को सांत्वना देने के लिए नल और दमयंती की कहानी सुनाई थी?",
+ "options": [
+ {"text_eng": "Brihadashva", "text_hindi": "बृहदश्व", "ans": true},
+ {"text_eng": "Markandeya", "text_hindi": "मार्कण्डेय", "ans": false},
+ {"text_eng": "Lomasa", "text_hindi": "लोमश", "ans": false},
+ {"text_eng": "Narada", "text_hindi": "नारद", "ans": false}
+ ],
+ "fact_eng": "This story taught Yudhisthira that even great kings lose everything in gambling but eventually regain it through virtue. ",
+ "fact_hindi": "इस कहानी ने युधिष्ठिर को सिखाया कि महान राजा भी जुए में सब कुछ खो देते हैं लेकिन अंततः पुण्य के माध्यम से इसे पुनः प्राप्त कर लेते हैं। "
+ },
+ {
+ "id": 80,
+ "que_en": "Who was the mother of Sage Vyasa?",
+ "que_hi": "ऋषि व्यास की माता कौन थी?",
+ "options": [
+ {"text_eng": "Satyavati", "text_hindi": "सत्यवती", "ans": true},
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false},
+ {"text_eng": "Ganga", "text_hindi": "गंगा", "ans": false},
+ {"text_eng": "Ambalika", "text_hindi": "अम्बालिका", "ans": false}
+ ],
+ "fact_eng": "Satyavati, also known as Matsyagandha, was a fisherwoman who later married King Shantanu. ",
+ "fact_hindi": "सत्यवती, जिन्हें मत्स्यगंधा के नाम से भी जाना जाता है, एक मछुआरे की पुत्री थीं जिन्होंने बाद में राजा शांतनु से विवाह किया था। "
+ },
+ {
+ "id": 81,
+ "que_en": "How many 'Gunas' (qualities of nature) are described in the Bhagavad Gita?",
+ "que_hi": "भगवद गीता में प्रकृति के कितने 'गुणों' का वर्णन किया गया है?",
+ "options": [
+ {"text_eng": "2", "text_hindi": "2", "ans": false},
+ {"text_eng": "3", "text_hindi": "3", "ans": true},
+ {"text_eng": "5", "text_hindi": "5", "ans": false},
+ {"text_eng": "7", "text_hindi": "7", "ans": false}
+ ],
+ "fact_eng": "The three gunas are Sattva (goodness), Rajas (passion), and Tamas (ignorance/darkness). ",
+ "fact_hindi": "तीन गुण सत्व (शुद्धता), रजस (जुनून) और तमस (अज्ञान/अंधकार) हैं। "
+ },
+ {
+ "id": 82,
+ "que_en": "Who was the father of King Drupada?",
+ "que_hi": "राजा द्रुपद के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Prishata", "text_hindi": "पृषत", "ans": true},
+ {"text_eng": "Somadatta", "text_hindi": "सोमदत्त", "ans": false},
+ {"text_eng": "Bahlika", "text_hindi": "बाहीक", "ans": false},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false}
+ ],
+ "fact_eng": "King Prishata was a close friend of Sage Bharadwaja, the father of Dronacharya. ",
+ "fact_hindi": "राजा पृषत द्रोणाचार्य के पिता ऋषि भरद्वाज के करीबी मित्र थे। "
+ },
+ {
+ "id": 83,
+ "que_en": "What was the name of the forest fire that Krishna and Arjuna helped Agni consume?",
+ "que_hi": "उस जंगल की आग का नाम क्या था जिसे कृष्ण और अर्जुन ने अग्नि देव को भस्म करने में मदद की थी?",
+ "options": [
+ {"text_eng": "Dandakavana", "text_hindi": "दंडकवन", "ans": false},
+ {"text_eng": "Khandavadahana", "text_hindi": "खांडवदहन", "ans": true},
+ {"text_eng": "Madhuvana", "text_hindi": "मधुवन", "ans": false},
+ {"text_eng": "Naimisharanya", "text_hindi": "नैमिषारण्य", "ans": false}
+ ],
+ "fact_eng": "In exchange for their help, Agni gave Arjuna the Gandiva bow and Krishna the Sudarshana Chakra. ",
+ "fact_hindi": "उनकी मदद के बदले में, अग्नि देव ने अर्जुन को गांडीव धनुष और कृष्ण को सुदर्शन चक्र प्रदान किया था। "
+ },
+ {
+ "id": 84,
+ "que_en": "Who was the eldest son of Dhritarashtra and Gandhari?",
+ "que_hi": "धृतराष्ट्र और गांधारी के सबसे बड़े पुत्र कौन थे?",
+ "options": [
+ {"text_eng": "Dussasana", "text_hindi": "दुशासन", "ans": false},
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": true},
+ {"text_eng": "Vikarna", "text_hindi": "विकर्ण", "ans": false},
+ {"text_eng": "Yuyutsu", "text_hindi": "युयुत्सु", "ans": false}
+ ],
+ "fact_eng": "Duryodhana's original name was Suyodhana, but he became known as Duryodhana (difficult to fight against). ",
+ "fact_hindi": "दुर्योधन का मूल नाम सुयोधन था, लेकिन वे दुर्योधन (जिससे लड़ना कठिन हो) के नाम से प्रसिद्ध हुए। "
+ },
+ {
+ "id": 85,
+ "que_en": "Which Pandava was expert in the management of horses and cattle?",
+ "que_hi": "कौन सा पांडव घोड़ों और मवेशियों के प्रबंधन में विशेषज्ञ था?",
+ "options": [
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": false},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": true},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false}
+ ],
+ "fact_eng": "During their exile in disguise (Agyatvas), Nakula served as Granthika, the master of King Virata's stables. ",
+ "fact_hindi": "अज्ञातवास के दौरान, नकुल ने ग्रंथिक के रूप में राजा विराट के अस्तबलों के प्रबंधक की सेवा की थी। "
+ },
+ {
+ "id": 86,
+ "que_en": "Who killed the Kuru elder Bhishma by using Shikhandi as a shield?",
+ "que_hi": "शिखंडी को ढाल बनाकर कुरु वृद्ध भीष्म का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": true},
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": false},
+ {"text_eng": "Dhrishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": false}
+ ],
+ "fact_eng": "Bhishma lowered his weapons upon seeing Shikhandi, allowing Arjuna to pierce him with arrows. ",
+ "fact_hindi": "शिखंडी को देखकर भीष्म ने अपने शस्त्र नीचे रख दिए थे, जिससे अर्जुन को उन्हें बाणों से बेधने का अवसर मिल गया। "
+ },
+ {
+ "id": 87,
+ "que_en": "Who was the father of the 100 Kauravas' sister, Dushala?",
+ "que_hi": "100 कौरवों की बहन दुःशला के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": false},
+ {"text_eng": "Dhritarashtra", "text_hindi": "धृतराष्ट्र", "ans": true},
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": false},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false}
+ ],
+ "fact_eng": "Dushala was the only daughter of Gandhari and Dhritarashtra and was married to Jayadratha. ",
+ "fact_hindi": "दुःशला गांधारी और धृतराष्ट्र की एकमात्र पुत्री थी और उनका विवाह जयद्रथ से हुआ था। "
+ },
+ {
+ "id": 88,
+ "que_en": "What was the name of the sword of Lord Shiva?",
+ "que_hi": "भगवान शिव की तलवार का नाम क्या था?",
+ "options": [
+ {"text_eng": "Chandrahas", "text_hindi": "चंद्रहास", "ans": true},
+ {"text_eng": "Nandaka", "text_hindi": "नंदक", "ans": false},
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": false}
+ ],
+ "fact_eng": "Lord Shiva gave the Chandrahas sword to Ravana after he performed intense penance. ",
+ "fact_hindi": "रावण द्वारा कठोर तपस्या करने के बाद भगवान शिव ने उसे चंद्रहास तलवार प्रदान की थी। "
+ },
+ {
+ "id": 89,
+ "que_en": "Who was the only Pandava brother who did not die during the climb to the Himalayas?",
+ "que_hi": "हिमालय की चढ़ाई के दौरान पांडवों में से कौन सा भाई जीवित रहा?",
+ "options": [
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": true},
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": false}
+ ],
+ "fact_eng": "Yudhisthira was the only one to reach heaven in his physical body due to his unwavering virtue. ",
+ "fact_hindi": "अपनी अटूट धार्मिकता के कारण युधिष्ठिर ही अपने भौतिक शरीर के साथ स्वर्ग पहुँचने वाले एकमात्र व्यक्ति थे। "
+ },
+ {
+ "id": 90,
+ "que_en": "Who narrated the entire Mahabharata to King Janamejaya?",
+ "que_hi": "राजा जनमेजय को पूरी महाभारत किसने सुनाई थी?",
+ "options": [
+ {"text_eng": "Sage Vyasa", "text_hindi": "ऋषि व्यास", "ans": false},
+ {"text_eng": "Vaishampayana", "text_hindi": "वैशम्पायन", "ans": true},
+ {"text_eng": "Suta Goswami", "text_hindi": "सूत गोस्वामी", "ans": false},
+ {"text_eng": "Narada", "text_hindi": "नारद", "ans": false}
+ ],
+ "fact_eng": "Vaishampayana was a disciple of Sage Vyasa and narrated the epic during Janamejaya's snake sacrifice. ",
+ "fact_hindi": "वैशम्पायन ऋषि व्यास के शिष्य थे और उन्होंने जनमेजय के सर्प यज्ञ के दौरान इस महाकाव्य का वर्णन किया था। "
+ },
+ {
+ "id": 91,
+ "que_en": "How many 'Parvas' (books) are there in the Mahabharata?",
+ "que_hi": "महाभारत में कुल कितने 'पर्व' (पुस्तकें) हैं?",
+ "options": [
+ {"text_eng": "12", "text_hindi": "12", "ans": false},
+ {"text_eng": "18", "text_hindi": "18", "ans": true},
+ {"text_eng": "24", "text_hindi": "24", "ans": false},
+ {"text_eng": "108", "text_hindi": "108", "ans": false}
+ ],
+ "fact_eng": "The number 18 is sacred in the Mahabharata, representing the chapters of the Gita and the duration of the war. ",
+ "fact_hindi": "महाभारत में 18 का अंक पवित्र है, जो गीता के अध्यायों और युद्ध की अवधि का प्रतिनिधित्व करता है। "
+ },
+ {
+ "id": 92,
+ "que_en": "Who was the biological father of Vidura?",
+ "que_hi": "विदुर के जैविक पिता कौन थे?",
+ "options": [
+ {"text_eng": "Vichitravirya", "text_hindi": "विचित्रवीर्य", "ans": false},
+ {"text_eng": "Sage Vyasa", "text_hindi": "ऋषि व्यास", "ans": true},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false},
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": false}
+ ],
+ "fact_eng": "Vidura was born to a palace maid after Vyasa performed Niyoga, as Ambika and Ambalika were too afraid of him. ",
+ "fact_hindi": "व्यास द्वारा नियोग करने के बाद विदुर का जन्म एक महल की दासी से हुआ था, क्योंकि अम्बिका और अम्बालिका उनसे बहुत डरी हुई थीं। "
+ },
+ {
+ "id": 93,
+ "que_en": "What was the name of the bow given to Arjuna by Agni?",
+ "que_hi": "अग्नि देव द्वारा अर्जुन को दिए गए धनुष का क्या नाम था?",
+ "options": [
+ {"text_eng": "Gandiva", "text_hindi": "गांडीव", "ans": true},
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": false},
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Sharanga", "text_hindi": "शारंग", "ans": false}
+ ],
+ "fact_eng": "The Gandiva was indestructible and made its user twice as powerful in battle. ",
+ "fact_hindi": "गांडीव अटूट था और इसने युद्ध में इसके उपयोगकर्ता को दोगुना शक्तिशाली बना दिया था। "
+ },
+ {
+ "id": 94,
+ "que_en": "Who was the charioteer of Krishna during the Kurukshetra war?",
+ "que_hi": "कुरुक्षेत्र युद्ध के दौरान कृष्ण के सारथी कौन थे?",
+ "options": [
+ {"text_eng": "Sanjaya", "text_hindi": "संजय", "ans": false},
+ {"text_eng": "Daruka", "text_hindi": "दारुक", "ans": true},
+ {"text_eng": "Sumantra", "text_hindi": "सुमंत्र", "ans": false},
+ {"text_eng": "Matali", "text_hindi": "मातलि", "ans": false}
+ ],
+ "fact_eng": "While Krishna drove for Arjuna, Daruka was his regular charioteer throughout his life in Dwarka. ",
+ "fact_hindi": "जहाँ कृष्ण ने अर्जुन के लिए रथ चलाया, वहीं दारुक द्वारका में उनके जीवन भर नियमित सारथी रहे। "
+ },
+ {
+ "id": 95,
+ "que_en": "Which animal's head was given to Ganesha after his original head was lost?",
+ "que_hi": "गणेश का मूल सिर खो जाने के बाद उन्हें किस जानवर का सिर दिया गया था?",
+ "options": [
+ {"text_eng": "Horse", "text_hindi": "घोड़ा", "ans": false},
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": true},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Tiger", "text_hindi": "बाघ", "ans": false}
+ ],
+ "fact_eng": "Lord Shiva replaced Ganesha's head with that of a powerful elephant to bring him back to life. ",
+ "fact_hindi": "भगवान शिव ने गणेश को पुनर्जीवित करने के लिए उनके सिर को एक शक्तिशाली हाथी के सिर से बदल दिया था। "
+ },
+ {
+ "id": 96,
+ "que_en": "Who was the mother of Karna?",
+ "que_hi": "कर्ण की माता कौन थी?",
+ "options": [
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": true},
+ {"text_eng": "Madri", "text_hindi": "माद्री", "ans": false},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": false},
+ {"text_eng": "Satyavati", "text_hindi": "सत्यवती", "ans": false}
+ ],
+ "fact_eng": "Karna was born before Kunti's marriage as she tested a mantra given by Sage Durvasa. ",
+ "fact_hindi": "कर्ण का जन्म कुंती के विवाह से पहले हुआ था क्योंकि उन्होंने ऋषि दुर्वासा द्वारा दिए गए एक मंत्र का परीक्षण किया था। "
+ },
+ {
+ "id": 97,
+ "que_en": "Who killed the demon Hidimba and later married his sister?",
+ "que_hi": "राक्षस हिडिम्ब का वध किसने किया और बाद में उसकी बहन से विवाह किया?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": true},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false},
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": false}
+ ],
+ "fact_eng": "Bhima married Hidimbi, and they had a son named Ghatotkacha who fought bravely in the war. ",
+ "fact_hindi": "भीम ने हिडिम्बा से विवाह किया, और उनका घटोत्कच नाम का एक पुत्र था जिसने युद्ध में बहादुरी से लड़ाई लड़ी। "
+ },
+ {
+ "id": 98,
+ "que_en": "Who was the king of the gods who gave Arjuna his divine chariot and weapons?",
+ "que_hi": "देवताओं के राजा कौन थे जिन्होंने अर्जुन को अपना दिव्य रथ और अस्त्र दिए थे?",
+ "options": [
+ {"text_eng": "Varuna", "text_hindi": "वरुण", "ans": false},
+ {"text_eng": "Indra", "text_hindi": "इन्द्र", "ans": true},
+ {"text_eng": "Agni", "text_hindi": "अग्नि", "ans": false},
+ {"text_eng": "Vayu", "text_hindi": "वायु", "ans": false}
+ ],
+ "fact_eng": "Indra was the biological father of Arjuna and helped him prepare for the great war. ",
+ "fact_hindi": "इन्द्र अर्जुन के जैविक पिता थे और उन्होंने महान युद्ध की तैयारी में उनकी मदद की थी। "
+ },
+ {
+ "id": 99,
+ "que_en": "Which city did Krishna build in the middle of the sea to protect his people?",
+ "que_hi": "कृष्ण ने अपने लोगों की रक्षा के लिए समुद्र के बीच में कौन सा नगर बसाया था?",
+ "options": [
+ {"text_eng": "Mathura", "text_hindi": "मथुरा", "ans": false},
+ {"text_eng": "Dwarka", "text_hindi": "द्वारका", "ans": true},
+ {"text_eng": "Vrindavan", "text_hindi": "वृंदावन", "ans": false},
+ {"text_eng": "Gokul", "text_hindi": "गोकुल", "ans": false}
+ ],
+ "fact_eng": "Dwarka was known as the 'City of Gates' and was eventually submerged in the sea after Krishna's departure. ",
+ "fact_hindi": "द्वारका को 'द्वारों के नगर' के रूप में जाना जाता था और कृष्ण के प्रस्थान के बाद यह अंततः समुद्र में डूब गया। "
+ },
+ {
+ "id": 100,
+ "que_en": "Who was the wise brother of Dhritarashtra and Pandu?",
+ "que_hi": "धृतराष्ट्र और पांडु के बुद्धिमान भाई कौन थे?",
+ "options": [
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": true},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false},
+ {"text_eng": "Bhisma", "text_hindi": "भीष्म", "ans": false},
+ {"text_eng": "Kripacharya", "text_hindi": "कृपाचार्य", "ans": false}
+ ],
+ "fact_eng": "Vidura was known for his wisdom (Vidura-Niti) and for always standing by the path of Dharma. ",
+ "fact_hindi": "विदुर अपनी बुद्धिमत्ता (विदुर-नीति) और हमेशा धर्म के मार्ग पर चलने के लिए जाने जाते थे। "
+ },
+ {
+ "id": 101,
+ "que_en": "Who gave Arjuna the 'Pashupatastra' weapon?",
+ "que_hi": "अर्जुन को 'पाशुपतास्त्र' अस्त्र किसने दिया था?",
+ "options": [
+ {"text_eng": "Lord Vishnu", "text_hindi": "भगवान विष्णु", "ans": false},
+ {"text_eng": "Lord Shiva", "text_hindi": "भगवान शिव", "ans": true},
+ {"text_eng": "Lord Brahma", "text_hindi": "भगवान ब्रह्मा", "ans": false},
+ {"text_eng": "Lord Indra", "text_hindi": "भगवान इन्द्र", "ans": false}
+ ],
+ "fact_eng": "Lord Shiva tested Arjuna's skill as a Kirata (hunter) before granting him the weapon. ",
+ "fact_hindi": "भगवान शिव ने अर्जुन को अस्त्र प्रदान करने से पहले एक किरात (शिकारी) के रूप में उनके कौशल की परीक्षा ली थी। "
+ },
+ {
+ "id": 102,
+ "que_en": "What was the name of the white horse of Arjuna's chariot?",
+ "que_hi": "अर्जुन के रथ के सफेद घोड़े का नाम क्या था?",
+ "options": [
+ {"text_eng": "Saivya", "text_hindi": "शैव", "ans": false},
+ {"text_eng": "Sugriva", "text_hindi": "सुग्रीव", "ans": false},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": true},
+ {"text_eng": "Baladhaka", "text_hindi": "बलाहक", "ans": false}
+ ],
+ "fact_eng": "Arjuna's horses were celestial and could never be tired in battle. ",
+ "fact_hindi": "अर्जुन के घोड़े दिव्य थे और वे युद्ध में कभी थकते नहीं थे। "
+ },
+ {
+ "id": 103,
+ "que_en": "Who was the teacher of Eklavya?",
+ "que_hi": "एकलव्य के गुरु कौन थे?",
+ "options": [
+ {"text_eng": "Dronacharya", "text_hindi": "द्रोणाचार्य", "ans": true},
+ {"text_eng": "Parashurama", "text_hindi": "परशुराम", "ans": false},
+ {"text_eng": "Kripacharya", "text_hindi": "कृपाचार्य", "ans": false},
+ {"text_eng": "Vashistha", "text_hindi": "वशिष्ठ", "ans": false}
+ ],
+ "fact_eng": "Eklavya learned archery by practicing in front of a clay statue of Dronacharya. ",
+ "fact_hindi": "एकलव्य ने द्रोणाचार्य की मिट्टी की मूर्ति के सामने अभ्यास करके धनुर्विद्या सीखी थी। "
+ },
+ {
+ "id": 104,
+ "que_en": "Which Pandava was the son of the Wind God (Vayu)?",
+ "que_hi": "कौन सा पांडव वायु देव के पुत्र थे?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": true},
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false}
+ ],
+ "fact_eng": "Bhima's incredible strength was a gift from his father, Vayu. ",
+ "fact_hindi": "भीम की अविश्वसनीय शक्ति उनके पिता वायु देव का उपहार थी। "
+ },
+ {
+ "id": 105,
+ "que_en": "Who was the wife of Nakula?",
+ "que_hi": "नकुल की पत्नी कौन थी?",
+ "options": [
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": true},
+ {"text_eng": "Karenumati", "text_hindi": "करेणुमती", "ans": true},
+ {"text_eng": "Devika", "text_hindi": "देविका", "ans": false},
+ {"text_eng": "Vijaya", "text_hindi": "विजया", "ans": false}
+ ],
+ "fact_eng": "While all Pandavas shared Draupadi, Nakula also married Karenumati, the princess of Chedi. ",
+ "fact_hindi": "जहाँ सभी पांडवों की पत्नी द्रौपदी थीं, वहीं नकुल ने चेदि की राजकुमारी करेणुमती से भी विवाह किया था। "
+ },
+ {
+ "id": 106,
+ "que_en": "Who was the father of Kunti?",
+ "que_hi": "कुंती के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Kuntibhoja", "text_hindi": "कुंतीभोज", "ans": true},
+ {"text_eng": "Surasena", "text_hindi": "शूरसेन", "ans": false},
+ {"text_eng": "Vasudeva", "text_hindi": "वसुदेव", "ans": false},
+ {"text_eng": "Ugrasena", "text_hindi": "उग्रसेन", "ans": false}
+ ],
+ "fact_eng": "Kunti was biologically the daughter of Shurasena but was adopted by King Kuntibhoja. ",
+ "fact_hindi": "कुंती जैविक रूप से शूरसेन की पुत्री थीं लेकिन उन्हें राजा कुंतीभोज ने गोद लिया था। "
+ },
+ {
+ "id": 107,
+ "que_en": "What was the name of the celestial tree that Krishna brought to Dwarka from heaven?",
+ "que_hi": "कृष्ण स्वर्ग से द्वारका कौन सा दिव्य वृक्ष लाए थे?",
+ "options": [
+ {"text_eng": "Parijata", "text_hindi": "पारिजात", "ans": true},
+ {"text_eng": "Kalpavriksha", "text_hindi": "कल्पवृक्ष", "ans": false},
+ {"text_eng": "Ashoka", "text_hindi": "अशोक", "ans": false},
+ {"text_eng": "Banyan", "text_hindi": "बरगद", "ans": false}
+ ],
+ "fact_eng": "Krishna fought with Indra to bring the Parijata tree to please his wife Satyabhama. ",
+ "fact_hindi": "कृष्ण अपनी पत्नी सत्यभामा को प्रसन्न करने के लिए पारिजात वृक्ष लाने हेतु इन्द्र से लड़े थे। "
+ },
+ {
+ "id": 108,
+ "que_en": "Who was the only warrior on the Kaurava side to speak out against the disrobing of Draupadi?",
+ "que_hi": "कौरव पक्ष का वह एकमात्र योद्धा कौन था जिसने द्रौपदी के चीरहरण के विरुद्ध आवाज उठाई थी?",
+ "options": [
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": false},
+ {"text_eng": "Vikarna", "text_hindi": "विकर्ण", "ans": true},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false}
+ ],
+ "fact_eng": "Vikarna was a son of Dhritarashtra who valued Dharma over family loyalty in that moment. ",
+ "fact_hindi": "विकर्ण धृतराष्ट्र के पुत्र थे जिन्होंने उस क्षण पारिवारिक वफादारी से ऊपर धर्म को महत्व दिया था। "
+ },
+ {
+ "id": 109,
+ "que_en": "Who was the son of Ghatotkacha who witnessed the entire war?",
+ "que_hi": "घटोत्कच का वह पुत्र कौन था जिसने पूरे युद्ध को देखा था?",
+ "options": [
+ {"text_eng": "Barbarika", "text_hindi": "बर्बरीक", "ans": true},
+ {"text_eng": "Abhimanyu", "text_hindi": "अभिमन्यु", "ans": false},
+ {"text_eng": "Iravan", "text_hindi": "इरावन", "ans": false},
+ {"text_eng": "Srutayudha", "text_hindi": "श्रुतायुध", "ans": false}
+ ],
+ "fact_eng": "Barbarika is now worshipped as Khatushyamji and is a symbol of ultimate sacrifice. ",
+ "fact_hindi": "बर्बरीक को अब खाटूश्यामजी के रूप में पूजा जाता है और वे परम बलिदान के प्रतीक हैं। "
+ },
+ {
+ "id": 110,
+ "que_en": "Who was the daughter of King Virata married to Abhimanyu?",
+ "que_hi": "राजा विराट की पुत्री कौन थी जिसका विवाह अभिमन्यु से हुआ था?",
+ "options": [
+ {"text_eng": "Uttara", "text_hindi": "उत्तरा", "ans": true},
+ {"text_eng": "Uttari", "text_hindi": "उत्तरी", "ans": false},
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false}
+ ],
+ "fact_eng": "Uttara's son Parikshit became the emperor of the world after the Pandavas retired. ",
+ "fact_hindi": "पांडवों के सेवानिवृत्त होने के बाद उत्तरा के पुत्र परीक्षित विश्व के सम्राट बने थे। "
+ },
+ {
+ "id": 111,
+ "que_en": "Who was the only warrior to survive from the Kaurava side besides the three main commanders?",
+ "que_hi": "तीन मुख्य सेनापतियों के अलावा कौरव पक्ष से जीवित बचने वाला एकमात्र योद्धा कौन था?",
+ "options": [
+ {"text_eng": "Kritavarma", "text_hindi": "कृतवर्मा", "ans": true},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Bhishma", "text_hindi": "भीष्म", "ans": false},
+ {"text_eng": "Drona", "text_hindi": "द्रोणाचार्य", "ans": false}
+ ],
+ "fact_eng": "Kritavarma was a powerful Yadava warrior who fought for the Kauravas. He survived the war but was later killed during the internal clash of the Yadavas. ",
+ "fact_hindi": "कृतवर्मा एक शक्तिशाली यादव योद्धा थे जिन्होंने कौरवों के लिए युद्ध लड़ा था। वे युद्ध में जीवित बचे लेकिन बाद में यादवों के आपसी संघर्ष में मारे गए। "
+ },
+ {
+ "id": 112,
+ "que_en": "What was the name of the divine mace (Gada) of Lord Krishna?",
+ "que_hi": "भगवान कृष्ण की दिव्य गदा का नाम क्या था?",
+ "options": [
+ {"text_eng": "Kaumodaki", "text_hindi": "कौमोदकी", "ans": true},
+ {"text_eng": "Nandaka", "text_hindi": "नंदक", "ans": false},
+ {"text_eng": "Sudarshana", "text_hindi": "सुदर्शन", "ans": false},
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": false}
+ ],
+ "fact_eng": "Kaumodaki is the name of Lord Vishnu's mace, and it represents the power of the intellect and time. ",
+ "fact_hindi": "कौमोदकी भगवान विष्णु की गदा का नाम है, और यह बुद्धि और समय की शक्ति का प्रतिनिधित्व करती है। "
+ },
+ {
+ "id": 113,
+ "que_en": "Who was the father of the 100 Kauravas' wife, Bhanumati (Duryodhana's wife)?",
+ "que_hi": "100 कौरवों की पत्नी भानुमती (दुर्योधन की पत्नी) के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Chitrangada", "text_hindi": "चित्रांगदा", "ans": true},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Drupada", "text_hindi": "द्रुपद", "ans": false},
+ {"text_eng": "Kuntibhoja", "text_hindi": "कुंतीभोज", "ans": false}
+ ],
+ "fact_eng": "Bhanumati was the princess of Kalinga and was known for her loyalty to Duryodhana. ",
+ "fact_hindi": "भानुमती कलिंग की राजकुमारी थीं और दुर्योधन के प्रति अपनी वफादारी के लिए जानी जाती थीं। "
+ },
+ {
+ "id": 114,
+ "que_en": "Which animal's head did the avatar Hayagriva have?",
+ "que_hi": "अवतार हयग्रीव का सिर किस जानवर का था?",
+ "options": [
+ {"text_eng": "Horse", "text_hindi": "घोड़ा", "ans": true},
+ {"text_eng": "Bull", "text_hindi": "सांड", "ans": false},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": false}
+ ],
+ "fact_eng": "Lord Vishnu also took the Hayagriva avatar (with a horse's head) to retrieve the Vedas from the demons. ",
+ "fact_hindi": "भगवान विष्णु ने राक्षसों से वेदों को पुनः प्राप्त करने के लिए हयग्रीव अवतार (घोड़े के सिर वाला) भी लिया था। "
+ },
+ {
+ "id": 115,
+ "que_en": "Who was the son of Abhimanyu and Uttara, who became the King after the Pandavas?",
+ "que_hi": "अभिमन्यु और उत्तरा के पुत्र कौन थे, जो पांडवों के बाद राजा बने?",
+ "options": [
+ {"text_eng": "Parikshit", "text_hindi": "परीक्षित", "ans": true},
+ {"text_eng": "Janamejaya", "text_hindi": "जनमेजय", "ans": false},
+ {"text_eng": "Vichitravirya", "text_hindi": "विचित्रवीर्य", "ans": false},
+ {"text_eng": "Bharat", "text_hindi": "भरत", "ans": false}
+ ],
+ "fact_eng": "Parikshit was born as a stillborn child due to Ashwatthama's weapon but was revived by Lord Krishna. ",
+ "fact_hindi": "अश्वत्थामा के अस्त्र के कारण परीक्षित का जन्म मृत अवस्था में हुआ था, लेकिन भगवान कृष्ण ने उन्हें पुनर्जीवित कर दिया था। "
+ },
+ {
+ "id": 116,
+ "que_en": "What was the name of the divine elephant of Indra, often mentioned in the war?",
+ "que_hi": "इन्द्र के दिव्य हाथी का नाम क्या था, जिसका उल्लेख अक्सर युद्ध में किया जाता है?",
+ "options": [
+ {"text_eng": "Airavata", "text_hindi": "ऐरावत", "ans": true},
+ {"text_eng": "Uchhaishravas", "text_hindi": "उच्चैःश्रवा", "ans": false},
+ {"text_eng": "Gajendra", "text_hindi": "गजेंद्र", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false}
+ ],
+ "fact_eng": "Airavata is a white elephant with multiple tusks and is considered the king of all elephants. ",
+ "fact_hindi": "ऐरावत एक सफेद हाथी है जिसके कई दांत हैं और उसे सभी हाथियों का राजा माना जाता है। "
+ },
+ {
+ "id": 117,
+ "que_en": "Who was the first commander-in-chief of the Pandava army?",
+ "que_hi": "पांडव सेना के प्रथम सेनापति कौन थे?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Dhrishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": true},
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false}
+ ],
+ "fact_eng": "Dhrishtadyumna was chosen to lead the army specifically because he was destined to kill Drona. ",
+ "fact_hindi": "धृष्टद्युम्न को विशेष रूप से सेना का नेतृत्व करने के लिए चुना गया था क्योंकि उनका जन्म ही द्रोण के वध के लिए हुआ था। "
+ },
+ {
+ "id": 118,
+ "que_en": "What was the name of the divine bow used by Lord Rama, also mentioned in the Gita's lineage?",
+ "que_hi": "भगवान राम द्वारा उपयोग किए जाने वाले दिव्य धनुष का नाम क्या था?",
+ "options": [
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Kodanda", "text_hindi": "कोदंड", "ans": true},
+ {"text_eng": "Gandiva", "text_hindi": "गांडीव", "ans": false},
+ {"text_eng": "Sharanga", "text_hindi": "शारंग", "ans": false}
+ ],
+ "fact_eng": "Kodanda is the bow of Lord Rama, and it represents discipline and focus. ",
+ "fact_hindi": "कोदंड भगवान राम का धनुष है, और यह अनुशासन और एकाग्रता का प्रतिनिधित्व करता है। "
+ },
+ {
+ "id": 119,
+ "que_en": "Who was the mother of Balarama, Krishna's elder brother?",
+ "que_hi": "कृष्ण के बड़े भाई बलराम की माता कौन थी?",
+ "options": [
+ {"text_eng": "Devaki", "text_hindi": "देवकी", "ans": false},
+ {"text_eng": "Rohini", "text_hindi": "रोहिणी", "ans": true},
+ {"text_eng": "Yashoda", "text_hindi": "यशोदा", "ans": false},
+ {"text_eng": "Satyabhama", "text_hindi": "सत्यभामा", "ans": false}
+ ],
+ "fact_eng": "Balarama's embryo was transferred from Devaki's womb to Rohini's womb to save him from Kamsa. ",
+ "fact_hindi": "कंस से बचाने के लिए बलराम के गर्भ को देवकी के गर्भ से रोहिणी के गर्भ में स्थानांतरित किया गया था। "
+ },
+ {
+ "id": 120,
+ "que_en": "Which warrior was the only one on the Kaurava side to argue for Dharma in the royal court?",
+ "que_hi": "कौरव पक्ष का वह एकमात्र योद्धा कौन था जिसने राजसभा में धर्म के लिए तर्क दिया था?",
+ "options": [
+ {"text_eng": "Vikarna", "text_hindi": "विकर्ण", "ans": true},
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": false},
+ {"text_eng": "Dussasana", "text_hindi": "दुशासन", "ans": false},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false}
+ ],
+ "fact_eng": "Vikarna stood up against the disrobing of Draupadi, even though he was a Kaurava prince. ",
+ "fact_hindi": "विकर्ण ने द्रौपदी के चीरहरण के विरुद्ध आवाज उठाई थी, भले ही वे एक कौरव राजकुमार थे। "
+ },
+ {
+ "id": 121,
+ "que_en": "Who gave Krishna the name 'Govinda'?",
+ "que_hi": "कृष्ण को 'गोविंद' नाम किसने दिया था?",
+ "options": [
+ {"text_eng": "Yashoda", "text_hindi": "यशोदा", "ans": false},
+ {"text_eng": "Lord Indra", "text_hindi": "भगवान इन्द्र", "ans": true},
+ {"text_eng": "Vasudeva", "text_hindi": "वसुदेव", "ans": false},
+ {"text_eng": "Sage Narada", "text_hindi": "नारद मुनि", "ans": false}
+ ],
+ "fact_eng": "Indra gave this name after Krishna lifted the Govardhan hill to protect the cows and cowherds. ",
+ "fact_hindi": "इन्द्र ने यह नाम तब दिया जब कृष्ण ने गायों और ग्वालों की रक्षा के लिए गोवर्धन पर्वत उठाया था। "
+ },
+ {
+ "id": 122,
+ "que_en": "Which Pandava was the first to fall during the final journey to the Himalayas?",
+ "que_hi": "हिमालय की अंतिम यात्रा के दौरान गिरने वाले पहले पांडव कौन थे?",
+ "options": [
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": true},
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": false},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false}
+ ],
+ "fact_eng": "Draupadi was the first to fall because she had a slight partiality toward Arjuna over her other husbands. ",
+ "fact_hindi": "द्रौपदी सबसे पहले गिरीं क्योंकि उनके मन में अपने अन्य पतियों की तुलना में अर्जुन के प्रति थोड़ा अधिक अनुराग था। "
+ },
+ {
+ "id": 123,
+ "que_en": "What was the name of the conch shell of Bhima?",
+ "que_hi": "भीम के शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Paundra", "text_hindi": "पौण्ड्र", "ans": true},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false},
+ {"text_eng": "Sughosha", "text_hindi": "सुघोष", "ans": false},
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": false}
+ ],
+ "fact_eng": "The sound of Paundra was so thunderous that it used to terrify the entire Kaurava army. ",
+ "fact_hindi": "पौण्ड्र की ध्वनि इतनी भयानक थी कि वह पूरी कौरव सेना को भयभीत कर देती थी। "
+ },
+ {
+ "id": 124,
+ "que_en": "Who killed the warrior Jayadratha by using a false sunset as a trick?",
+ "que_hi": "झूठे सूर्यास्त का झांसा देकर योद्धा जयद्रथ का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": true},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": false},
+ {"text_eng": "Dhrishtadyumna", "text_hindi": "धृष्टद्युम्न", "ans": false}
+ ],
+ "fact_eng": "Krishna used his Sudarshana Chakra to hide the sun, tricking Jayadratha into coming out of hiding. ",
+ "fact_hindi": "कृष्ण ने सूर्य को छिपाने के लिए अपने सुदर्शन चक्र का उपयोग किया, जिससे जयद्रथ को धोखे से उसके छिपने के स्थान से बाहर निकाला गया। "
+ },
+ {
+ "id": 125,
+ "que_en": "Who was the father of the warrior Ashwatthama?",
+ "que_hi": "योद्धा अश्वत्थामा के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Kripacharya", "text_hindi": "कृपाचार्य", "ans": false},
+ {"text_eng": "Dronacharya", "text_hindi": "द्रोणाचार्य", "ans": true},
+ {"text_eng": "Bhishma", "text_hindi": "भीष्म", "ans": false},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false}
+ ],
+ "fact_eng": "Dronacharya was deeply attached to his son Ashwatthama, which eventually became a cause for his downfall. ",
+ "fact_hindi": "द्रोणाचार्य अपने पुत्र अश्वत्थामा से बहुत गहराई से जुड़े हुए थे, जो अंततः उनके पतन का कारण बना। "
+ },
+ {
+ "id": 126,
+ "que_en": "What was the name of the divine jewel on Ashwatthama's forehead?",
+ "que_hi": "अश्वत्थामा के माथे पर लगे दिव्य मणि का नाम क्या था?",
+ "options": [
+ {"text_eng": "Syamantaka", "text_hindi": "स्यमंतक", "ans": false},
+ {"text_eng": "Mani", "text_hindi": "मणि", "ans": true},
+ {"text_eng": "Kaustubha", "text_hindi": "कौस्तुभ", "ans": false},
+ {"text_eng": "Chintamani", "text_hindi": "चिंतामणि", "ans": false}
+ ],
+ "fact_eng": "The mani protected Ashwatthama from hunger, thirst, and fatigue, but it was forcibly removed as a punishment. ",
+ "fact_hindi": "मणि अश्वत्थामा की भूख, प्यास और थकान से रक्षा करती थी, लेकिन सजा के तौर पर इसे जबरन निकाल दिया गया था। "
+ },
+ {
+ "id": 127,
+ "que_en": "Who was the charioteer of King Dhritarashtra?",
+ "que_hi": "राजा धृतराष्ट्र के सारथी कौन थे?",
+ "options": [
+ {"text_eng": "Sanjaya", "text_hindi": "संजय", "ans": true},
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": false},
+ {"text_eng": "Kripacharya", "text_hindi": "कृपाचार्य", "ans": false},
+ {"text_eng": "Matali", "text_hindi": "मातलि", "ans": false}
+ ],
+ "fact_eng": "Sanjaya was not only a charioteer but also a counselor and the narrator of the Gita for Dhritarashtra. ",
+ "fact_hindi": "संजय न केवल एक सारथी थे बल्कि धृतराष्ट्र के लिए एक सलाहकार और गीता के वाचक भी थे। "
+ },
+ {
+ "id": 128,
+ "que_en": "What was the name of the conch shell of Arjuna?",
+ "que_hi": "अर्जुन के शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": true},
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": false},
+ {"text_eng": "Paundra", "text_hindi": "पौण्ड्र", "ans": false},
+ {"text_eng": "Sughosha", "text_hindi": "सुघोष", "ans": false}
+ ],
+ "fact_eng": "Arjuna received the Devadatta conch from Lord Indra as a gift for his valor. ",
+ "fact_hindi": "अर्जुन को उनकी वीरता के उपहार के रूप में भगवान इन्द्र से देवदत्त शंख प्राप्त हुआ था। "
+ },
+ {
+ "id": 129,
+ "que_en": "Who was the only Pandava to visit Hell before going to Heaven?",
+ "que_hi": "स्वर्ग जाने से पहले नरक के दर्शन करने वाले एकमात्र पांडव कौन थे?",
+ "options": [
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": true},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": false}
+ ],
+ "fact_eng": "Yudhisthira had to glimpse Hell for a short time because he had spoken a half-truth about Ashwatthama's death. ",
+ "fact_hindi": "युधिष्ठिर को थोड़े समय के लिए नरक देखना पड़ा क्योंकि उन्होंने अश्वत्थामा की मृत्यु के बारे में आधा सच बोला था। "
+ },
+ {
+ "id": 130,
+ "que_en": "What was the name of the divine tree that fulfills all desires, found in Indra's garden?",
+ "que_hi": "इन्द्र के बगीचे में पाए जाने वाले सभी इच्छाओं को पूरा करने वाले दिव्य वृक्ष का नाम क्या था?",
+ "options": [
+ {"text_eng": "Kalpavriksha", "text_hindi": "कल्पवृक्ष", "ans": true},
+ {"text_eng": "Parijata", "text_hindi": "पारिजात", "ans": false},
+ {"text_eng": "Mandara", "text_hindi": "मंदार", "ans": false},
+ {"text_eng": "Sandalwood", "text_hindi": "चंदन", "ans": false}
+ ],
+ "fact_eng": "Kalpavriksha emerged from the churning of the ocean (Samudra Manthan) and was taken by Indra. ",
+ "fact_hindi": "समुद्र मंथन से कल्पवृक्ष की उत्पत्ति हुई थी और इसे इन्द्र ने ले लिया था। "
+ },
+ {
+ "id": 131,
+ "que_en": "Who was the teacher of both Dronacharya and Kripacharya?",
+ "que_hi": "द्रोणाचार्य और कृपाचार्य दोनों के शिक्षक कौन थे?",
+ "options": [
+ {"text_eng": "Parashurama", "text_hindi": "परशुराम", "ans": false},
+ {"text_eng": "Sage Bharadwaja", "text_hindi": "ऋषि भरद्वाज", "ans": true},
+ {"text_eng": "Sage Gautama", "text_hindi": "ऋषि गौतम", "ans": false},
+ {"text_eng": "Sage Agastya", "text_hindi": "ऋषि अगस्त्य", "ans": false}
+ ],
+ "fact_eng": "Sage Bharadwaja was the father of Dronacharya and a great scholar of military science. ",
+ "fact_hindi": "ऋषि भरद्वाज द्रोणाचार्य के पिता थे और सैन्य विज्ञान के महान विद्वान थे। "
+ },
+ {
+ "id": 132,
+ "que_en": "What was the name of the divine horse of Lord Indra?",
+ "que_hi": "भगवान इन्द्र के दिव्य घोड़े का नाम क्या था?",
+ "options": [
+ {"text_eng": "Uchhaishravas", "text_hindi": "उच्चैःश्रवा", "ans": true},
+ {"text_eng": "Saivya", "text_hindi": "शैव", "ans": false},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false}
+ ],
+ "fact_eng": "Uchhaishravas is a seven-headed white horse that emerged during the Samudra Manthan. ",
+ "fact_hindi": "उच्चैःश्रवा एक सात सिरों वाला सफेद घोड़ा है जो समुद्र मंथन के दौरान निकला था। "
+ },
+ {
+ "id": 133,
+ "que_en": "Who was the son of Krishna and Rukmini?",
+ "que_hi": "कृष्ण और रुक्मिणी के पुत्र कौन थे?",
+ "options": [
+ {"text_eng": "Pradyumna", "text_hindi": "प्रद्युम्न", "ans": true},
+ {"text_eng": "Samba", "text_hindi": "साम्ब", "ans": false},
+ {"text_eng": "Aniruddha", "text_hindi": "अनिरुद्ध", "ans": false},
+ {"text_eng": "Gada", "text_hindi": "गदा", "ans": false}
+ ],
+ "fact_eng": "Pradyumna is considered an incarnation of Kamadeva (the God of Love). ",
+ "fact_hindi": "प्रद्युम्न को कामदेव (प्रेम के देवता) का अवतार माना जाता है। "
+ },
+ {
+ "id": 134,
+ "que_en": "Which animal's form did the demon Maricha take to lure Sita?",
+ "que_hi": "राक्षस मारीच ने सीता को लुभाने के लिए किस जानवर का रूप धारण किया था?",
+ "options": [
+ {"text_eng": "Deer", "text_hindi": "हिरण", "ans": true},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Rabbit", "text_hindi": "खरगोश", "ans": false},
+ {"text_eng": "Tiger", "text_hindi": "बाघ", "ans": false}
+ ],
+ "fact_eng": "Maricha disguised himself as a golden deer with silver spots to help Ravana abduct Sita. ",
+ "fact_hindi": "सीता के अपहरण में रावण की मदद करने के लिए मारीच ने चांदी के धब्बों वाले सुनहरे हिरण का रूप धारण किया था। "
+ },
+ {
+ "id": 135,
+ "que_en": "Who was the king of the Nishadas who gave shelter to Rama and Lakshmana?",
+ "que_hi": "निषादों के राजा कौन थे जिन्होंने राम और लक्ष्मण को आश्रय दिया था?",
+ "options": [
+ {"text_eng": "Guha", "text_hindi": "गुह", "ans": true},
+ {"text_eng": "Kuntibhoja", "text_hindi": "कुंतीभोज", "ans": false},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Virata", "text_hindi": "विराट", "ans": false}
+ ],
+ "fact_eng": "Guha was a close friend of Lord Rama and helped them cross the Ganges River. ",
+ "fact_hindi": "गुह भगवान राम के करीबी मित्र थे और उन्होंने उन्हें गंगा नदी पार करने में मदद की थी। "
+ },
+ {
+ "id": 136,
+ "que_en": "What was the name of the conch shell of Nakula?",
+ "que_hi": "नकुल के शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Sughosha", "text_hindi": "सुघोष", "ans": true},
+ {"text_eng": "Manipushpaka", "text_hindi": "मणिपुष्पक", "ans": false},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false},
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": false}
+ ],
+ "fact_eng": "Nakula blew Sughosha to signal his readiness for battle and to boost the morale of his soldiers. ",
+ "fact_hindi": "नकुल ने युद्ध के लिए अपनी तत्परता का संकेत देने और अपने सैनिकों का मनोबल बढ़ाने के लिए सुघोष बजाया था। "
+ },
+ {
+ "id": 137,
+ "que_en": "Who was the sage who taught the Gayatri Mantra to the world?",
+ "que_hi": "दुनिया को गायत्री मंत्र सिखाने वाले ऋषि कौन थे?",
+ "options": [
+ {"text_eng": "Sage Vishwamitra", "text_hindi": "ऋषि विश्वामित्र", "ans": true},
+ {"text_eng": "Sage Vashistha", "text_hindi": "ऋषि वशिष्ठ", "ans": false},
+ {"text_eng": "Sage Agastya", "text_hindi": "ऋषि अगस्त्य", "ans": false},
+ {"text_eng": "Sage Durvasa", "text_hindi": "ऋषि दुर्वासा", "ans": false}
+ ],
+ "fact_eng": "Sage Vishwamitra attained the title of 'Brahmarishi' through severe penance and received the Gayatri Mantra through divine inspiration. ",
+ "fact_hindi": "ऋषि विश्वामित्र ने कठोर तपस्या के माध्यम से 'ब्रह्मर्षि' की उपाधि प्राप्त की और दिव्य प्रेरणा के माध्यम से गायत्री मंत्र प्राप्त किया। "
+ },
+ {
+ "id": 138,
+ "que_en": "Which animal is the vehicle (Vahana) of Lord Kartikeya?",
+ "que_hi": "भगवान कार्तिकेय का वाहन कौन सा जानवर है?",
+ "options": [
+ {"text_eng": "Peacock", "text_hindi": "मोर", "ans": true},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": false},
+ {"text_eng": "Bull", "text_hindi": "सांड", "ans": false}
+ ],
+ "fact_eng": "The peacock represents wisdom and the destruction of negative forces like ego and pride. ",
+ "fact_hindi": "मोर बुद्धिमत्ता और अहंकार एवं गर्व जैसी नकारात्मक शक्तियों के विनाश का प्रतिनिधित्व करता है। "
+ },
+ {
+ "id": 139,
+ "que_en": "Who was the only Pandava brother to excel in the art of surgery and medicine?",
+ "que_hi": "सर्जरी और औषधि की कला में उत्कृष्टता प्राप्त करने वाले एकमात्र पांडव भाई कौन थे?",
+ "options": [
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": true},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false}
+ ],
+ "fact_eng": "Sahadeva was taught by the Ashwini Kumaras and was highly skilled in Ayurveda and veterinary science. ",
+ "fact_hindi": "सहदेव को अश्विनी कुमारों ने सिखाया था और वे आयुर्वेद और पशु विज्ञान में अत्यधिक कुशल थे। "
+ },
+ {
+ "id": 140,
+ "que_en": "What was the name of the sword of Lord Indra?",
+ "que_hi": "भगवान इन्द्र की तलवार का नाम क्या था?",
+ "options": [
+ {"text_eng": "Paranjaya", "text_hindi": "परंजय", "ans": true},
+ {"text_eng": "Nandaka", "text_hindi": "नंदक", "ans": false},
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": false}
+ ],
+ "fact_eng": "Paranjaya is the divine sword of Indra, often used to defeat powerful demons. ",
+ "fact_hindi": "परंजय इन्द्र की दिव्य तलवार है, जिसका उपयोग अक्सर शक्तिशाली राक्षसों को हराने के लिए किया जाता है। "
+ },
+ {
+ "id": 141,
+ "que_en": "Who was the only warrior to stay on the battlefield until the very last moment of the Pandavas' departure?",
+ "que_hi": "पांडवों के प्रस्थान के अंतिम क्षण तक युद्ध के मैदान (या सत्ता) में रहने वाले एकमात्र योद्धा कौन थे?",
+ "options": [
+ {"text_eng": "Yuyutsu", "text_hindi": "युयुत्सु", "ans": true},
+ {"text_eng": "Kritavarma", "text_hindi": "कृतवर्मा", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": false},
+ {"text_eng": "Satyaki", "text_hindi": "सात्यकि", "ans": false}
+ ],
+ "fact_eng": "Yuyutsu was appointed by Yudhisthira to supervise the kingdom of Indraprastha and care for the citizens before the Pandavas retired to the Himalayas. ",
+ "fact_hindi": "पांडवों के हिमालय जाने से पहले, युधिष्ठिर ने युयुत्सु को इंद्रप्रस्थ के राज्य की देखरेख और नागरिकों की देखभाल के लिए नियुक्त किया था। "
+ },
+ {
+ "id": 142,
+ "que_en": "What was the name of the divine conch shell of Sahadeva?",
+ "que_hi": "सहदेव के दिव्य शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Manipushpaka", "text_hindi": "मणिपुष्पक", "ans": true},
+ {"text_eng": "Sughosha", "text_hindi": "सुघोष", "ans": false},
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": false},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false}
+ ],
+ "fact_eng": "Manipushpaka means 'Jeweled Flower'. Sahadeva blew it to signal his presence and wisdom on the battlefield. ",
+ "fact_hindi": "मणिपुष्पक का अर्थ है 'रत्नों वाला फूल'। सहदेव ने युद्ध के मैदान में अपनी उपस्थिति और बुद्धिमत्ता का संकेत देने के लिए इसे बजाया था। "
+ },
+ {
+ "id": 143,
+ "que_en": "Who was the first person to use the 'Narayana Astra' during the war?",
+ "que_hi": "युद्ध के दौरान 'नारायण अस्त्र' का प्रयोग करने वाले पहले व्यक्ति कौन थे?",
+ "options": [
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": false},
+ {"text_eng": "Ashwatthama", "text_hindi": "अश्वत्थामा", "ans": true},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false}
+ ],
+ "fact_eng": "Ashwatthama used it to avenge his father's death. The only way to survive it was to surrender completely to the weapon. ",
+ "fact_hindi": "अश्वत्थामा ने अपने पिता की मृत्यु का बदला लेने के लिए इसका इस्तेमाल किया था। इससे बचने का एकमात्र तरीका अस्त्र के सामने पूरी तरह से आत्मसमर्पण करना था। "
+ },
+ {
+ "id": 144,
+ "que_en": "Which animal is the vehicle (Vahana) of Yamaraja, the God of Death?",
+ "que_hi": "मृत्यु के देवता यमराज का वाहन कौन सा जानवर है?",
+ "options": [
+ {"text_eng": "Buffalo", "text_hindi": "भैंसा", "ans": true},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Owl", "text_hindi": "उल्लू", "ans": false},
+ {"text_eng": "Rat", "text_hindi": "चूहा", "ans": false}
+ ],
+ "fact_eng": "The water buffalo represents strength and the relentless, slow but steady arrival of time and death. ",
+ "fact_hindi": "जल भैंसा शक्ति और समय एवं मृत्यु के निरंतर, धीमे लेकिन स्थिर आगमन का प्रतिनिधित्व करता है। "
+ },
+ {
+ "id": 145,
+ "que_en": "Who was the father of the warrior Satyavati (Grandmother of Pandavas)?",
+ "que_hi": "योद्धा (मत्स्य कन्या) सत्यवती (पांडवों की दादी) के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Dasharaj", "text_hindi": "दाशराज", "ans": true},
+ {"text_eng": "Shantanu", "text_hindi": "शांतनु", "ans": false},
+ {"text_eng": "Uparichara Vasu", "text_hindi": "उपरिचर वसु", "ans": false},
+ {"text_eng": "Parashara", "text_hindi": "पराशर", "ans": false}
+ ],
+ "fact_eng": "Dasharaj was the king of the fishermen who raised Satyavati. Biologically, she was the daughter of King Uparichara Vasu. ",
+ "fact_hindi": "दाशराज मछुआरों के राजा थे जिन्होंने सत्यवती का पालन-पोषण किया। जैविक रूप से, वे राजा उपरिचर वसु की पुत्री थीं। "
+ },
+ {
+ "id": 146,
+ "que_en": "What was the name of the divine city built by the celestial architect Vishwakarma for Krishna?",
+ "que_hi": "दिव्य वास्तुकार विश्वकर्मा द्वारा कृष्ण के लिए बनाए गए दिव्य नगर का क्या नाम था?",
+ "options": [
+ {"text_eng": "Mathura", "text_hindi": "मथुरा", "ans": false},
+ {"text_eng": "Dwarka", "text_hindi": "द्वारका", "ans": true},
+ {"text_eng": "Indraprastha", "text_hindi": "इन्द्रप्रस्थ", "ans": false},
+ {"text_eng": "Ayodhya", "text_hindi": "अयोध्या", "ans": false}
+ ],
+ "fact_eng": "Vishwakarma built Dwarka in a single night after Krishna requested a safe haven for the Yadavas. ",
+ "fact_hindi": "कृष्ण द्वारा यादवों के लिए सुरक्षित स्थान मांगे जाने के बाद विश्वकर्मा ने एक ही रात में द्वारका का निर्माण किया था। "
+ },
+ {
+ "id": 147,
+ "que_en": "Who was the mother of the Pandava Sahadeva?",
+ "que_hi": "पांडव सहदेव की माता कौन थी?",
+ "options": [
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false},
+ {"text_eng": "Madri", "text_hindi": "माद्री", "ans": true},
+ {"text_eng": "Gandhari", "text_hindi": "गांधारी", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false}
+ ],
+ "fact_eng": "Sahadeva was the youngest of the Pandavas, born to Madri through the invocation of the Ashwini Kumaras. ",
+ "fact_hindi": "सहदेव पांडवों में सबसे छोटे थे, जिनका जन्म अश्विनी कुमारों के आह्वान के माध्यम से माद्री से हुआ था। "
+ },
+ {
+ "id": 148,
+ "que_en": "Which animal is associated with the symbol on the flag of the Kaurava army?",
+ "que_hi": "कौरव सेना के ध्वज पर प्रतीक के रूप में कौन सा जानवर जुड़ा है?",
+ "options": [
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": false},
+ {"text_eng": "Serpent (Snake)", "text_hindi": "सर्प (सांप)", "ans": true},
+ {"text_eng": "Eagle", "text_hindi": "गरुड़", "ans": false},
+ {"text_eng": "Monkey", "text_hindi": "वानर", "ans": false}
+ ],
+ "fact_eng": "Duryodhana's flag featured a jeweled serpent, symbolizing his pride and the Kuru lineage's connection to serpents. ",
+ "fact_hindi": "दुर्योधन के ध्वज पर मणियों से जड़ा एक सर्प था, जो उनके गर्व और सर्पों के साथ कुरु वंश के संबंध का प्रतीक था। "
+ },
+ {
+ "id": 149,
+ "que_en": "Who killed the demoness Putana during Krishna's childhood?",
+ "que_hi": "कृष्ण के बचपन के दौरान राक्षसी पूतना का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Balarama", "text_hindi": "बलराम", "ans": false},
+ {"text_eng": "Vasudeva", "text_hindi": "वसुदेव", "ans": false},
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": true},
+ {"text_eng": "Nanda Baba", "text_hindi": "नंद बाबा", "ans": false}
+ ],
+ "fact_eng": "Krishna killed Putana by sucking her life force while she was trying to breastfeed him with poisoned milk. ",
+ "fact_hindi": "कृष्ण ने पूतना के प्राण चूसकर उसका वध कर दिया था, जब वह उन्हें जहरीला दूध पिलाने की कोशिश कर रही थी। "
+ },
+ {
+ "id": 150,
+ "que_en": "Who was the elder brother of Sage Vyasa (born to the same mother)?",
+ "que_hi": "ऋषि व्यास के बड़े भाई कौन थे (एक ही माता से जन्मे)?",
+ "options": [
+ {"text_eng": "Bhisma", "text_hindi": "भीष्म", "ans": false},
+ {"text_eng": "Chitrangada", "text_hindi": "चित्रांगदा", "ans": true},
+ {"text_eng": "Vichitravirya", "text_hindi": "विचित्रवीर्य", "ans": false},
+ {"text_eng": "Vidura", "text_hindi": "विदुर", "ans": false}
+ ],
+ "fact_eng": "Satyavati had Vyasa with Sage Parashara before she married Shantanu and had Chitrangada and Vichitravirya. ",
+ "fact_hindi": "शांतनु से विवाह करने और चित्रांगदा एवं विचित्रवीर्य को जन्म देने से पहले, सत्यवती ने ऋषि पराशर के माध्यम से व्यास को जन्म दिया था। "
+ },
+ {
+ "id": 151,
+ "que_en": "What was the name of the bow used by Lord Krishna in his many battles?",
+ "que_hi": "भगवान कृष्ण द्वारा अपने कई युद्धों में उपयोग किए जाने वाले धनुष का क्या नाम था?",
+ "options": [
+ {"text_eng": "Sharanga", "text_hindi": "शारंग", "ans": true},
+ {"text_eng": "Gandiva", "text_hindi": "गांडीव", "ans": false},
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": false}
+ ],
+ "fact_eng": "Sharanga is the celestial bow of Lord Vishnu, of whom Krishna is an incarnation. ",
+ "fact_hindi": "शारंग भगवान विष्णु का दिव्य धनुष है, जिनके कृष्ण एक अवतार हैं। "
+ },
+ {
+ "id": 152,
+ "que_en": "Who was the only person other than Arjuna to receive the direct teaching of the Gita from Krishna's mouth?",
+ "que_hi": "अर्जुन के अलावा एकमात्र व्यक्ति कौन था जिसने कृष्ण के मुख से गीता की सीधी शिक्षा प्राप्त की थी?",
+ "options": [
+ {"text_eng": "Uddhava", "text_hindi": "उद्धव", "ans": true},
+ {"text_eng": "Sanjaya", "text_hindi": "संजय", "ans": false},
+ {"text_eng": "Hanuman", "text_hindi": "हनुमान", "ans": false},
+ {"text_eng": "Narada", "text_hindi": "नारद", "ans": false}
+ ],
+ "fact_eng": "While Sanjaya heard it through divine vision, Krishna narrated a similar teaching (Uddhava Gita) directly to his friend Uddhava. ",
+ "fact_hindi": "जहाँ संजय ने इसे दिव्य दृष्टि से सुना था, वहीं कृष्ण ने अपने मित्र उद्धव को सीधे एक समान शिक्षा (उद्धव गीता) सुनाई थी। "
+ },
+ {
+ "id": 153,
+ "que_en": "What was the name of the mountain Krishna lifted on his little finger?",
+ "que_hi": "कृष्ण ने अपनी छोटी उंगली पर किस पर्वत को उठाया था?",
+ "options": [
+ {"text_eng": "Kailash", "text_hindi": "कैलाश", "ans": false},
+ {"text_eng": "Govardhan", "text_hindi": "गोवर्धन", "ans": true},
+ {"text_eng": "Mainaka", "text_hindi": "मैनाक", "ans": false},
+ {"text_eng": "Himalaya", "text_hindi": "हिमालय", "ans": false}
+ ],
+ "fact_eng": "Krishna lifted Govardhan Hill for seven days to protect the people of Vrindavan from the torrential rains sent by Indra. ",
+ "fact_hindi": "कृष्ण ने इंद्र द्वारा भेजी गई मूसलाधार बारिश से वृंदावन के लोगों की रक्षा के लिए सात दिनों तक गोवर्धन पर्वत को उठाया था। "
+ },
+ {
+ "id": 154,
+ "que_en": "Who was the father of the warrior Satyaki?",
+ "que_hi": "योद्धा सात्यकि के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Satyaka", "text_hindi": "सत्यक", "ans": true},
+ {"text_eng": "Ugrasena", "text_hindi": "उग्रसेन", "ans": false},
+ {"text_eng": "Vasudeva", "text_hindi": "वसुदेव", "ans": false},
+ {"text_eng": "Hridika", "text_hindi": "हृदिक", "ans": false}
+ ],
+ "fact_eng": "Satyaki was a disciple of Arjuna and a key commander of the Vrishni army who fought for the Pandavas. ",
+ "fact_hindi": "सात्यकि अर्जुन के शिष्य थे और वृष्णि सेना के एक प्रमुख सेनापति थे जिन्होंने पांडवों के लिए युद्ध लड़ा था। "
+ },
+ {
+ "id": 155,
+ "que_en": "Who was the only Pandava brother to have the ability to understand the language of animals?",
+ "que_hi": "पशुओं की भाषा समझने की शक्ति किस पांडव के पास थी?",
+ "options": [
+ {"text_eng": "Sahadeva", "text_hindi": "सहदेव", "ans": true},
+ {"text_eng": "Nakula", "text_hindi": "नकुल", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false}
+ ],
+ "fact_eng": "Sahadeva possessed deep occult knowledge and was an expert in astrology and animal communication. ",
+ "fact_hindi": "सहदेव के पास गहरा गूढ़ ज्ञान था और वे ज्योतिष एवं पशु संचार में विशेषज्ञ थे। "
+ },
+ {
+ "id": 156,
+ "que_en": "What was the name of the divine chariot of Arjuna given by Agni?",
+ "que_hi": "अग्नि देव द्वारा अर्जुन को दिए गए दिव्य रथ का क्या नाम था?",
+ "options": [
+ {"text_eng": "Nandighosha", "text_hindi": "नंदीघोष", "ans": true},
+ {"text_eng": "Jaitra", "text_hindi": "जैत्र", "ans": false},
+ {"text_eng": "Pushpaka", "text_hindi": "पुष्पक", "ans": false},
+ {"text_eng": "Kalpa", "text_hindi": "कल्प", "ans": false}
+ ],
+ "fact_eng": "Arjuna's chariot was indestructible and featured the flag of Hanuman, which protected the chariot from divine weapons. ",
+ "fact_hindi": "अर्जुन का रथ अटूट था और उस पर हनुमान जी का ध्वज था, जिसने रथ को दिव्य अस्त्रों से बचाया था। "
+ },
+ {
+ "id": 157,
+ "que_en": "Who was the biological mother of the Upapandavas (the five sons of Draupadi)?",
+ "que_hi": "उपपांडवों (द्रौपदी के पांच पुत्रों) की जैविक माता कौन थी?",
+ "options": [
+ {"text_eng": "Kunti", "text_hindi": "कुंती", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false},
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": true},
+ {"text_eng": "Ulupi", "text_hindi": "उलूपी", "ans": false}
+ ],
+ "fact_eng": "Draupadi had one son from each Pandava: Prativindhya, Sutasoma, Shrutakarma, Shataneeka, and Shrutasena. ",
+ "fact_hindi": "द्रौपदी के प्रत्येक पांडव से एक पुत्र था: प्रतिविंध्य, सुतसोम, श्रुतकर्म, शतानीक और श्रुतसेन। "
+ },
+ {
+ "id": 158,
+ "que_en": "Which animal is represented on the flag of Bhishma Pitamah?",
+ "que_hi": "भीष्म पितामह के ध्वज पर किस प्रतीक को दर्शाया गया है?",
+ "options": [
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Palm Tree", "text_hindi": "ताड़ का वृक्ष", "ans": true},
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": false},
+ {"text_eng": "Bull", "text_hindi": "सांड", "ans": false}
+ ],
+ "fact_eng": "Bhishma's flag featured a palm tree with five stars, symbolizing his seniority and steadfastness. ",
+ "fact_hindi": "भीष्म के ध्वज पर पांच सितारों के साथ ताड़ का वृक्ष था, जो उनकी वरिष्ठता और स्थिरता का प्रतीक था। "
+ },
+ {
+ "id": 159,
+ "que_en": "Who killed the demon Jarasandha in a wrestling match?",
+ "que_hi": "मल्ल-युद्ध (कुश्ती) में राक्षस जरासंध का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": true},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Krishna", "text_hindi": "कृष्ण", "ans": false},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false}
+ ],
+ "fact_eng": "Bhima killed Jarasandha by tearing his body into two pieces and throwing them in opposite directions to prevent them from rejoining. ",
+ "fact_hindi": "भीम ने जरासंध के शरीर को दो टुकड़ों में फाड़कर और उन्हें विपरीत दिशाओं में फेंककर उसका वध किया ताकि वे दोबारा न जुड़ सकें। "
+ },
+ {
+ "id": 160,
+ "que_en": "Who was the father of King Kuntibhoja?",
+ "que_hi": "राजा कुंतीभोज के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Surasena", "text_hindi": "शूरसेन", "ans": false},
+ {"text_eng": "Devaka", "text_hindi": "देवक", "ans": false},
+ {"text_eng": "Ajamidha", "text_hindi": "अजमीढ़", "ans": true},
+ {"text_eng": "Bharat", "text_hindi": "भरत", "ans": false}
+ ],
+ "fact_eng": "King Kuntibhoja was an ancestor of the Vrishnis and adopted Kunti (Pritha) as his daughter. ",
+ "fact_hindi": "राजा कुंतीभोज वृष्णियों के पूर्वज थे और उन्होंने कुंती (पृथा) को अपनी पुत्री के रूप में गोद लिया था। "
+ },
+ {
+ "id": 161,
+ "que_en": "What was the name of the bow of Lord Parashurama?",
+ "que_hi": "भगवान परशुराम के धनुष का क्या नाम था?",
+ "options": [
+ {"text_eng": "Vijaya", "text_hindi": "विजय", "ans": true},
+ {"text_eng": "Pinaka", "text_hindi": "पिनाक", "ans": false},
+ {"text_eng": "Gandiva", "text_hindi": "गांडीव", "ans": false},
+ {"text_eng": "Kodanda", "text_hindi": "कोदंड", "ans": false}
+ ],
+ "fact_eng": "Lord Parashurama gave the Vijaya bow to Karna, who used it in the final days of the Kurukshetra war. ",
+ "fact_hindi": "भगवान परशुराम ने कर्ण को विजय धनुष दिया था, जिसका उपयोग उन्होंने कुरुक्षेत्र युद्ध के अंतिम दिनों में किया था। "
+ },
+ {
+ "id": 162,
+ "que_en": "Who was the only Pandava brother born to Kunti through the grace of Lord Indra?",
+ "que_hi": "भगवान इन्द्र की कृपा से कुंती के गर्भ से जन्म लेने वाले एकमात्र पांडव कौन थे?",
+ "options": [
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": true},
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Karna", "text_hindi": "कर्ण", "ans": false}
+ ],
+ "fact_eng": "Indra granted Kunti a son who would be the greatest warrior in the world, which resulted in Arjuna's birth. ",
+ "fact_hindi": "इन्द्र ने कुंती को एक ऐसा पुत्र प्रदान किया जो विश्व का सबसे बड़ा योद्धा होगा, जिसके परिणामस्वरूप अर्जुन का जन्म हुआ। "
+ },
+ {
+ "id": 163,
+ "que_en": "Which bird is the vehicle (Vahana) of Lord Vishnu?",
+ "que_hi": "भगवान विष्णु का वाहन कौन सा पक्षी है?",
+ "options": [
+ {"text_eng": "Peacock", "text_hindi": "मोर", "ans": false},
+ {"text_eng": "Garuda", "text_hindi": "गरुड़", "ans": true},
+ {"text_eng": "Swan", "text_hindi": "हंस", "ans": false},
+ {"text_eng": "Eagle", "text_hindi": "बाज", "ans": false}
+ ],
+ "fact_eng": "Garuda is the king of birds and is known for his immense speed and strength. ",
+ "fact_hindi": "गरुड़ पक्षियों के राजा हैं और वे अपनी अपार गति और शक्ति के लिए जाने जाते हैं। "
+ },
+ {
+ "id": 164,
+ "que_en": "Who killed the demon King Bali (Naraka cycle) using the Vamana avatar?",
+ "que_hi": "वामन अवतार का उपयोग करके राक्षस राजा बलि (नरक चक्र) का वध किसने किया था?",
+ "options": [
+ {"text_eng": "Lord Vishnu", "text_hindi": "भगवान विष्णु", "ans": true},
+ {"text_eng": "Lord Shiva", "text_hindi": "भगवान शिव", "ans": false},
+ {"text_eng": "Lord Brahma", "text_hindi": "भगवान ब्रह्मा", "ans": false},
+ {"text_eng": "Lord Indra", "text_hindi": "भगवान इन्द्र", "ans": false}
+ ],
+ "fact_eng": "Lord Vishnu took the form of a dwarf (Vamana) to reclaim the three worlds from King Bali. ",
+ "fact_hindi": "भगवान विष्णु ने राजा बलि से तीनों लोकों को वापस लेने के लिए एक बौने (वामन) का रूप धारण किया था। "
+ },
+ {
+ "id": 165,
+ "que_en": "Who was the mother of King Janamejaya?",
+ "que_hi": "राजा जनमेजय की माता कौन थी?",
+ "options": [
+ {"text_eng": "Madravati", "text_hindi": "मद्रावती", "ans": true},
+ {"text_eng": "Uttara", "text_hindi": "उत्तरा", "ans": false},
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false}
+ ],
+ "fact_eng": "Queen Madravati was the wife of King Parikshit and the mother of Janamejaya, who organized the great snake sacrifice. ",
+ "fact_hindi": "महारानी मद्रावती राजा परीक्षित की पत्नी और जनमेजय की माता थीं, जिन्होंने महान सर्प यज्ञ का आयोजन किया था। "
+ },
+ {
+ "id": 166,
+ "que_en": "What was the name of the divine sword given to Ravana by Lord Shiva?",
+ "que_hi": "भगवान शिव द्वारा रावण को दी गई दिव्य तलवार का क्या नाम था?",
+ "options": [
+ {"text_eng": "Chandrahas", "text_hindi": "चंद्रहास", "ans": true},
+ {"text_eng": "Nandaka", "text_hindi": "नंदक", "ans": false},
+ {"text_eng": "Asi", "text_hindi": "असि", "ans": false},
+ {"text_eng": "Khadga", "text_hindi": "खड्ग", "ans": false}
+ ],
+ "fact_eng": "Ravana received Chandrahas after pleasing Lord Shiva with his intense devotion and music. ",
+ "fact_hindi": "रावण ने अपनी गहन भक्ति और संगीत से भगवान शिव को प्रसन्न करने के बाद चंद्रहास प्राप्त किया था। "
+ },
+ {
+ "id": 167,
+ "que_en": "Who was the teacher of King Yudhisthira in the forest?",
+ "que_hi": "वन में राजा युधिष्ठिर के शिक्षक कौन थे?",
+ "options": [
+ {"text_eng": "Sage Lomasa", "text_hindi": "ऋषि लोमश", "ans": true},
+ {"text_eng": "Sage Vyasa", "text_hindi": "ऋषि व्यास", "ans": false},
+ {"text_eng": "Sage Markandeya", "text_hindi": "ऋषि मार्कण्डेय", "ans": false},
+ {"text_eng": "Sage Narada", "text_hindi": "नारद मुनि", "ans": false}
+ ],
+ "fact_eng": "Sage Lomasa accompanied the Pandavas during their exile and narrated many ancient stories to them. ",
+ "fact_hindi": "ऋषि लोमश वनवास के दौरान पांडवों के साथ रहे और उन्होंने उन्हें कई प्राचीन कहानियाँ सुनाईं। "
+ },
+ {
+ "id": 168,
+ "que_en": "Which animal is the vehicle (Vahana) of Lord Ganesha?",
+ "que_hi": "भगवान गणेश का वाहन कौन सा जानवर है?",
+ "options": [
+ {"text_eng": "Rat (Mouse)", "text_hindi": "चूहा", "ans": true},
+ {"text_eng": "Elephant", "text_hindi": "हाथी", "ans": false},
+ {"text_eng": "Lion", "text_hindi": "शेर", "ans": false},
+ {"text_eng": "Peacock", "text_hindi": "मोर", "ans": false}
+ ],
+ "fact_eng": "The rat represents the control over desire and the ability to find a way through any obstacle. ",
+ "fact_hindi": "चूहा इच्छाओं पर नियंत्रण और किसी भी बाधा के माध्यम से रास्ता खोजने की शक्ति का प्रतिनिधित्व करता है। "
+ },
+ {
+ "id": 169,
+ "que_en": "Who was the father of the warrior Eklavya?",
+ "que_hi": "योद्धा एकलव्य के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Hiranyadhanus", "text_hindi": "हिरण्यधनु", "ans": true},
+ {"text_eng": "Ugrasena", "text_hindi": "उग्रसेन", "ans": false},
+ {"text_eng": "Dasharaj", "text_hindi": "दाशराज", "ans": false},
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": false}
+ ],
+ "fact_eng": "Hiranyadhanus was the king of the Nishadas and the father of Eklavya. ",
+ "fact_hindi": "हिरण्यधनु निषादों के राजा और एकलव्य के पिता थे। "
+ },
+ {
+ "id": 170,
+ "que_en": "What was the name of the divine jewel worn by Lord Vishnu on his chest?",
+ "que_hi": "भगवान विष्णु द्वारा अपने सीने पर धारण किए गए दिव्य रत्न का क्या नाम था?",
+ "options": [
+ {"text_eng": "Kaustubha", "text_hindi": "कौस्तुभ", "ans": true},
+ {"text_eng": "Syamantaka", "text_hindi": "स्यमंतक", "ans": false},
+ {"text_eng": "Chintamani", "text_hindi": "चिंतामणि", "ans": false},
+ {"text_eng": "Mani", "text_hindi": "मणि", "ans": false}
+ ],
+ "fact_eng": "Kaustubha is one of the most precious gems in the universe and emerged during the Samudra Manthan. ",
+ "fact_hindi": "कौस्तुभ ब्रह्मांड के सबसे कीमती रत्नों में से एक है और इसकी उत्पत्ति समुद्र मंथन के दौरान हुई थी। "
+ },
+ {
+ "id": 171,
+ "que_en": "Who was the only Pandava to be cursed by a sage with the inability to ever enjoy physical love?",
+ "que_hi": "किस पांडव को एक ऋषि ने श्राप दिया था कि वह कभी शारीरिक प्रेम का सुख नहीं उठा पाएगा?",
+ "options": [
+ {"text_eng": "Pandu", "text_hindi": "पांडु", "ans": true},
+ {"text_eng": "Yudhisthira", "text_hindi": "युधिष्ठिर", "ans": false},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false}
+ ],
+ "fact_eng": "King Pandu was cursed by Sage Kindama after he accidentally shot the sage while he was in the form of a deer. ",
+ "fact_hindi": "राजा पांडु को ऋषि किन्दम ने श्राप दिया था जब उन्होंने गलती से हिरण के रूप में ऋषि को तीर मार दिया था। "
+ },
+ {
+ "id": 172,
+ "que_en": "What was the name of the garden in Dwarka where the Parijata tree was planted?",
+ "que_hi": "द्वारका के उस बगीचे का क्या नाम था जहाँ पारिजात वृक्ष लगाया गया था?",
+ "options": [
+ {"text_eng": "Nandanavana", "text_hindi": "नंदनवन", "ans": true},
+ {"text_eng": "Madhuvana", "text_hindi": "मधुवन", "ans": false},
+ {"text_eng": "Kadambavana", "text_hindi": "कदंबवन", "ans": false},
+ {"text_eng": "Ashokavana", "text_hindi": "अशोकवन", "ans": false}
+ ],
+ "fact_eng": "Nandanavana is also the name of Indra's garden in heaven, but Krishna created a replica in Dwarka. ",
+ "fact_hindi": "नंदनवन स्वर्ग में इंद्र के बगीचे का नाम भी है, लेकिन कृष्ण ने द्वारका में इसकी एक प्रति बनाई थी। "
+ },
+ {
+ "id": 173,
+ "que_en": "Who was the only person to accompany Yudhisthira to the gates of Heaven?",
+ "que_hi": "स्वर्ग के द्वार तक युधिष्ठिर के साथ जाने वाला एकमात्र व्यक्ति कौन था?",
+ "options": [
+ {"text_eng": "A Dog", "text_hindi": "एक कुत्ता", "ans": true},
+ {"text_eng": "Bhima", "text_hindi": "भीम", "ans": false},
+ {"text_eng": "Arjuna", "text_hindi": "अर्जुन", "ans": false},
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": false}
+ ],
+ "fact_eng": "The dog was actually Lord Dharma in disguise, testing Yudhisthira's loyalty and compassion. ",
+ "fact_hindi": "वह कुत्ता वास्तव में भेष में धर्मराज थे, जो युधिष्ठिर की वफादारी और दया की परीक्षा ले रहे थे। "
+ },
+ {
+ "id": 174,
+ "que_en": "Who was the father of the warrior Dhrishtadyumna?",
+ "que_hi": "योद्धा धृष्टद्युम्न के पिता कौन थे?",
+ "options": [
+ {"text_eng": "Drupada", "text_hindi": "द्रुपद", "ans": true},
+ {"text_eng": "Shalya", "text_hindi": "शल्य", "ans": false},
+ {"text_eng": "Kuntibhoja", "text_hindi": "कुंतीभोज", "ans": false},
+ {"text_eng": "Prishata", "text_hindi": "पृषत", "ans": false}
+ ],
+ "fact_eng": "King Drupada organized a yajna to obtain a son who could defeat Dronacharya. ",
+ "fact_hindi": "राजा द्रुपद ने द्रोणाचार्य को हराने में सक्षम पुत्र प्राप्त करने के लिए एक यज्ञ आयोजित किया था। "
+ },
+ {
+ "id": 175,
+ "que_en": "What was the name of the divine cow that emerged during the Samudra Manthan?",
+ "que_hi": "समुद्र मंथन के दौरान निकली दिव्य गाय का क्या नाम था?",
+ "options": [
+ {"text_eng": "Kamadhenu", "text_hindi": "कामधेनु", "ans": true},
+ {"text_eng": "Surabhi", "text_hindi": "सुरभि", "ans": false},
+ {"text_eng": "Nandini", "text_hindi": "नन्दिनी", "ans": false},
+ {"text_eng": "Kapila", "text_hindi": "कपिला", "ans": false}
+ ],
+ "fact_eng": "Kamadhenu is the mother of all cows and is a miraculous 'cow of plenty' who provides whatever is desired. ",
+ "fact_hindi": "कामधेनु सभी गायों की माता हैं और एक चमत्कारिक 'कामधेनु' हैं जो इच्छित वस्तु प्रदान करती हैं। "
+ },
+ {
+ "id": 176,
+ "que_en": "Who was the mother of the warrior Balarama?",
+ "que_hi": "योद्धा बलराम की माता कौन थी?",
+ "options": [
+ {"text_eng": "Rohini", "text_hindi": "रोहिणी", "ans": true},
+ {"text_eng": "Devaki", "text_hindi": "देवकी", "ans": false},
+ {"text_eng": "Yashoda", "text_hindi": "यशोदा", "ans": false},
+ {"text_eng": "Satyabhama", "text_hindi": "सत्यभामा", "ans": false}
+ ],
+ "fact_eng": "Rohini was the first wife of Vasudeva and gave birth to Balarama in Gokul. ",
+ "fact_hindi": "रोहिणी वसुदेव की पहली पत्नी थीं और उन्होंने गोकुल में बलराम को जन्म दिया था। "
+ },
+ {
+ "id": 177,
+ "que_en": "What was the name of the mountain range where the Pandavas spent their final days?",
+ "que_hi": "उस पर्वत श्रृंखला का क्या नाम था जहाँ पांडवों ने अपने अंतिम दिन बिताए थे?",
+ "options": [
+ {"text_eng": "Himalayas", "text_hindi": "हिमालय", "ans": true},
+ {"text_eng": "Vindhyas", "text_hindi": "विन्ध्य", "ans": false},
+ {"text_eng": "Aravallis", "text_hindi": "अरावली", "ans": false},
+ {"text_eng": "Satpuras", "text_hindi": "सतपुड़ा", "ans": false}
+ ],
+ "fact_eng": "The Pandavas climbed the Himalayas to seek entrance into heaven in their physical forms. ",
+ "fact_hindi": "पांडव अपने भौतिक शरीर के साथ स्वर्ग में प्रवेश की खोज में हिमालय पर चढ़े थे। "
+ },
+ {
+ "id": 178,
+ "que_en": "Who was the only Kaurava brother to survive the war because he fought for the Pandavas?",
+ "que_hi": "कौरव पक्ष का वह एकमात्र भाई कौन था जो युद्ध में जीवित रहा क्योंकि उसने पांडवों के लिए लड़ाई लड़ी थी?",
+ "options": [
+ {"text_eng": "Yuyutsu", "text_hindi": "युयुत्सु", "ans": true},
+ {"text_eng": "Vikarna", "text_hindi": "विकर्ण", "ans": false},
+ {"text_eng": "Dussasana", "text_hindi": "दुशासन", "ans": false},
+ {"text_eng": "Duryodhana", "text_hindi": "दुर्योधन", "ans": false}
+ ],
+ "fact_eng": "Yuyutsu was the son of Dhritarashtra and a maid servant, and he chose the path of Dharma. ",
+ "fact_hindi": "युयुत्सु धृतराष्ट्र और एक दासी का पुत्र थे, और उन्होंने धर्म का मार्ग चुना था। "
+ },
+ {
+ "id": 179,
+ "que_en": "Who was the mother of the warrior Ashwatthama?",
+ "que_hi": "योद्धा अश्वत्थामा की माता कौन थी?",
+ "options": [
+ {"text_eng": "Kripi", "text_hindi": "कृपी", "ans": true},
+ {"text_eng": "Uttara", "text_hindi": "उत्तरा", "ans": false},
+ {"text_eng": "Draupadi", "text_hindi": "द्रौपदी", "ans": false},
+ {"text_eng": "Subhadra", "text_hindi": "सुभद्रा", "ans": false}
+ ],
+ "fact_eng": "Kripi was the twin sister of Kripacharya and the wife of Dronacharya. ",
+ "fact_hindi": "कृपी कृपाचार्य की जुड़वां बहन और द्रोणाचार्य की पत्नी थीं। "
+ },
+ {
+ "id": 180,
+ "que_en": "What was the name of the conch shell of Lord Vishnu?",
+ "que_hi": "भगवान विष्णु के शंख का नाम क्या था?",
+ "options": [
+ {"text_eng": "Panchajanya", "text_hindi": "पाञ्चजन्य", "ans": true},
+ {"text_eng": "Devadatta", "text_hindi": "देवदत्त", "ans": false},
+ {"text_eng": "Paundra", "text_hindi": "पौण्ड्र", "ans": false},
+ {"text_eng": "Anantavijaya", "text_hindi": "अनन्तविजय", "ans": false}
+ ],
+ "fact_eng": "Panchajanya represents the five elements and the sound of the universe. ",
+ "fact_hindi": "पाञ्चजन्य पांच तत्वों और ब्रह्मांड की ध्वनि का प्रतिनिधित्व करता है। "
+ }
+]
